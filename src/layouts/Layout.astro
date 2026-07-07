@@ -25,6 +25,9 @@ const ADSENSE_PUBLISHER_ID = "ca-pub-4439427027667003";
 
 // Cambia esta variable con tu ID de medición de Google Analytics (ej. "G-XXXXXXXXXX") para rastrear las visitas de tu web
 const GOOGLE_ANALYTICS_ID = "G-0VCRW2F6SN"; 
+
+// Coloca aquí el código de verificación de Google Search Console si usas el método de etiqueta HTML (meta tag)
+const GOOGLE_SITE_VERIFICATION = ""; 
 ---
 
 <!DOCTYPE html>
@@ -33,6 +36,10 @@ const GOOGLE_ANALYTICS_ID = "G-0VCRW2F6SN";
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{title} | Pulso Finanzas</title>
+  
+  {GOOGLE_SITE_VERIFICATION && (
+    <meta name="google-site-verification" content={GOOGLE_SITE_VERIFICATION} />
+  )}
   
   {ADSENSE_PUBLISHER_ID && (
     <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_PUBLISHER_ID}`} crossorigin="anonymous"></script>
