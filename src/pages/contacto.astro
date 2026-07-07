@@ -1,0 +1,49 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Contacto" activeSection="home" showSidebar={true}>
+  <article class="reader-view">
+    <header class="article-header">
+      <span class="article-meta">Atención al Usuario</span>
+      <h1 class="article-title">Contacto</h1>
+      <p style="font-family: var(--font-sans); font-size: 0.8rem; color: var(--text-muted); margin-top: 10px;">Comunícate con el equipo editorial de Pulso Finanzas</p>
+    </header>
+
+    <div class="article-body" style="font-family: var(--font-sans); line-height: 1.6; color: var(--text-color);">
+      <p>¿Tienes dudas, sugerencias o deseas reportar un error en alguna de nuestras calculadoras? Nos encantaría escucharte. Puedes ponerte en contacto con nosotros escribiendo al siguiente correo electrónico oficial o completando nuestro formulario:</p>
+      
+      <div style="background-color: var(--bg-secondary); border: 1px solid var(--border-color); padding: 20px; border-radius: 6px; margin: 20px 0;">
+        <p style="margin: 0; font-size: 1.1rem; font-weight: 600; color: var(--color-red-gestion);">Correo de soporte:</p>
+        <p style="margin: 5px 0 0 0; font-family: monospace; font-size: 1.1rem;">soporte@pulsofinanzas.info</p>
+      </div>
+
+      <h2>Formulario de Contacto</h2>
+      <form style="display: flex; flex-direction: column; gap: 15px; margin-top: 20px;" onSubmit="event.preventDefault(); alert('Mensaje enviado. Nos pondremos en contacto contigo a la brevedad.');">
+        <div style="display: flex; flex-direction: column; gap: 5px;">
+          <label style="font-weight: 600; font-size: 0.9rem;">Nombre Completo</label>
+          <input type="text" required placeholder="Tu nombre" style="padding: 10px; border: 1px solid var(--border-color); border-radius: 4px; background-color: var(--bg-card); color: var(--text-color);" />
+        </div>
+
+        <div style="display: flex; flex-direction: column; gap: 5px;">
+          <label style="font-weight: 600; font-size: 0.9rem;">Correo Electrónico</label>
+          <input type="email" required placeholder="tu@correo.com" style="padding: 10px; border: 1px solid var(--border-color); border-radius: 4px; background-color: var(--bg-card); color: var(--text-color);" />
+        </div>
+
+        <div style="display: flex; flex-direction: column; gap: 5px;">
+          <label style="font-weight: 600; font-size: 0.9rem;">Mensaje</label>
+          <textarea rows="5" required placeholder="Escribe aquí tu consulta..." style="padding: 10px; border: 1px solid var(--border-color); border-radius: 4px; background-color: var(--bg-card); color: var(--text-color); resize: vertical;"></textarea>
+        </div>
+
+        <button type="submit" style="background-color: var(--color-red-gestion); color: white; border: none; padding: 12px; border-radius: 4px; font-weight: 600; cursor: pointer; transition: background-color 0.2s;">
+          Enviar Mensaje
+        </button>
+      </form>
+    </div>
+
+    <a href="/" class="reader-back-btn" style="margin-top: 30px;">
+      <svg viewBox="0 0 24 24"><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/></svg>
+      Volver a las Noticias
+    </a>
+  </article>
+</Layout>
