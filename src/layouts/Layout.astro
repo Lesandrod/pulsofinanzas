@@ -22,6 +22,9 @@ const {
 
 // Cambia esta variable con tu ID de editor de Google AdSense (ej. "ca-pub-1234567890123456") para habilitar los anuncios automáticos
 const ADSENSE_PUBLISHER_ID = ""; 
+
+// Cambia esta variable con tu ID de medición de Google Analytics (ej. "G-XXXXXXXXXX") para rastrear las visitas de tu web
+const GOOGLE_ANALYTICS_ID = ""; 
 ---
 
 <!DOCTYPE html>
@@ -33,6 +36,16 @@ const ADSENSE_PUBLISHER_ID = "";
   
   {ADSENSE_PUBLISHER_ID && (
     <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_PUBLISHER_ID}`} crossorigin="anonymous"></script>
+  )}
+
+  {GOOGLE_ANALYTICS_ID && (
+    <script async src={`https://www.googletagmanager.com/gtag/js?id=${GOOGLE_ANALYTICS_ID}`}></script>
+    <script is:inline set:html={`
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '${GOOGLE_ANALYTICS_ID}');
+    `} />
   )}
   
   <!-- SEO Meta Tags -->
@@ -211,7 +224,7 @@ const ADSENSE_PUBLISHER_ID = "";
             <ul class="news-feed-list">
               {newsData.map(news => (
                 <li class="news-feed-item">
-                  <span class="news-meta">{news.category} | Julio 2026</span>
+                  <span class="news-meta">{news.category} | <span class="news-time-ago" data-timestamp={news.timestamp}>{news.date}</span></span>
                   <a href={`/noticias/${news.id}`} class="news-title">
                     {news.title}
                   </a>
