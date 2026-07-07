@@ -1,0 +1,49 @@
+name: Ingesta Automática de Noticias
+
+on:
+  # Corre automáticamente cada 4 horas
+  schedule:
+    - cron: '0 */4 * * *'
+  # Permite ejecutar el robot manualmente con un botón desde la web de GitHub
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Descarga el código del repositorio
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    # 2. Configura Node.js (Igual a tu versión local)
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20
+
+    # 3. Ejecuta el script de ingesta (No requiere npm install porque usa fetch nativo!)
+    - name: Run News Scraper
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: node scripts/fetch-news.cjs
+
+    # 4. Guarda y sube los cambios de news.json al repositorio
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        
+        # Agrega el archivo JSON actualizado
+        git add public/news.json
+        
+        # Solo realiza el commit si hay cambios reales en las noticias
+        if ! git diff-index --quiet HEAD; then
+          git commit -m "chore: actualizar boletin de noticias [skip ci]"
+          git push origin main
+        else
+          echo "No hay noticias nuevas en esta ejecución. Sin cambios."
+        fi

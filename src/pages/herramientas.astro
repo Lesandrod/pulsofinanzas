@@ -1,0 +1,662 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout 
+  title="Calculadoras Financieras Gratis: Fondo de Emergencia, Interés Compuesto y Presupuesto" 
+  description="Simula tu fondo de emergencias, calcula el crecimiento de tu dinero con interés compuesto, planifica tu sueldo con la regla 50/30/20 y calcula pérdidas por inflación con nuestras herramientas gratuitas." 
+  keywords="calculadora fondo de emergencia, interes compuesto simulador, regla 50 30 20 presupuesto, pérdida por inflacion, plantillas excel ahorro gratis, finanzas personales herramientas"
+  activeSection="tools" 
+  showSidebar={false}
+>
+  
+  <div class="calculators-view-container">
+    
+    <!-- Navigation Header for Calculators -->
+    <div class="calc-nav-top">
+      <h2>Herramientas y Calculadoras</h2>
+      <a href="/" class="btn btn-back-home" id="btn-back-to-news">Volver a las Noticias</a>
+    </div>
+
+    <!-- Calculators Tab Selector -->
+    <ul class="tabs-nav-calculators" role="tablist">
+      <li><button class="tab-btn-calc active" data-tab="tab-fondo">Fondo de Emergencia</button></li>
+      <li><button class="tab-btn-calc" data-tab="tab-interes">Interés Compuesto</button></li>
+      <li><button class="tab-btn-calc" data-tab="tab-presupuesto">Presupuesto 50/30/20</button></li>
+      <li><button class="tab-btn-calc" data-tab="tab-inflacion">Pérdida por Inflación</button></li>
+      <li><button class="tab-btn-calc" data-tab="tab-libertad">Libertad Financiera (4%)</button></li>
+      <li><button class="tab-btn-calc" data-tab="tab-oportunidad">Costo de Oportunidad</button></li>
+      <li><button class="tab-btn-calc" data-tab="tab-endeudamiento">Capacidad de Endeudamiento</button></li>
+      <li><button class="tab-btn-calc" data-tab="tab-valortiempo">Valor de tu Tiempo</button></li>
+      <li><button class="tab-btn-calc" data-tab="tab-roi">Retorno de Inversión (ROI)</button></li>
+      <li><button class="tab-btn-calc" data-tab="tab-plantillas">Plantillas Excel Gratis</button></li>
+    </ul>
+
+    <!-- Calculations Panes -->
+    
+    <!-- TAB A: FONDO DE EMERGENCIA -->
+    <div class="tab-pane active" id="tab-fondo" role="tabpanel">
+      <div class="calculator-card">
+        <h2>Calculadora de Fondo de Emergencias</h2>
+        <p class="card-intro">El fondo de emergencias es tu escudo protector de tranquilidad financiera. Calcula cuánto necesitas guardar para cubrir tus gastos fijos si te quedas sin ingresos.</p>
+        
+        <div class="calc-grid">
+          <form class="calc-inputs" id="fondo-form">
+            <div class="form-group">
+              <label for="gastos-mensuales">Gastos Fijos Mensuales Promedio (USD)</label>
+              <input type="number" id="gastos-mensuales" class="form-control" placeholder="Ej. 1200" required min="1">
+            </div>
+            
+            <div class="form-group">
+              <label for="ahorro-actual">Ahorro Actual para Emergencias (USD)</label>
+              <input type="number" id="ahorro-actual" class="form-control" placeholder="Ej. 500" required min="0">
+            </div>
+
+            <div class="form-row">
+              <div class="calc-row">
+                <div class="form-group">
+                  <label for="meses-cobertura">Cobertura Deseada (Meses)</label>
+                  <select id="meses-cobertura" class="form-control" required>
+                    <option value="3">3 Meses (Estándar mínimo)</option>
+                    <option value="6" selected>6 Meses (Recomendado estable)</option>
+                    <option value="9">9 Meses (Trabajo independiente)</option>
+                    <option value="12">12 Meses (Protección máxima)</option>
+                  </select>
+                </div>
+                <div class="form-group">
+                  <label for="ahorro-mensual-capacidad">Capacidad de Ahorro Mensual (USD)</label>
+                  <input type="number" id="ahorro-mensual-capacidad" class="form-control" placeholder="Ej. 200" required min="1">
+                </div>
+              </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary" style="margin-top: 10px;">Calcular Fondo</button>
+          </form>
+
+          <div class="results-panel" aria-live="polite">
+            <span class="results-header">Tu Plan de Emergencias</span>
+            
+            <div class="total-payout">
+              <span class="total-label">Fondo Objetivo Requerido</span>
+              <span class="total-amount" id="res-fondo-objetivo">$0.00</span>
+            </div>
+
+            <ul class="breakdown-list">
+              <li class="breakdown-item">
+                <span class="breakdown-label">Meses Cubiertos Actualmente</span>
+                <span class="breakdown-value" id="res-cobertura-meses" style="font-weight: 700;">0 meses</span>
+              </li>
+              <li class="breakdown-item">
+                <span class="breakdown-label">Faltante por Ahorrar (Brecha)</span>
+                <span class="breakdown-value" id="res-brecha-fondo" style="font-weight: 700; color: var(--color-red-gestion);">$0.00</span>
+              </li>
+              <li class="breakdown-item">
+                <span class="breakdown-label">Tiempo para Completarlo</span>
+                <span class="breakdown-value" id="res-meses-restantes-tiempo" style="font-weight: 700; color: #10B981;">0 meses</span>
+              </li>
+            </ul>
+
+            <!-- Explicación sencilla del resultado -->
+            <div id="fondo-explicacion" style="margin-top: 25px; padding-top: 20px; border-top: 1px solid rgba(0, 0, 0, 0.08); font-size: 0.85rem; line-height: 1.6; color: var(--text-main); display: none;">
+              <div id="fondo-explicacion-texto"></div>
+            </div>
+          </div>
+        </div>
+        
+
+      </div>
+    </div>
+
+    <!-- TAB B: INTERÉS COMPUESTO -->
+    <div class="tab-pane" id="tab-interes" role="tabpanel">
+      <div class="calculator-card">
+        <h2>Calculadora de Interés Compuesto</h2>
+        <p class="card-intro">Planifica tu futuro financiero simulando el crecimiento de tu dinero a mediano y largo plazo mediante la reinversión constante de rendimientos.</p>
+        
+        <div class="calc-grid">
+          <form class="calc-inputs" id="inversion-form">
+            <div class="form-group">
+              <label for="capital">Capital Inicial / Depósito de Apertura (USD)</label>
+              <input type="number" id="capital" class="form-control" placeholder="Ej. 10000" required min="1">
+            </div>
+            
+            <div class="form-group">
+              <label for="aportacion">Aportación Mensual Recurrente</label>
+              <input type="number" id="aportacion" class="form-control" placeholder="Ej. 1000" required min="0">
+            </div>
+
+            <div class="form-row">
+              <div class="calc-row">
+                <div class="form-group">
+                  <label for="tasa">Tasa de Interés Anual (%)</label>
+                  <input type="number" id="tasa" class="form-control" placeholder="Ej. 11.5" step="0.1" required min="0.1">
+                </div>
+                <div class="form-group">
+                  <label for="plazo">Plazo (Años)</label>
+                  <input type="number" id="plazo" class="form-control" placeholder="Ej. 10" required min="1" max="40">
+                </div>
+              </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary" style="margin-top: 10px;">Simular Proyección</button>
+          </form>
+
+          <div class="results-panel" aria-live="polite">
+            <span class="results-header">Capital Acumulado Final</span>
+            
+            <div class="total-payout">
+              <span class="total-label">Monto Final Proyectado</span>
+              <span class="total-amount" id="res-total-inv">$0.00</span>
+            </div>
+
+            <ul class="breakdown-list">
+              <li class="breakdown-item">
+                <span class="breakdown-label">Capital Total Invertido (Tus depósitos)</span>
+                <span class="breakdown-value" id="res-invertido">$0.00</span>
+              </li>
+              <li class="breakdown-item">
+                <span class="breakdown-label">Intereses Totales Ganados (Rendimiento)</span>
+                <span class="breakdown-value" id="res-interes-ganado">$0.00</span>
+              </li>
+            </ul>
+
+            <!-- Explicación sencilla del resultado -->
+            <div id="interes-explicacion" style="margin-top: 25px; padding-top: 20px; border-top: 1px solid rgba(0, 0, 0, 0.08); font-size: 0.85rem; line-height: 1.6; color: var(--text-main); display: none;">
+              <div id="interes-explicacion-texto"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="chart-card">
+          <h3>Gráfico de Proyección Histórica</h3>
+          <div class="bar-chart" id="bar-chart"></div>
+          <div class="chart-legend">
+            <div class="legend-item"><div class="legend-color principal"></div><span>Principal Invertido</span></div>
+            <div class="legend-item"><div class="legend-color interes"></div><span>Interés Compuesto Ganado</span></div>
+          </div>
+        </div>
+
+        <div class="table-wrapper">
+          <table class="projection-table" id="projection-table">
+            <thead>
+              <tr>
+                <th>Año</th>
+                <th>Capital Invertido</th>
+                <th>Interés Acumulado</th>
+                <th>Balance Total</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+
+
+      </div>
+    </div>
+
+    <!-- TAB D: PRESUPUESTO 50/30/20 -->
+    <div class="tab-pane" id="tab-presupuesto" role="tabpanel">
+      <div class="calculator-card">
+        <h2>Calculadora de Presupuesto 50/30/20</h2>
+        <p class="card-intro">Divide tus ingresos mensuales de forma inteligente: destina 50% a tus necesidades básicas, 30% a tus deseos de ocio, y un 20% sagrado a tu ahorro e inversiones.</p>
+        
+        <div class="calc-grid">
+          <form class="calc-inputs" id="presupuesto-form">
+            <div class="form-group">
+              <label for="ingreso-presupuesto">Tus Ingresos Mensuales Netos (USD)</label>
+              <input type="number" id="ingreso-presupuesto" class="form-control" placeholder="Ej. 15000" required min="1">
+            </div>
+            <button type="submit" class="btn btn-primary" style="margin-top: 10px;">Calcular Presupuesto</button>
+          </form>
+
+          <div class="results-panel" aria-live="polite">
+            <span class="results-header">Distribución de tu Sueldo</span>
+            
+            <div class="total-payout" style="border-bottom: 1px solid rgba(0,0,0,0.1); padding-bottom: 15px; margin-bottom: 15px;">
+              <span class="total-label" style="font-weight: 500;">50% Necesidades (Vivienda, Comida, Servicios)</span>
+              <span class="total-amount" id="res-needs" style="color: var(--text-main); font-size: 1.8rem;">$0.00</span>
+            </div>
+
+            <ul class="breakdown-list">
+              <li class="breakdown-item">
+                <span class="breakdown-label">30% Deseos (Ocio, Gustos, Salidas)</span>
+                <span class="breakdown-value" id="res-wants" style="font-weight: 700; color: var(--color-red-gestion);">$0.00</span>
+              </li>
+              <li class="breakdown-item">
+                <span class="breakdown-label">20% Ahorro / Inversión / Deudas</span>
+                <span class="breakdown-value" id="res-savings" style="font-weight: 700; color: #10B981;">$0.00</span>
+              </li>
+            </ul>
+
+            <!-- Explicación sencilla del resultado -->
+            <div id="presupuesto-explicacion" style="margin-top: 25px; padding-top: 20px; border-top: 1px solid rgba(0, 0, 0, 0.08); font-size: 0.85rem; line-height: 1.6; color: var(--text-main); display: none;">
+              <div id="presupuesto-explicacion-texto"></div>
+            </div>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+
+    <!-- TAB E: CALCULADORA DE INFLACIÓN -->
+    <div class="tab-pane" id="tab-inflacion" role="tabpanel">
+      <div class="calculator-card">
+        <h2>Calculadora de Pérdida por Inflación</h2>
+        <p class="card-intro">Visualiza el efecto silencioso de la inflación. Descubre cuánto poder de compra perderá tu dinero en efectivo a lo largo del tiempo si decides no invertirlo.</p>
+        
+        <div class="calc-grid">
+          <form class="calc-inputs" id="inflacion-form">
+            <div class="form-group">
+              <label for="monto-inflacion">Monto de Ahorro en Efectivo (USD)</label>
+              <input type="number" id="monto-inflacion" class="form-control" placeholder="Ej. 50000" required min="1">
+            </div>
+            
+            <div class="form-row">
+              <div class="calc-row">
+                <div class="form-group">
+                  <label for="tasa-inflacion">Tasa de Inflación Anual Estimada (%)</label>
+                  <input type="number" id="tasa-inflacion" class="form-control" placeholder="Ej. 6.5" step="0.1" required min="0.1">
+                </div>
+                <div class="form-group">
+                  <label for="anos-inflacion">Años de Espera</label>
+                  <input type="number" id="anos-inflacion" class="form-control" placeholder="Ej. 5" required min="1" max="50">
+                </div>
+              </div>
+            </div>
+            
+            <button type="submit" class="btn btn-primary" style="margin-top: 10px;">Calcular Impacto</button>
+          </form>
+
+          <div class="results-panel" aria-live="polite">
+            <span class="results-header">Impacto de la Inflación</span>
+            
+            <div class="total-payout" style="background-color: #FEF2F2; border: 1px solid #FCA5A5; border-radius: 4px; padding: 15px; margin-bottom: 20px;">
+              <span class="total-label" style="color: #991B1B; font-weight: 500;">Poder Adquisitivo Restante (Valor Real de Compra)</span>
+              <span class="total-amount" id="res-poder-restante" style="color: #B91C1C; font-size: 1.8rem;">$0.00</span>
+            </div>
+
+            <ul class="breakdown-list">
+              <li class="breakdown-item">
+                <span class="breakdown-label">Pérdida de Valor (Dinero "Quemado")</span>
+                <span class="breakdown-value" id="res-perdida-total" style="font-weight: 700; color: #DC2626;">$0.00</span>
+              </li>
+              <li class="breakdown-item">
+                <span class="breakdown-label">Poder Adquisitivo Perdido</span>
+                <span class="breakdown-value" id="res-porcentaje-perdida" style="font-weight: 700; color: #DC2626;">0%</span>
+              </li>
+            </ul>
+
+            <!-- Explicación sencilla del resultado -->
+            <div id="inflacion-explicacion" style="margin-top: 25px; padding-top: 20px; border-top: 1px solid rgba(0, 0, 0, 0.08); font-size: 0.85rem; line-height: 1.6; color: var(--text-main); display: none;">
+              <div id="inflacion-explicacion-texto"></div>
+            </div>
+          </div>
+        </div>
+
+
+        
+        <div style="background-color: var(--bg-secondary); border: 1px solid var(--border-color); padding: 20px; border-radius: 4px; margin-top: 25px; text-align: center;">
+          <h4 style="font-family: var(--font-sans); font-size: 0.95rem; font-weight: 800; color: var(--text-main); margin-bottom: 8px;">¿Cómo evitar esta pérdida de valor?</h4>
+          <p style="font-family: var(--font-body); font-size: 0.85rem; color: var(--text-muted); line-height: 1.6; margin-bottom: 15px;">La única forma de vencer a la inflación es invirtiendo en instrumentos con rendimientos mayores a la tasa inflacionaria.</p>
+          <a href="#tab-interes" class="btn btn-primary tab-btn-calc-direct" style="display: inline-block; font-size: 0.8rem; padding: 8px 16px; width: auto; font-family: var(--font-sans); text-decoration: none;">Simular inversión con Interés Compuesto →</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB E: LIBERTAD FINANCIERA (REGLA DEL 4%) -->
+    <div class="tab-pane" id="tab-libertad" role="tabpanel">
+      <div class="calculator-card">
+        <h2>Calculadora de Libertad Financiera (Regla del 4%)</h2>
+        <p class="card-intro">Descubre el capital exacto que necesitas acumular para poder retirarte hoy mismo y vivir de tus inversiones de forma indefinida, siguiendo la famosa regla del 4% del estudio Trinity.</p>
+        
+        <div class="calc-grid">
+          <form class="calc-inputs" id="libertad-form">
+            <div class="form-group">
+              <label for="gastos-mensuales-libertad">Tus Gastos Mensuales Estimados en Retiro (USD)</label>
+              <input type="number" id="gastos-mensuales-libertad" class="form-control" placeholder="Ej. 2000" required min="1">
+            </div>
+            
+            <div class="form-group">
+              <label for="ahorro-actual-libertad">Ahorro/Inversiones Actuales (USD)</label>
+              <input type="number" id="ahorro-actual-libertad" class="form-control" placeholder="Ej. 15000" required min="0">
+            </div>
+
+            <div class="form-row">
+              <div class="calc-row">
+                <div class="form-group">
+                  <label for="tasa-retiro-seguro">Tasa de Retiro Seguro Anual (%)</label>
+                  <input type="number" id="tasa-retiro-seguro" class="form-control" value="4.0" step="0.1" required min="1" max="10">
+                </div>
+                <div class="form-group">
+                  <label for="ahorro-mensual-libertad">Ahorro Mensual Recurrente para Retiro (USD)</label>
+                  <input type="number" id="ahorro-mensual-libertad" class="form-control" placeholder="Ej. 500" required min="1">
+                </div>
+              </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary" style="margin-top: 10px;">Calcular Libertad Financiera</button>
+          </form>
+
+          <div class="results-panel" aria-live="polite">
+            <span class="results-header">Tu Meta de Libertad</span>
+            
+            <div class="total-payout">
+              <span class="total-label">Capital de Retiro Requerido (Meta)</span>
+              <span class="total-amount" id="res-capital-libertad">$0.00</span>
+            </div>
+
+            <ul class="breakdown-list">
+              <li class="breakdown-item">
+                <span class="breakdown-label">Progreso Actual de la Meta</span>
+                <span class="breakdown-value" id="res-progreso-libertad" style="font-weight: 700;">0%</span>
+              </li>
+              <li class="breakdown-item">
+                <span class="breakdown-label">Capital Faltante</span>
+                <span class="breakdown-value" id="res-faltante-libertad" style="font-weight: 700; color: var(--color-red-gestion);">$0.00</span>
+              </li>
+              <li class="breakdown-item">
+                <span class="breakdown-label">Tiempo Estimado de Ahorro</span>
+                <span class="breakdown-value" id="res-anos-restantes-libertad" style="font-weight: 700; color: #10B981;">0 años</span>
+              </li>
+            </ul>
+
+            <!-- Explicación sencilla del resultado -->
+            <div id="libertad-explicacion" style="margin-top: 25px; padding-top: 20px; border-top: 1px solid rgba(0, 0, 0, 0.08); font-size: 0.85rem; line-height: 1.6; color: var(--text-main); display: none;">
+              <div id="libertad-explicacion-texto"></div>
+            </div>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+
+    <!-- TAB F: COSTO DE OPORTUNIDAD (GASTO VS INVERSIÓN) -->
+    <div class="tab-pane" id="tab-oportunidad" role="tabpanel">
+      <div class="calculator-card">
+        <h2>Calculadora de Costo de Oportunidad (Gasto vs Inversión)</h2>
+        <p class="card-intro">Descubre el impacto oculto de tus gastos pequeños o recurrentes. Mira cuánto dinero tendrías si en lugar de gastar en suscripciones, cafés o salidas, hubieses invertido ese dinero en el mercado.</p>
+        
+        <div class="calc-grid">
+          <form class="calc-inputs" id="oportunidad-form">
+            <div class="form-group">
+              <label for="monto-gasto">Monto del Gasto Recurrente (USD)</label>
+              <input type="number" id="monto-gasto" class="form-control" placeholder="Ej. 15" required min="1">
+            </div>
+            
+            <div class="form-group">
+              <label for="frecuencia-gasto">Frecuencia del Gasto</label>
+              <select id="frecuencia-gasto" class="form-control" required>
+                <option value="diario">Diario (ej. café, refresco, cigarrillos)</option>
+                <option value="semanal">Semanal (ej. salidas, comida rápida)</option>
+                <option value="mensual" selected>Mensual (ej. Netflix, gimnasio, suscripciones)</option>
+                <option value="anual">Anual (ej. membresías, suscripción anual)</option>
+              </select>
+            </div>
+
+            <div class="form-row">
+              <div class="calc-row">
+                <div class="form-group">
+                  <label for="anos-oportunidad">Años Proyectados de Ahorro</label>
+                  <input type="number" id="anos-oportunidad" class="form-control" value="10" required min="1" max="40">
+                </div>
+                <div class="form-group">
+                  <label for="tasa-oportunidad">Tasa de Rendimiento Anual Estimada (%)</label>
+                  <input type="number" id="tasa-oportunidad" class="form-control" value="9.0" step="0.1" required min="1" max="25">
+                </div>
+              </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary" style="margin-top: 10px;">Calcular Costo de Oportunidad</button>
+          </form>
+
+          <div class="results-panel" aria-live="polite">
+            <span class="results-header">Costo de Oportunidad Oculto</span>
+            
+            <div class="total-payout" style="background-color: #FEF2F2; border: 1px solid #FCA5A5; border-radius: 4px; padding: 15px; margin-bottom: 20px;">
+              <span class="total-label" style="color: #991B1B; font-weight: 500;">Futura Riqueza Perdida (Valor Futuro Invertido)</span>
+              <span class="total-amount" id="res-riqueza-perdida" style="color: #B91C1C; font-size: 1.8rem;">$0.00</span>
+            </div>
+
+            <ul class="breakdown-list">
+              <li class="breakdown-item">
+                <span class="breakdown-label">Total Gastado Físicamente</span>
+                <span class="breakdown-value" id="res-total-gastado" style="font-weight: 700;">$0.00</span>
+              </li>
+              <li class="breakdown-item">
+                <span class="breakdown-label">Intereses No Ganados (Interés Perdido)</span>
+                <span class="breakdown-value" id="res-intereses-perdidos" style="font-weight: 700; color: var(--color-red-gestion);">$0.00</span>
+              </li>
+            </ul>
+
+            <!-- Explicación sencilla del resultado -->
+            <div id="oportunidad-explicacion" style="margin-top: 25px; padding-top: 20px; border-top: 1px solid rgba(0, 0, 0, 0.08); font-size: 0.85rem; line-height: 1.6; color: var(--text-main); display: none;">
+              <div id="oportunidad-explicacion-texto"></div>
+            </div>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+
+    <!-- TAB G: CAPACIDAD DE ENDEUDAMIENTO (RATIO DTI) -->
+    <div class="tab-pane" id="tab-endeudamiento" role="tabpanel">
+      <div class="calculator-card">
+        <h2>Calculadora de Capacidad de Endeudamiento (DTI)</h2>
+        <p class="card-intro">Calcula tu salud financiera frente a las deudas. Descubre tu ratio de endeudamiento (Debt-to-Income) y averigua si los bancos te considerarían un perfil apto para un préstamo o hipoteca.</p>
+        
+        <div class="calc-grid">
+          <form class="calc-inputs" id="endeudamiento-form">
+            <div class="form-group">
+              <label for="ingreso-mensual-neto">Tus Ingresos Mensuales Netos (USD)</label>
+              <input type="number" id="ingreso-mensual-neto" class="form-control" placeholder="Ej. 3000" required min="1">
+            </div>
+            
+            <div class="form-group">
+              <label for="pagos-deudas-actuales">Tus Pagos Mensuales de Deudas Actuales (Tarjetas, Préstamos) (USD)</label>
+              <input type="number" id="pagos-deudas-actuales" class="form-control" placeholder="Ej. 400" required min="0">
+            </div>
+
+            <div class="form-group">
+              <label for="vivienda-actual-alquiler">Pago Mensual de Alquiler o Hipoteca Actual/Futura (USD)</label>
+              <input type="number" id="vivienda-actual-alquiler" class="form-control" placeholder="Ej. 800" required min="0">
+            </div>
+
+            <button type="submit" class="btn btn-primary" style="margin-top: 10px;">Calcular Capacidad</button>
+          </form>
+
+          <div class="results-panel" aria-live="polite">
+            <span class="results-header">Tu Perfil de Deuda</span>
+            
+            <div class="total-payout" id="payout-dti-container" style="background-color: #F8FAFC; border: 1px solid #E2E8F0; border-radius: 4px; padding: 15px; margin-bottom: 20px; transition: all 0.3s ease;">
+              <span class="total-label">Tu Ratio de Endeudamiento (DTI)</span>
+              <span class="total-amount" id="res-ratio-dti" style="font-size: 2.1rem; font-weight: 800;">0%</span>
+            </div>
+
+            <ul class="breakdown-list">
+              <li class="breakdown-item">
+                <span class="breakdown-label">Estado de Deuda</span>
+                <span class="breakdown-value" id="res-estado-dti" style="font-weight: 700; text-transform: uppercase;">Zona Segura</span>
+              </li>
+              <li class="breakdown-item">
+                <span class="breakdown-label">Límite Recomendado por Bancos (35%)</span>
+                <span class="breakdown-value" id="res-limite-bancario" style="font-weight: 700;">$0.00 al mes</span>
+              </li>
+              <li class="breakdown-item">
+                <span class="breakdown-label">Capacidad Libre de Pago Adicional</span>
+                <span class="breakdown-value" id="res-capacidad-libre" style="font-weight: 700; color: #10B981;">$0.00 al mes</span>
+              </li>
+            </ul>
+
+            <!-- Explicación sencilla del resultado -->
+            <div id="endeudamiento-explicacion" style="margin-top: 25px; padding-top: 20px; border-top: 1px solid rgba(0, 0, 0, 0.08); font-size: 0.85rem; line-height: 1.6; color: var(--text-main); display: none;">
+              <div id="endeudamiento-explicacion-texto"></div>
+            </div>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+
+    <!-- TAB H: VALOR DE TU TIEMPO -->
+    <div class="tab-pane" id="tab-valortiempo" role="tabpanel">
+      <div class="calculator-card">
+        <h2>Calculadora del Valor de tu Tiempo (Horas de Trabajo)</h2>
+        <p class="card-intro">Descubre cuánto vale una hora de tu esfuerzo laboral y traduce tus antojos y compras en las horas reales de vida que te costará pagarlos. Te dará una perspectiva completamente nueva del gasto.</p>
+        
+        <div class="calc-grid">
+          <form class="calc-inputs" id="valortiempo-form">
+            <div class="form-group">
+              <label for="ingreso-mensual-tiempo">Tus Ingresos Mensuales Netos (USD)</label>
+              <input type="number" id="ingreso-mensual-tiempo" class="form-control" placeholder="Ej. 2500" required min="1">
+            </div>
+            
+            <div class="form-group">
+              <label for="horas-semanales-tiempo">Horas de Trabajo a la Semana</label>
+              <input type="number" id="horas-semanales-tiempo" class="form-control" value="40" required min="1" max="100">
+            </div>
+
+            <div class="form-group">
+              <label for="costo-articulo">Precio del Artículo que Deseas Comprar (USD)</label>
+              <input type="number" id="costo-articulo" class="form-control" placeholder="Ej. 1000 (como un celular)" required min="1">
+            </div>
+
+            <button type="submit" class="btn btn-primary" style="margin-top: 10px;">Calcular Valor de mi Tiempo</button>
+          </form>
+
+          <div class="results-panel" aria-live="polite">
+            <span class="results-header">El Costo Real en Horas de Vida</span>
+            
+            <div class="total-payout" style="background-color: #F0FDF4; border: 1px solid #BBF7D0; border-radius: 4px; padding: 15px; margin-bottom: 20px;">
+              <span class="total-label" style="color: #166534; font-weight: 500;">Valor Real de tu Tiempo por Hora</span>
+              <span class="total-amount" id="res-valor-hora" style="color: #15803D; font-size: 2.1rem;">$0.00 / hora</span>
+            </div>
+
+            <ul class="breakdown-list">
+              <li class="breakdown-item">
+                <span class="breakdown-label">Horas Totales Trabajadas al Mes</span>
+                <span class="breakdown-value" id="res-horas-mensuales" style="font-weight: 700;">0 hrs</span>
+              </li>
+              <li class="breakdown-item">
+                <span class="breakdown-label">Costo del Artículo en Horas de Trabajo</span>
+                <span class="breakdown-value" id="res-costo-horas-vida" style="font-weight: 700; color: var(--color-red-gestion);">0.0 horas</span>
+              </li>
+              <li class="breakdown-item">
+                <span class="breakdown-label">Días Completos de Trabajo Equivalentes</span>
+                <span class="breakdown-value" id="res-costo-dias-vida" style="font-weight: 700; color: #1E3A8A;">0.0 días</span>
+              </li>
+            </ul>
+
+            <!-- Explicación sencilla del resultado -->
+            <div id="valortiempo-explicacion" style="margin-top: 25px; padding-top: 20px; border-top: 1px solid rgba(0, 0, 0, 0.08); font-size: 0.85rem; line-height: 1.6; color: var(--text-main); display: none;">
+              <div id="valortiempo-explicacion-texto"></div>
+            </div>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+
+    <!-- TAB I: RETORNO DE INVERSIÓN (ROI) -->
+    <div class="tab-pane" id="tab-roi" role="tabpanel">
+      <div class="calculator-card">
+        <h2>Calculadora de Retorno de Inversión (ROI) Simple</h2>
+        <p class="card-intro">Calcula la rentabilidad real de cualquier inversión (negocios, acciones, cripto, bienes raíces). Averigua tu ganancia neta y el porcentaje exacto de retorno total obtenido.</p>
+        
+        <div class="calc-grid">
+          <form class="calc-inputs" id="roi-form">
+            <div class="form-group">
+              <label for="monto-inicial-roi">Monto de la Inversión Inicial (USD)</label>
+              <input type="number" id="monto-inicial-roi" class="form-control" placeholder="Ej. 5000" required min="1">
+            </div>
+            
+            <div class="form-group">
+              <label for="monto-final-roi">Valor de Venta / Valor Actual Final (USD)</label>
+              <input type="number" id="monto-final-roi" class="form-control" placeholder="Ej. 6200" required min="0">
+            </div>
+
+            <div class="form-group">
+              <label for="ingresos-adicionales-roi">Ingresos Adicionales Recibidos (Dividendos, Renta, etc.) (USD)</label>
+              <input type="number" id="ingresos-adicionales-roi" class="form-control" value="0" min="0">
+            </div>
+
+            <button type="submit" class="btn btn-primary" style="margin-top: 10px;">Calcular Retorno (ROI)</button>
+          </form>
+
+          <div class="results-panel" aria-live="polite">
+            <span class="results-header">Rentabilidad Obtenida</span>
+            
+            <div class="total-payout" id="payout-roi-container" style="background-color: #F8FAFC; border: 1px solid #E2E8F0; border-radius: 4px; padding: 15px; margin-bottom: 20px; transition: all 0.3s ease;">
+              <span class="total-label">Retorno Total de la Inversión (ROI)</span>
+              <span class="total-amount" id="res-porcentaje-roi" style="font-size: 2.1rem; font-weight: 800;">0%</span>
+            </div>
+
+            <ul class="breakdown-list">
+              <li class="breakdown-item">
+                <span class="breakdown-label">Ganancia/Pérdida Neta</span>
+                <span class="breakdown-value" id="res-ganancia-roi" style="font-weight: 700;">$0.00</span>
+              </li>
+              <li class="breakdown-item">
+                <span class="breakdown-label">Retorno Absoluto sobre Capital</span>
+                <span class="breakdown-value" id="res-multiplo-roi" style="font-weight: 700;">1.00x</span>
+              </li>
+            </ul>
+
+            <!-- Explicación sencilla del resultado -->
+            <div id="roi-explicacion" style="margin-top: 25px; padding-top: 20px; border-top: 1px solid rgba(0, 0, 0, 0.08); font-size: 0.85rem; line-height: 1.6; color: var(--text-main); display: none;">
+              <div id="roi-explicacion-texto"></div>
+            </div>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+
+    <!-- TAB C: PLANTILLAS -->
+    <div class="tab-pane" id="tab-plantillas" role="tabpanel">
+      <div class="calculator-card">
+        <h2>Plantillas Excel Gratuitas para Finanzas</h2>
+        <p class="card-intro">Descarga gratis nuestras plantillas diseñadas profesionalmente para organizar tu presupuesto doméstico, calcular tu plan de ahorro e iniciar tus proyectos financieros.</p>
+        
+        <div class="template-grid">
+          <div class="template-card">
+            <div class="template-icon">
+              <svg viewBox="0 0 24 24"><path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm2 16H8v-2h8v2zm0-4H8v-2h8v2zm-3-5V3.5L18.5 9H13z"/></svg>
+            </div>
+            <h3>Plantilla de Control de Presupuesto Mensual</h3>
+            <p>La plantilla definitiva en formato Excel (.xlsx) con múltiples hojas, validaciones de datos desplegables y fórmulas automáticas para registrar tus ingresos, gastos fijos y variables, y calcular tu saldo de ahorro neto mensual de forma estructurada.</p>
+            <div id="template-info-box">
+              <button class="btn btn-primary" id="download-template-btn">Descargar Plantilla Premium (.XLSX)</button>
+            </div>
+            <div class="download-timer-screen" id="download-timer-screen">
+              <div class="progress-ring">
+                <svg>
+                  <circle class="progress-ring-bg" cx="30" cy="30" r="28"></circle>
+                  <circle class="progress-ring-bar" cx="30" cy="30" r="28"></circle>
+                </svg>
+                <span class="timer-countdown-val" id="timer-countdown-val">5</span>
+              </div>
+              <p class="download-status-text">Generando enlace de descarga seguro...</p>
+            </div>
+          </div>
+
+          <div class="template-card" style="opacity: 0.75;">
+            <div class="template-icon">
+              <svg viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"/></svg>
+            </div>
+            <h3>Plantilla de Proyección de Ahorro e Interés</h3>
+            <p>Calcula el crecimiento histórico de tus inversiones recurrentes y simula carteras de renta fija mediante esta plantilla automatizada.</p>
+            <button class="btn btn-secondary" disabled>Próximamente disponible</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</Layout>

@@ -1,0 +1,123 @@
+---
+import Layout from '../layouts/Layout.astro';
+import newsData from '../../public/news.json';
+
+const mainStory = newsData[0];
+const secondaryStories = newsData.slice(1, 4); // Shows next stories
+---
+
+<Layout title="Diario Financiero de Noticias y Herramientas Económicas" activeSection="home" showSidebar={true}>
+  
+  <!-- Portada Section (Gestión 2/3 and 1/3 news split) -->
+  <section class="portada-section" aria-label="Portada de Noticias">
+    
+    <div class="portada-split" id="portada-layout">
+      
+      <!-- Left: Main Story (2/3 width) -->
+      {mainStory && (
+        <article class="portada-main-story">
+          <div class="featured-img-placeholder">
+            <span>Noticia Destacada</span>
+          </div>
+          <span class="main-story-badge">{mainStory.category}</span>
+          <h1 class="main-story-title">
+            <a href={`/noticias/${mainStory.id}`}>{mainStory.title}</a>
+          </h1>
+          <p class="main-story-desc">
+            {mainStory.summary}
+          </p>
+          <a href={`/noticias/${mainStory.id}`} class="main-story-link">
+            <span>Leer noticia completa</span>
+            <svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </a>
+        </article>
+      )}
+
+      <!-- Right: Secondary Stories (1/3 width) -->
+      <div class="portada-secondary-list">
+        <h2>Noticias del Día</h2>
+        
+        {secondaryStories.map(story => (
+          <article class="sec-story-card">
+            <span class="sec-story-badge">{story.category}</span>
+            <h3 class="sec-story-title">
+              <a href={`/noticias/${story.id}`}>{story.title}</a>
+            </h3>
+            <p class="sec-story-desc">{story.summary}</p>
+          </article>
+        ))}
+      </div>
+
+    </div>
+
+    <!-- Bloque Inferior: Guías de Ahorro y Opinión (Categories) -->
+    <div class="category-section" id="bloque-guias">
+      <h2 class="category-section-title">Guías y Columnas de Ahorro</h2>
+      <div class="guides-grid">
+        
+        <!-- Column 1 -->
+        <article class="guide-card">
+          <span class="guide-badge">Métodos de Ahorro</span>
+          <h3><a href="/noticias/guia-50-30-20">La Regla 50/30/20: Cómo repartir tu sueldo sin esfuerzo</a></h3>
+          <p>Aprende a distribuir tus ingresos mensuales de forma inteligente: 50% para necesidades, 30% para tus gustos y 20% para tu ahorro futuro.</p>
+          <a href="/noticias/guia-50-30-20" class="guide-link">
+            <span>Leer columna</span>
+            <svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </a>
+        </article>
+
+        <!-- Column 2 -->
+        <article class="guide-card">
+          <span class="guide-badge">Finanzas Personales</span>
+          <h3><a href="/noticias/guia-bola-nieve">El Método de la Bola de Nieve para salir de deudas rápido</a></h3>
+          <p>Si tienes múltiples deudas, este método psicológico te ayudará a liquidarlas una a una empezando por la más pequeña de forma efectiva.</p>
+          <a href="/noticias/guia-bola-nieve" class="guide-link">
+            <span>Leer columna</span>
+            <svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </a>
+        </article>
+
+        <!-- Column 3 -->
+        <article class="guide-card">
+          <span class="guide-badge">Fuga de Dinero</span>
+          <h3><a href="/noticias/guia-gastos-hormiga">5 Gastos Hormiga que están destruyendo tu presupuesto</a></h3>
+          <p>El café diario, las suscripciones de streaming que no usas o las compras impulsivas. Pequeñas fugas de dinero que representan una fortuna a fin de año.</p>
+          <a href="/noticias/guia-gastos-hormiga" class="guide-link">
+            <span>Leer columna</span>
+            <svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </a>
+        </article>
+
+      </div>
+      <div style="margin-top: 30px; text-align: center;">
+        <a href="/guias" class="btn btn-secondary" style="display: inline-flex; width: auto; font-family: var(--font-sans); text-decoration: none;">Ver Todas las Guías de Ahorro →</a>
+      </div>
+    </div>
+
+
+
+    <!-- Más Noticias Recientes (all other news starting from index 4) -->
+    {newsData.length > 4 && (
+      <div class="category-section" id="bloque-mas-noticias">
+        <h2 class="category-section-title">Más Noticias Recientes</h2>
+        <div class="guides-grid">
+          {newsData.slice(4).map(story => (
+            <article class="guide-card">
+              <span class="guide-badge">{story.category}</span>
+              <h3><a href={`/noticias/${story.id}`}>{story.title}</a></h3>
+              <p>{story.summary}</p>
+              <a href={`/noticias/${story.id}`} class="guide-link">
+                <span>Leer noticia completa</span>
+                <svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+              </a>
+            </article>
+          ))}
+        </div>
+      </div>
+    )}
+
+
+
+  </section>
+
+</Layout>

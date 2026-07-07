@@ -1,0 +1,42 @@
+---
+import Layout from '../layouts/Layout.astro';
+import newsData from '../../public/news.json';
+
+// Filter only items that are guides (their ID starts with 'guia-')
+const guides = newsData.filter(item => item.id.startsWith('guia-'));
+---
+
+<Layout 
+  title="Guías de Ahorro y Educación Financiera" 
+  activeSection="guias" 
+  description="Aprende a ahorrar, invertir y gestionar tu dinero con nuestras guías y columnas de finanzas personales gratuitas." 
+  keywords="guias de ahorro, educacion financiera, finanzas personales, como ahorrar, regla 50/30/20, metodo bola de nieve"
+  showSidebar={true}
+>
+  
+  <section class="category-section" aria-label="Guías de Ahorro">
+    <h1 class="category-section-title" style="font-size: 2rem; margin-bottom: 30px;">Guías y Columnas de Ahorro</h1>
+    
+    <p style="font-family: var(--font-body); font-size: 1.05rem; color: var(--text-muted); margin-bottom: 40px; line-height: 1.6;">
+      Explora nuestras columnas de educación financiera diseñadas para ayudarte a recortar gastos hormiga, salir de deudas rápido con métodos probados, y planificar tu presupuesto mensual con herramientas prácticas.
+    </p>
+
+    <div class="guides-grid">
+      {guides.map(guide => (
+        <article class="guide-card">
+          <span class="guide-badge">{guide.category}</span>
+          <h3><a href={`/noticias/${guide.id}`}>{guide.title}</a></h3>
+          <p>{guide.summary}</p>
+          <a href={`/noticias/${guide.id}`} class="guide-link">
+            <span>Leer columna</span>
+            <svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </a>
+        </article>
+      ))}
+    </div>
+
+
+
+  </section>
+
+</Layout>

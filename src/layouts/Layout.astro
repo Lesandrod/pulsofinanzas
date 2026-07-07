@@ -1,0 +1,297 @@
+---
+import newsData from '../../public/news.json';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  keywords?: string;
+  showSidebar?: boolean;
+  activeSection?: string;
+  articleSchema?: any;
+}
+
+const { 
+  title, 
+  description = "Diario económico digital con cotizaciones de criptomonedas, bolsa de valores y herramientas gratuitas de cálculo de fondo de emergencia, presupuesto e interés compuesto.", 
+  keywords = "calculadora fondo de emergencia, interes compuesto simulador, presupuesto 50 30 20, diario financiero, bitcoin trump, bolsa de valores Dow Jones 53000, pulso finanzas diario", 
+  showSidebar = true, 
+  activeSection = 'home',
+  articleSchema
+} = Astro.props;
+
+// Cambia esta variable con tu ID de editor de Google AdSense (ej. "ca-pub-1234567890123456") para habilitar los anuncios automáticos
+const ADSENSE_PUBLISHER_ID = ""; 
+---
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{title} | Pulso Finanzas</title>
+  
+  {ADSENSE_PUBLISHER_ID && (
+    <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_PUBLISHER_ID}`} crossorigin="anonymous"></script>
+  )}
+  
+  <!-- SEO Meta Tags -->
+  <meta name="description" content={description}>
+  <meta name="keywords" content={keywords}>
+  
+  <!-- Open Graph / Facebook / WhatsApp Card Meta Tags -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content={`${title} | Pulso Finanzas`} />
+  <meta property="og:description" content={description} />
+  <meta property="og:image" content="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=1200&auto=format&fit=crop" />
+  <meta property="og:site_name" content="Pulso Finanzas" />
+
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={`${title} | Pulso Finanzas`} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=1200&auto=format&fit=crop" />
+  
+  <!-- Schema.org JSON-LD Microdata for Search Engines (SEO rich snippets) -->
+  {articleSchema ? (
+    <script type="application/ld+json" is:inline set:html={JSON.stringify(articleSchema)} />
+  ) : (
+    <script type="application/ld+json" is:inline>
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsMediaOrganization",
+      "name": "Pulso Finanzas | Diario Financiero",
+      "url": "/",
+      "description": "Diario económico con noticias del mercado en tiempo real y herramientas financieras."
+    }
+    </script>
+  )}
+  <!-- Favicon -->
+  <link rel="icon" type="image/jpeg" href="/favicon.jpg" />
+  <link rel="shortcut icon" type="image/jpeg" href="/favicon.jpg" />
+</head>
+<body>
+
+  <!-- ==========================================================================
+       Top Crypto Ticker Bar (API Powered by CoinGecko)
+       ========================================================================== -->
+  <div class="ticker-bar">
+    <div class="container ticker-container">
+      <div class="ticker-item">
+        <span class="ticker-label">BTC:</span>
+        <span class="ticker-val" id="ticker-bitcoin-price">$59,321.45</span>
+        <span class="ticker-change" id="ticker-bitcoin-change">+2.14%</span>
+      </div>
+      <div class="ticker-item">
+        <span class="ticker-label">ETH:</span>
+        <span class="ticker-val" id="ticker-ethereum-price">$3,214.50</span>
+        <span class="ticker-change" id="ticker-ethereum-change">-0.85%</span>
+      </div>
+      <div class="ticker-item">
+        <span class="ticker-label">SOL:</span>
+        <span class="ticker-val" id="ticker-solana-price">$134.20</span>
+        <span class="ticker-change" id="ticker-solana-change">+4.50%</span>
+      </div>
+      <div class="ticker-item">
+        <span class="ticker-label">USDT:</span>
+        <span class="ticker-val" id="ticker-tether-price">$1.00</span>
+        <span class="ticker-change" id="ticker-tether-change">+0.01%</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ==========================================================================
+       Newspaper Main Logo Header
+       ========================================================================== -->
+  <header class="header">
+    <div class="container header-top">
+      <a href="/" class="logo" aria-label="Pulso Finanzas Diario Inicio">
+        <div class="logo-text">Pulso<span>Finanzas</span></div>
+      </a>
+      <div class="logo-tagline">Resumen Financiero, Herramientas y Noticias de Mercado</div>
+      <div class="header-date-bar">
+        Edición: Lunes, 6 de Julio de 2026 | América Latina
+      </div>
+    </div>
+  </header>
+
+  <!-- ==========================================================================
+       Category Navigation Bar (Diario Gestión style)
+       ========================================================================== -->
+  <nav class="category-navbar" aria-label="Navegación por secciones">
+    <div class="container">
+      <ul class="category-nav-menu">
+        <li><a href="/" class={`category-nav-link ${activeSection === 'home' ? 'active' : ''}`}>Últimas Noticias</a></li>
+        <li><a href="/#market-widget" class="category-nav-link">Criptomonedas</a></li>
+        <li><a href="/#portada-layout" class="category-nav-link">Bolsa de Valores</a></li>
+        <li><a href="/guias" class={`category-nav-link ${activeSection === 'guias' ? 'active' : ''}`}>Guías de Ahorro</a></li>
+        <li><a href="/herramientas" class={`category-nav-link ${activeSection === 'tools' ? 'active active-tools' : ''}`} style="font-weight: 900; border-bottom: 2px solid var(--color-red-gestion);">Herramientas de Cálculo</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- ==========================================================================
+       Main Portal Content Layout (with Lateral Skin Ads)
+       ========================================================================== -->
+  <div class="page-wrapper-with-margins">
+
+
+    <main class="container main-layout">
+    
+
+
+    {showSidebar ? (
+      <div class="layout-grid">
+        <!-- Main Column content slot -->
+        <slot />
+
+        <!-- Sidebar Column (For news, market ticks & tools directory) -->
+        <aside class="sidebar" aria-label="Noticias y anuncios">
+          
+          <!-- MERCADO EN VIVO WIDGET (API Powered by CoinGecko) -->
+          <div class="sidebar-widget" id="market-widget">
+            <h3>Mercado en Vivo</h3>
+            <table class="market-table">
+              <thead>
+                <tr>
+                  <th>Activo</th>
+                  <th class="text-right">Precio (USD)</th>
+                  <th class="text-right">Var. 24h</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>BTC</strong></td>
+                  <td class="text-right" id="side-bitcoin-price">$59,321.45</td>
+                  <td class="text-right" id="side-bitcoin-change">+2.14%</td>
+                </tr>
+                <tr>
+                  <td><strong>ETH</strong></td>
+                  <td class="text-right" id="side-ethereum-price">$3,214.50</td>
+                  <td class="text-right" id="side-ethereum-change">-0.85%</td>
+                </tr>
+                <tr>
+                  <td><strong>SOL</strong></td>
+                  <td class="text-right" id="side-solana-price">$134.20</td>
+                  <td class="text-right" id="side-solana-change">+4.50%</td>
+                </tr>
+                <tr>
+                  <td><strong>USDT</strong></td>
+                  <td class="text-right" id="side-tether-price">$1.00</td>
+                  <td class="text-right" id="side-tether-change">+0.01%</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div class="sidebar-widget">
+            <h3>Herramientas Financieras</h3>
+            <ul class="side-calculator-list">
+              <li class="side-calculator-item">
+                <a href="/herramientas#tab-fondo">Fondo de Emergencia</a>
+              </li>
+              <li class="side-calculator-item">
+                <a href="/herramientas#tab-interes">Calculadora de Interés Compuesto</a>
+              </li>
+              <li class="side-calculator-item">
+                <a href="/herramientas#tab-presupuesto">Presupuesto 50/30/20</a>
+              </li>
+              <li class="side-calculator-item">
+                <a href="/herramientas#tab-inflacion">Calculadora de Inflación</a>
+              </li>
+              <li class="side-calculator-item">
+                <a href="/herramientas#tab-plantillas">Descargar Plantilla de Ahorro</a>
+              </li>
+            </ul>
+          </div>
+
+          <!-- NOTICIAS FINANCIERAS REALES (Julio 2026 - Server Side Rendered) -->
+          <div class="sidebar-widget">
+            <h3>Noticias del Mercado</h3>
+            <ul class="news-feed-list">
+              {newsData.map(news => (
+                <li class="news-feed-item">
+                  <span class="news-meta">{news.category} | Julio 2026</span>
+                  <a href={`/noticias/${news.id}`} class="news-title">
+                    {news.title}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+
+        </aside>
+      </div>
+    ) : (
+      <!-- Full width layout (for tools page) -->
+      <slot />
+    )}
+
+    </main>
+
+
+  </div>
+
+  <!-- ==========================================================================
+       Footer & Policy Pages (Mandatory for Google AdSense approval)
+       ========================================================================== -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-col footer-col-about">
+          <div class="logo-text">Pulso<span>Finanzas</span></div>
+          <p>Tu portal de confianza para herramientas de cálculo financieras, contables y laborales de libre acceso. Proyecciones rápidas, noticias del mercado y descarga de recursos educativos.</p>
+        </div>
+        
+        <div class="footer-col">
+          <h4>Herramientas</h4>
+          <ul class="footer-links">
+            <li><a href="/herramientas#tab-fondo">Fondo de Emergencia</a></li>
+            <li><a href="/herramientas#tab-interes">Interés Compuesto</a></li>
+            <li><a href="/herramientas#tab-presupuesto">Presupuesto 50/30/20</a></li>
+            <li><a href="/herramientas#tab-inflacion">Pérdida por Inflación</a></li>
+            <li><a href="/herramientas#tab-libertad">Libertad Financiera (4%)</a></li>
+          </ul>
+        </div>
+        
+        <div class="footer-col">
+          <h4>Más Utilidades</h4>
+          <ul class="footer-links">
+            <li><a href="/herramientas#tab-oportunidad">Costo de Oportunidad</a></li>
+            <li><a href="/herramientas#tab-endeudamiento">Capacidad de Deuda (DTI)</a></li>
+            <li><a href="/herramientas#tab-valortiempo">Valor de tu Tiempo</a></li>
+            <li><a href="/herramientas#tab-roi">Retorno de Inversión (ROI)</a></li>
+            <li><a href="/herramientas#tab-plantillas">Plantillas de Ahorro</a></li>
+          </ul>
+        </div>
+        
+        <div class="footer-col">
+          <h4>Políticas de Sitio</h4>
+          <ul class="footer-links">
+            <li><a href="#">Política de Privacidad</a></li>
+            <li><a href="#">Términos y Condiciones de Uso</a></li>
+            <li><a href="#">Política de Cookies</a></li>
+            <li><a href="#">Quiénes Somos / Contacto</a></li>
+          </ul>
+        </div>
+      </div>
+      
+      <div class="footer-bottom">
+        <p>&copy; 2026 Pulso Finanzas. Todos los derechos reservados.</p>
+        <div class="footer-bottom-links">
+          <span style="font-size: 0.7rem; color: #777777;">Esta web simula e integra placeholders del formato AdSense con fines de planeación publicitaria.</span>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ==========================================================================
+       AdSense Mobile Bottom Anchor Widget (Floating & Closeable)
+       ========================================================================== -->
+
+
+  <!-- Core Javascript Logic client side -->
+  <script src="../scripts/client-script.js"></script>
+</body>
+</html>
