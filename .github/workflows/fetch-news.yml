@@ -40,9 +40,8 @@ jobs:
         # Agrega el archivo JSON actualizado
         git add public/news.json
         
-        # Solo realiza el commit si hay cambios reales en las noticias
         if ! git diff-index --quiet HEAD; then
-          git commit -m "chore: actualizar boletin de noticias [skip ci]"
+          git commit -m "chore: actualizar boletin de noticias"
           git push origin main
         else
           echo "No hay noticias nuevas en esta ejecución. Sin cambios."
