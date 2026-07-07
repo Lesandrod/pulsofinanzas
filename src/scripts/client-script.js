@@ -1,4 +1,14 @@
 document.addEventListener('DOMContentLoaded', () => {
+  // Dynamic header date update (Client Local Time)
+  const dateBar = document.getElementById('live-header-date');
+  if (dateBar) {
+    const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+    const today = new Date();
+    let dateString = today.toLocaleDateString('es-ES', options);
+    dateString = dateString.charAt(0).toUpperCase() + dateString.slice(1);
+    dateBar.innerHTML = `Edición: ${dateString} | América Latina`;
+  }
+
   /* ==========================================================================
      CoinGecko API Integration (Real-Time Crypto Ticker & Sidebar Table)
      ========================================================================== */
