@@ -226,6 +226,7 @@ async function run() {
       sourceName: feedName,
       sourceUrl: item.link,
       date: formatDate(new Date()),
+      timestamp: Date.now(),
       author: 'Editorial Pulso Finanzas',
       body: geminiData.bodyText || `<p>${geminiData.summary}</p><p>Esta decisión de los mercados financieros internacionales influye de forma directa en las proyecciones económicas globales. La prensa económica destaca la importancia de evaluar cómo estas dinámicas impactan el bolsillo individual.</p>`
     };

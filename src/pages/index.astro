@@ -16,10 +16,8 @@ const secondaryStories = newsData.slice(1, 4); // Shows next stories
       <!-- Left: Main Story (2/3 width) -->
       {mainStory && (
         <article class="portada-main-story">
-          <div class="featured-img-placeholder">
-            <span>Noticia Destacada</span>
-          </div>
-          <span class="main-story-badge">{mainStory.category}</span>
+          <img src="/portada-destacada.jpg" class="featured-img" alt="Mercados Financieros y Cotizaciones - Pulso Finanzas" />
+          <span class="main-story-badge">{mainStory.category} | <span class="news-time-ago" data-timestamp={mainStory.timestamp}>{mainStory.date}</span></span>
           <h1 class="main-story-title">
             <a href={`/noticias/${mainStory.id}`}>{mainStory.title}</a>
           </h1>
@@ -39,7 +37,7 @@ const secondaryStories = newsData.slice(1, 4); // Shows next stories
         
         {secondaryStories.map(story => (
           <article class="sec-story-card">
-            <span class="sec-story-badge">{story.category}</span>
+            <span class="sec-story-badge">{story.category} | <span class="news-time-ago" data-timestamp={story.timestamp}>{story.date}</span></span>
             <h3 class="sec-story-title">
               <a href={`/noticias/${story.id}`}>{story.title}</a>
             </h3>
@@ -103,7 +101,7 @@ const secondaryStories = newsData.slice(1, 4); // Shows next stories
         <div class="guides-grid">
           {newsData.slice(4).map(story => (
             <article class="guide-card">
-              <span class="guide-badge">{story.category}</span>
+              <span class="guide-badge">{story.category} | <span class="news-time-ago" data-timestamp={story.timestamp}>{story.date}</span></span>
               <h3><a href={`/noticias/${story.id}`}>{story.title}</a></h3>
               <p>{story.summary}</p>
               <a href={`/noticias/${story.id}`} class="guide-link">
