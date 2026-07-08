@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1783505196502-292",
+    "category": "Mercados",
+    "title": "Alerta Crítica de China: Vulnerabilidades en Claude Code de Anthropic Amenazan la Seguridad de Datos y el Futuro de la IA",
+    "summary": "China ha emitido una advertencia sobre versiones específicas del modelo Claude Code de Anthropic, señalando vulnerabilidades de \"puerta trasera\". Estas fallas podrían permitir la extracción de información sensible a servidores remotos, generando serias preocupaciones sobre la seguridad digital y el futuro de la IA.",
+    "editorialComment": "La preocupación por la seguridad de la IA y sus posibles vulnerabilidades nos recuerda la importancia de proteger nuestros activos, tanto digitales como financieros. Así como las empresas deben salvaguardar su información, los individuos también necesitan herramientas para organizar y asegurar sus finanzas. Nuestras plantillas de ahorro y presupuesto pueden ser un primer paso fundamental para mantener un control robusto sobre tu economía personal en un mundo digital cada vez más complejo.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
+    "date": "8 de julio de 2026",
+    "timestamp": 1783505196515,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>China ha emitido una contundente advertencia sobre la seguridad de modelos de Inteligencia Artificial, señalando específicamente a Anthropic y su sistema Claude Code. Según el gigante asiático, ciertas versiones de este código contienen vulnerabilidades de \"puerta trasera\" que representan un riesgo significativo. Estas fallas permitirían la exfiltración de información sensible a servidores remotos, poniendo en jaque la confidencialidad y la integridad de los datos de usuarios y empresas.</p><p>La revelación de estas vulnerabilidades tiene implicaciones profundas para el sector tecnológico y los mercados globales. La confianza en las herramientas de IA, esenciales para la innovación y la eficiencia en múltiples industrias, podría verse afectada. Empresas que dependen de soluciones como Claude Code enfrentan ahora la necesidad de revisar sus protocolos de seguridad y sus inversiones en IA, lo que podría generar volatilidad en las acciones tecnológicas y replantear las estrategias de desarrollo a largo plazo. La protección de la propiedad intelectual y la ciberseguridad se consolidan como pilares críticos.</p><p>Este incidente no solo subraya los desafíos técnicos inherentes al rápido avance de la IA, sino que también se inscribe en un contexto geopolítico de creciente rivalidad tecnológica. Las advertencias de seguridad de este calibre pueden influir en las políticas de adopción de IA a nivel nacional e internacional, impulsando marcos regulatorios más estrictos y fomentando una mayor supervisión. Para los inversores y el público en general, la noticia destaca la importancia de una diligencia debida constante y la necesidad de priorizar la seguridad digital en todas las facetas de la economía moderna.</p>"
+  },
+  {
+    "id": "noticia-1783505205549-819",
+    "category": "Mercados",
+    "title": "Bank of America Advierte: La Economía de EE. UU. Se Divide en Dos, ¿Cómo Afecta a tus Finanzas?",
+    "summary": "Bank of America ha señalado una creciente divergencia en la economía estadounidense, con consumidores de altos ingresos manteniéndose fuertes mientras que los de bajos ingresos enfrentan dificultades crecientes. Esta 'economía dual' podría tener implicaciones significativas para el crecimiento general y la estabilidad del mercado.",
+    "editorialComment": "La constatación de Bank of America sobre una economía dual en EE. UU. resalta la necesidad de una gestión financiera proactiva y adaptable. Ante escenarios económicos heterogéneos, mantener un control férreo sobre tus ingresos y gastos es fundamental. Te invitamos a utilizar nuestra plantilla de ahorro, una herramienta excelente para planificar y asegurar tu estabilidad financiera, sin importar las condiciones del mercado.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/economy/articles/bank-america-warns-america-now-202300727.html",
+    "date": "8 de julio de 2026",
+    "timestamp": 1783505205549,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Bank of America ha emitido una advertencia significativa sobre la dirección de la economía estadounidense, señalando que el país se está dividiendo en 'dos economías' distintas. Esta divergencia se manifiesta en el comportamiento de los consumidores: mientras que aquellos con mayores ingresos continúan mostrando resiliencia y capacidad de gasto, los segmentos de menores ingresos enfrentan una presión financiera creciente, luchando con la inflación y el aumento de los costos.</p><p>Esta dicotomía económica tiene profundas implicaciones. La fortaleza en el gasto de los consumidores de alto poder adquisitivo está impulsando ciertos sectores y manteniendo la actividad económica en niveles saludables en algunas áreas, a pesar de las preocupaciones generales. Sin embargo, la debilidad en el extremo inferior del espectro de ingresos sugiere posibles riesgos a la baja para el consumo agregado y la economía en general, especialmente si las presiones inflacionarias persisten y los salarios no logran compensar el aumento del costo de vida para todos.</p><p>La existencia de estas dos economías presenta un desafío complejo para los formuladores de políticas y los inversores. Podría influir en las futuras decisiones de la Reserva Federal, que debe equilibrar la estabilidad de precios con el pleno empleo en un panorama desigual. Para los mercados, esta situación podría significar un rendimiento dispar entre diferentes sectores y empresas, dependiendo de a qué segmento de consumidores atiendan principalmente, haciendo la selección de inversiones más crítica que nunca.</p>"
+  },
+  {
+    "id": "noticia-1783505215837-520",
+    "category": "Mercados",
+    "title": "Actualidad: ANSES: quiénes cobran hoy, miércoles 8 de julio de 2026 en español",
+    "summary": "Resumen de mercados: ANSES: quiénes cobran hoy, miércoles 8 de julio de 2026. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
+    "editorialComment": "El mercado bursátil se ve fuertemente impulsado por empresas de alto rendimiento. A largo plazo, invertir de manera constante en el mercado bursátil permite ganarle a la inflación por medio del interés compuesto.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/07/08/anses-quienes-cobran-hoy-miercoles-8-de-julio-de-2026/",
+    "date": "8 de julio de 2026",
+    "timestamp": 1783505215838,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El evento sobre <strong>\"ANSES: quiénes cobran hoy, miércoles 8 de julio de 2026\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
+  },
+  {
     "id": "noticia-1783491679831-165",
     "category": "Mercados",
     "title": "Klarna Busca Licencia Bancaria en EE. UU.: Un Giro que Redefine el Futuro de tus Pagos y el Crédito",
@@ -302,44 +344,5 @@
     "date": "6 de julio de 2026",
     "author": "Editorial Pulso Finanzas",
     "body": "<p>La Copa del Mundo ha demostrado ser un catalizador inesperado para el sector de los mercados de predicción, impulsando a plataformas como Kalshi y Polymarket a volúmenes récord en junio. Este fenómeno resalta cómo grandes eventos globales no solo capturan la atención pública, sino que también estimulan nuevas formas de inversión y especulación sobre resultados futuros. La entrada de nuevos jugadores como Rothera, que gestionó 2 mil millones de dólares, subraya la rápida expansión y el creciente apetito por estos instrumentos financieros alternativos.</p><p>El auge de estas plataformas sugiere una maduración y una mayor aceptación de los mercados de predicción como una forma legítima, aunque arriesgada, de interactuar con eventos futuros. Tradicionalmente vistos como una forma de entretenimiento o incluso de apuestas, su creciente volumen y la sofisticación de sus usuarios los posicionan como actores emergentes en el ecosistema financiero. Esto también plantea preguntas sobre la recopilación de datos y cómo las \"multitudes\" pueden predecir eventos de manera más efectiva que los expertos tradicionales.</p><p>Para la economía general, el aumento en los mercados de predicción señala una diversificación en las vías de inversión y una posible democratización de la información. Si bien ofrecen oportunidades para la especulación y la obtención de beneficios, también conllevan riesgos significativos y requieren un entendimiento profundo de las probabilidades y los eventos subyacentes. Este sector emergente podría influir en cómo se valoran ciertos eventos y cómo se toman decisiones estratégicas, tanto a nivel individual como corporativo, a medida que su popularidad y sofisticación continúan creciendo.</p>"
-  },
-  {
-    "id": "noticia-1783397533807-935",
-    "category": "Bolsa de Valores",
-    "title": "Intel bajo el microscopio: Analista de élite establece un ambicioso precio objetivo para sus acciones",
-    "summary": "Un reconocido analista ha fijado un sorprendente precio objetivo para las acciones de Intel, proyectando un crecimiento significativo en su valor. Esta predicción sugiere un optimismo considerable sobre el futuro desempeño y la posición de la compañía en el mercado tecnológico.",
-    "editorialComment": "Las proyecciones como la del analista sobre Intel nos recuerdan la importancia de pensar en el crecimiento a largo plazo de nuestras inversiones. Si bien las acciones individuales tienen sus riesgos, comprender el potencial de revalorización puede ser clave. Nuestra calculadora de interés compuesto es ideal para visualizar cómo incluso pequeñas inversiones, con proyecciones de crecimiento anualizadas, pueden acumular una fortuna con el tiempo, ayudándote a planificar tus metas financieras.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/top-rated-analyst-sets-jaw-164700897.html",
-    "date": "6 de julio de 2026",
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Un influyente analista de Wall Street ha captado la atención del mercado al establecer un precio objetivo excepcionalmente alto para las acciones de Intel. Esta audaz proyección, calificada como \"asombrosa\", indica una fuerte confianza en la capacidad del gigante tecnológico para superar las expectativas actuales y capitalizar futuras oportunidades en el sector.</p><p>La perspectiva optimista sobre Intel se basa probablemente en varios factores clave, incluyendo su agresiva estrategia de recuperación en la fabricación de chips, la expansión en nuevos mercados como la inteligencia artificial y la mejora de su cartera de productos. Este impulso podría posicionar a la compañía para un período de crecimiento sustancial, desafiando a sus competidores y fortaleciendo su cuota de mercado global.</p><p>Para los inversores, este tipo de análisis subraya la volatilidad y el potencial de rendimiento dentro del mercado bursátil. Aunque los objetivos de precio de los analistas son una herramienta útil, es crucial realizar una investigación exhaustiva y considerar el perfil de riesgo personal. Las proyecciones a largo plazo, sin embargo, pueden servir de guía para aquellos que buscan oportunidades de inversión con visión de futuro en el dinámico panorama tecnológico.</p>"
-  },
-  {
-    "id": "noticia-1783397539537-777",
-    "category": "Mercados",
-    "title": "Caputo Defiende Estrategia Económica: ¿Qué Implican Sus Declaraciones Sobre el Dólar y la Inflación para tu Bolsillo?",
-    "summary": "El ministro de Economía, Luis Caputo, defendió la política cambiaria y proyectó una continua desaceleración de la inflación tras presentar el programa financiero. Ratificó su optimismo al asegurar que se avecinan los “mejores 18 meses” para el Gobierno y la economía argentina.",
-    "editorialComment": "Las recientes declaraciones de Caputo sobre la inflación y las proyecciones económicas subrayan la importancia de una gestión financiera personal proactiva. En un escenario de cambios y expectativas, contar con herramientas que permitan planificar tus finanzas y controlar tus gastos es crucial para blindar tu economía personal. Nuestra plantilla de ahorro te ayudará a visualizar y optimizar tu presupuesto en este contexto.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/07/06/luis-caputo-si-se-milita-atraso-cambiario-en-1400-no-se-puede-militar-preocupacion-en-1500/",
-    "date": "6 de julio de 2026",
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Luis Caputo, ministro de Economía, abordó directamente la reciente suba del dólar tras la presentación del programa financiero, lanzando una contundente crítica a quienes, según él, cambiaron su postura sobre el valor de la divisa. Su frase “Si se milita atraso cambiario en $1.400, no se puede militar preocupación en $1.500″, encapsula la defensa del gobierno a su política económica, sugiriendo una coherencia necesaria en el análisis de la situación cambiaria.</p><p>Además de la cuestión del dólar, Caputo reiteró su expectativa de que la inflación continuará su trayectoria descendente, una proyección clave para la estabilidad económica y la confianza de los inversores. Con una visión optimista, el ministro ratificó su pronóstico de que el país ingresará en un período de “los mejores 18 meses” para la gestión gubernamental y el desarrollo económico, buscando afianzar la credibilidad en su plan de ajuste y estabilización.</p><p>Estas declaraciones ofrecen una ventana al pensamiento económico del gobierno y su estrategia para enfrentar los desafíos actuales. Para los ciudadanos y agentes económicos, entender estas señales es fundamental para la toma de decisiones financieras. Mientras el ministro proyecta un panorama de mejora, la vigilancia sobre la evolución del tipo de cambio y los índices inflacionarios sigue siendo prioritaria para navegar la coyuntura económica y proteger el poder adquisitivo.</p>"
-  },
-  {
-    "id": "noticia-1783381631783-588",
-    "category": "Criptomonedas",
-    "title": "Bitcoin se Dispara por Declaraciones de Trump: ¿Qué Significa para tu Inversión Cripto?",
-    "summary": "Bitcoin experimentó una caída inicial acercándose a los $60,000 luego de que Strategy revelara la venta de parte de sus tenencias. Sin embargo, la criptomoneda principal se recuperó rápidamente tras las declaraciones del expresidente Trump, quien afirmó haberse convertido en 'un gran entusiasta de las criptomonedas'.",
-    "editorialComment": "La montaña rusa que vive Bitcoin subraya la inherente volatilidad del mercado de criptoactivos. En un escenario donde las palabras de figuras públicas pueden mover millones, es crucial tener una estrategia financiera sólida. Nuestras plantillas de ahorro te ofrecen la base para gestionar tus finanzas personales y tomar decisiones de inversión más informadas y resilientes ante estos vaivenes.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/07/06/bitcoin-rebounds-after-trump-says-hes-become-a-big-crypto-guy.html",
-    "date": "6 de julio de 2026",
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El mercado de criptomonedas vivió una jornada de intensa volatilidad, con Bitcoin experimentando primero una caída significativa para luego protagonizar una robusta recuperación. Inicialmente, la criptomoneda líder se acercó a la barrera psicológica de los 60,000 dólares después de que la firma Strategy diera a conocer la venta de una porción de sus tenencias, generando preocupación entre los inversores y un movimiento a la baja en el precio.</p><p>No obstante, el panorama cambió drásticamente tras las declaraciones del expresidente de Estados Unidos, Donald Trump. Al afirmar que se ha convertido en 'un gran entusiasta de las criptomonedas', Trump inyectó un renovado optimismo en el mercado, provocando un repunte casi inmediato en el valor de Bitcoin. Este evento resalta la considerable influencia que figuras públicas y políticas pueden ejercer sobre activos digitales, a menudo sensibles a la narrativa y al sentimiento del mercado.</p><p>Este episodio subraya la naturaleza impredecible del ecosistema cripto y la importancia de la información en tiempo real para los inversores. Más allá de las fluctuaciones diarias, la adopción o el apoyo de personalidades influyentes puede tener un impacto duradero en la percepción y la legitimidad de las criptomonedas, marcando pautas no solo para el mercado digital sino también para la economía global en cuanto a la aceptación de estas nuevas formas de valor. Para los inversores, esto reitera la necesidad de una estrategia bien definida y de una gestión de riesgos adecuada.</p>"
   }
 ]
