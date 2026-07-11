@@ -788,4 +788,18 @@ document.addEventListener('DOMContentLoaded', () => {
       minimumFractionDigits: 2
     }).format(amount);
   }
+  /* ==========================================================================
+     Cookie Consent Banner Logic
+     ========================================================================== */
+  const cookieBanner = document.getElementById('cookie-banner');
+  const acceptCookiesBtn = document.getElementById('accept-cookies-btn');
+  if (cookieBanner && acceptCookiesBtn) {
+    if (!localStorage.getItem('cookies-accepted')) {
+      cookieBanner.style.display = 'block';
+    }
+    acceptCookiesBtn.addEventListener('click', () => {
+      localStorage.setItem('cookies-accepted', 'true');
+      cookieBanner.style.display = 'none';
+    });
+  }
 });

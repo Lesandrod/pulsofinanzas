@@ -308,10 +308,16 @@ const GOOGLE_SITE_VERIFICATION = "74ZpCRRPWue53hLfLc-JWS1a86fD1I4NbyiW7ybvlJY";
     </div>
   </footer>
 
-  <!-- ==========================================================================
-       AdSense Mobile Bottom Anchor Widget (Floating & Closeable)
-       ========================================================================== -->
-
+  <!-- Cookie Consent Banner (GDPR & Google User Consent Policy Compliance) -->
+  <div id="cookie-banner" style="display: none; position: fixed; bottom: 20px; left: 20px; right: 20px; max-width: 450px; background-color: var(--bg-card, #ffffff); border: 1px solid var(--border-color, #e2e8f0); border-radius: 6px; box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1); padding: 20px; z-index: 10000; font-family: var(--font-sans, sans-serif); line-height: 1.5; border-left: 5px solid var(--color-red-gestion, #e53e3e);">
+    <h4 style="margin: 0 0 8px 0; font-size: 0.95rem; font-weight: 800; color: var(--color-primary, #0f172a);">Aviso de Privacidad y Cookies</h4>
+    <p style="margin: 0 0 15px 0; font-size: 0.78rem; color: var(--text-muted, #64748b);">
+      En Pulso Finanzas utilizamos cookies propias y de terceros para analizar el tráfico del sitio web, personalizar el contenido y optimizar la entrega de publicidad a través de Google AdSense de acuerdo con tus hábitos de navegación. Para aceptar el uso de cookies, haz clic en "Aceptar". Puedes consultar los detalles en nuestra <a href="/politica-privacidad" style="color: var(--color-red-gestion, #e53e3e); text-decoration: underline; font-weight: 600;">Política de Privacidad y Cookies</a>.
+    </p>
+    <div style="display: flex; gap: 10px; justify-content: flex-end;">
+      <button id="accept-cookies-btn" style="background-color: var(--color-red-gestion, #e53e3e); color: white; border: none; padding: 8px 16px; border-radius: 4px; font-size: 0.78rem; font-weight: 700; cursor: pointer; transition: background-color 0.2s;">Aceptar</button>
+    </div>
+  </div>
 
   <!-- Core Javascript Logic client side -->
   <script src="../scripts/client-script.js"></script>
