@@ -28,6 +28,8 @@ const GOOGLE_ANALYTICS_ID = "G-0VCRW2F6SN";
 
 // Coloca aquí el código de verificación de Google Search Console si usas el método de etiqueta HTML (meta tag)
 const GOOGLE_SITE_VERIFICATION = "74ZpCRRPWue53hLfLc-JWS1a86fD1I4NbyiW7ybvlJY"; 
+
+const canonicalURL = new URL(Astro.url.pathname, 'https://pulsofinanzas.info').href;
 ---
 
 <!DOCTYPE html>
@@ -36,6 +38,7 @@ const GOOGLE_SITE_VERIFICATION = "74ZpCRRPWue53hLfLc-JWS1a86fD1I4NbyiW7ybvlJY";
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{title} | Pulso Finanzas</title>
+  <link rel="canonical" href={canonicalURL} />
   
   {GOOGLE_SITE_VERIFICATION && (
     <meta name="google-site-verification" content={GOOGLE_SITE_VERIFICATION} />
