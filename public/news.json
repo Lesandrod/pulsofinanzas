@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1783734117869-389",
+    "category": "Mercados",
+    "title": "Alerta Global: China Advierte sobre Vulnerabilidades Críticas en la IA Claude Code de Anthropic y su Impacto en el Mercado Tecnológico",
+    "summary": "China ha emitido una advertencia sobre ciertas versiones del modelo de IA Claude Code de Anthropic, señalando vulnerabilidades de 'puerta trasera'. Estas fallas podrían permitir el envío de información sensible a servidores remotos, generando preocupaciones sobre la seguridad de datos.",
+    "editorialComment": "Este incidente subraya la creciente relevancia de la ciberseguridad no solo para las grandes corporaciones, sino también para la protección de nuestros activos personales. Así como las empresas deben blindar sus sistemas de IA, los individuos deben fortificar sus finanzas. Te invitamos a utilizar nuestras plantillas de ahorro para gestionar tus presupuestos de manera segura y eficiente, minimizando cualquier riesgo en tu planificación financiera.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
+    "date": "11 de julio de 2026",
+    "timestamp": 1783734117882,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>La comunidad tecnológica y financiera global ha puesto su mirada en la reciente advertencia de China respecto a vulnerabilidades críticas en ciertas versiones del modelo de inteligencia artificial Claude Code, desarrollado por Anthropic. Según las autoridades chinas, estas fallas constituyen \"puertas traseras\" que podrían ser explotadas para exfiltrar información sensible hacia servidores externos, planteando un serio riesgo para la confidencialidad y la integridad de los datos manejados por esta IA.</p><p>Este descubrimiento no solo golpea la reputación de una de las empresas líderes en el desarrollo de IA, Anthropic, sino que también reaviva el debate sobre la seguridad inherente en los modelos de inteligencia artificial avanzados. Las implicaciones son vastas: desde la pérdida de confianza de los usuarios y empresas en la adopción de estas tecnologías, hasta potenciales repercusiones financieras significativas para las compañías que invierten fuertemente en IA, afectando el valor de sus acciones y la percepción del mercado sobre la viabilidad a largo plazo de ciertos proyectos tecnológicos. Los reguladores a nivel mundial podrían intensificar su escrutinio sobre la seguridad del software de IA.</p><p>El incidente resalta la interconexión entre la ciberseguridad y la estabilidad económica. En un ecosistema donde la inteligencia artificial se integra cada vez más en operaciones críticas de diversas industrias, desde finanzas hasta manufactura, cualquier vulnerabilidad puede traducirse en pérdidas económicas sustanciales, litigios costosos y daños irreparables a la reputación. La protección de datos se consolida como un pilar fundamental para la confianza del mercado y la inversión sostenible en la era digital, exigiendo a desarrolladores y usuarios una vigilancia constante y una inversión robusta en protocolos de seguridad.</p>"
+  },
+  {
+    "id": "noticia-1783734128581-630",
+    "category": "Mercados",
+    "title": "Análisis de Rentabilidad: ¿Cuánto habrías ganado invirtiendo $10,000 en Bitcoin, 'Trump Coin' y Oro durante la era Trump?",
+    "summary": "Un reciente análisis compara el rendimiento de una inversión de $10,000 realizada en Bitcoin, una meme coin de Trump y oro. El estudio revela las ganancias potenciales si la inversión se hubiera efectuado al inicio del primer mandato presidencial de Donald Trump.",
+    "editorialComment": "Este ejercicio comparativo de rentabilidades a largo plazo destaca la capacidad de crecimiento del capital. Te invitamos a utilizar nuestra calculadora de interés compuesto, una herramienta esencial para proyectar cómo tus inversiones pueden multiplicarse significativamente a lo largo del tiempo, entendiendo el poder de la paciencia y la estrategia.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/markets/crypto/articles/invested-10-000-bitcoin-trump-222200005.html",
+    "date": "11 de julio de 2026",
+    "timestamp": 1783734128581,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Un fascinante análisis reciente ha puesto bajo la lupa el desempeño de tres activos financieros muy distintos: Bitcoin, una \"Trump meme coin\" y el oro. El estudio proyecta qué habría sucedido si un inversor hubiera destinado $10,000 a cada uno de estos vehículos de inversión al inicio del primer mandato presidencial de Donald Trump en enero de 2017. Los resultados ofrecen una instantánea reveladora de las dinámicas del mercado durante un período político y económico particularmente volátil.</p><p>La comparación arroja luz sobre la disparidad de rendimientos, especialmente entre las criptomonedas y un activo tradicional como el oro. Bitcoin, la criptomoneda pionera, ha experimentado un crecimiento meteórico desde 2017, consolidándose como una de las inversiones más rentables de la década a pesar de sus periodos de alta volatilidad. Por otro lado, las \"meme coins\" vinculadas a figuras políticas, como la mencionada en el estudio, representan una categoría de inversión de altísimo riesgo y especulación, con rendimientos potencialmente explosivos pero también con la posibilidad de pérdidas totales. El oro, por su parte, mantuvo su rol de refugio seguro, ofreciendo una apreciación más estable y predecible frente a las fluctuaciones económicas.</p><p>Este ejercicio no solo es un recordatorio de la naturaleza impredecible de los mercados, sino que también subraya la importancia de una estrategia de inversión diversificada y consciente del riesgo. Mientras que activos como Bitcoin y las \"meme coins\" pueden ofrecer oportunidades de ganancias extraordinarias, su volatilidad exige una comprensión profunda y una alta tolerancia al riesgo. El oro, en contraste, ilustra el valor de los activos tangibles como componente de estabilidad en una cartera. Para los inversores, la lección clave es evaluar sus objetivos financieros y su perfil de riesgo antes de asignar capital a cualquier activo, buscando siempre un equilibrio entre el potencial de crecimiento y la protección del patrimonio.</p>"
+  },
+  {
+    "id": "noticia-1783734138258-997",
+    "category": "Mercados",
+    "title": "Actualidad: “Hay una especie de debilidad cambiaria”: un ex viceministro de Economía de Caputo pidió la liberación total del cepo al dólar en español",
+    "summary": "Resumen de mercados: “Hay una especie de debilidad cambiaria”: un ex viceministro de Economía de Caputo pidió la liberación total del cepo al dólar. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
+    "editorialComment": "El mercado bursátil se ve fuertemente impulsado por empresas de alto rendimiento. A largo plazo, invertir de manera constante en el mercado bursátil permite ganarle a la inflación por medio del interés compuesto.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/07/10/hay-una-especie-de-debilidad-cambiaria-un-ex-viceministro-de-economia-de-caputo-pidio-la-liberacion-total-del-cepo-al-dolar/",
+    "date": "11 de julio de 2026",
+    "timestamp": 1783734138259,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El evento sobre <strong>\"“Hay una especie de debilidad cambiaria”: un ex viceministro de Economía de Caputo pidió la liberación total del cepo al dólar\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
+  },
+  {
     "id": "noticia-1783717145343-518",
     "category": "Mercados",
     "title": "Minutas de la Fed: La 'Pelea Familiar' por las Tasas de Interés y su Impacto en tu Economía",
@@ -306,47 +348,5 @@
     "timestamp": 1783619217146,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>Según las proyecciones de los traders en la plataforma Kalshi, el índice Nasdaq-100, referente tecnológico global, cerrará el año 2026 superando la barrera de los 30.000 puntos. Este pronóstico, que se produce tras un rally masivo desde los mínimos posteriores a la guerra entre EE. UU. e Irán, viene acompañado de una advertencia: se espera una segunda mitad de 2026 menos eufórica y con un ritmo de crecimiento más pausado.</p><p>La expectativa de una segunda mitad de año más tranquila sugiere que los inversores podrían estar anticipando una normalización de las valoraciones o quizás cierta toma de ganancias tras años de crecimiento exponencial. Este escenario implica que, si bien la tendencia alcista se mantendría, la euforia podría ceder paso a un entorno de mayor cautela, donde la selección de activos y la gestión de riesgos serán cruciales. Factores macroeconómicos como la inflación, las tasas de interés y el crecimiento global podrían influir en esta moderación.</p><p>La evolución del Nasdaq-100 es un barómetro clave para la economía global, dada su fuerte concentración en empresas de tecnología e innovación. Un objetivo de 30.000 puntos para 2026, incluso con una desaceleración temporal, reafirma la confianza en el sector. Para los inversores, este pronóstico subraya la importancia de mirar más allá del corto plazo y comprender que los mercados se mueven en ciclos, con periodos de aceleración y consolidación. Adoptar una perspectiva a largo plazo y una estrategia de inversión bien fundamentada será esencial para navegar este entorno proyectado.</p>"
-  },
-  {
-    "id": "noticia-1783619225875-698",
-    "category": "Mercados",
-    "title": "Jubilados y la Inflación: Por qué el miedo a tus ahorros podría ser exagerado",
-    "summary": "Los jubilados frecuentemente temen que la inflación devaste sus ahorros y pensiones. Sin embargo, la realidad financiera sugiere que el impacto suele ser menos dramático de lo que comúnmente se cree.",
-    "editorialComment": "Es natural preocuparse por cómo la inflación afectará tu poder adquisitivo en la jubilación. Una gestión financiera proactiva es clave para navegar estos desafíos. Para tomar el control de tus finanzas y construir un colchón sólido, te invitamos a descargar nuestras plantillas de ahorro, herramientas prácticas para presupuestar y proteger tus recursos eficazmente.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/economy/article/retirees-worry-inflation-will-ravage-their-savings-but-the-reality-is-often-less-scary-173527324.html",
-    "date": "9 de julio de 2026",
-    "timestamp": 1783619225876,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>La amenaza de la inflación acecha constantemente en la mente de muchos jubilados, quienes temen ver cómo años de arduo trabajo y ahorro se desvanecen ante el implacable aumento de los precios. Esta preocupación es comprensible, ya que las rentas fijas y los ahorros a menudo parecen vulnerables a la erosión del poder adquisitivo. La percepción inicial es que la jubilación en un entorno inflacionario es una batalla perdida, una lucha por mantener un nivel de vida digno.</p><p>No obstante, la realidad financiera para los jubilados suele ser menos sombría de lo que sugieren estos temores. Diversos factores contribuyen a mitigar el impacto de la inflación. Por ejemplo, los ajustes por costo de vida (COLA) en los beneficios del Seguro Social y otras pensiones pueden ayudar a compensar parte del aumento de precios. Además, estudios muestran que el gasto de los jubilados tiende a disminuir en las etapas más avanzadas de la jubilación, reduciendo la presión sobre sus fondos. Estrategias de inversión inteligentes también pueden ofrecer protección.</p><p>Para navegar con éxito estos desafíos, la planificación financiera estratégica es fundamental. Entender cómo funcionan los ajustes de beneficios, optimizar las inversiones para superar la inflación y adaptar el presupuesto a las diferentes fases de la jubilación son pasos cruciales. Al desmitificar el impacto real de la inflación y adoptar un enfoque proactivo, los jubilados pueden asegurar una mayor tranquilidad y estabilidad económica en sus años dorados, transformando la preocupación en una oportunidad para la resiliencia financiera.</p>"
-  },
-  {
-    "id": "noticia-1783619236009-257",
-    "category": "Mercados",
-    "title": "Anticipa el Gol: Cómo la tecnología sin delay revoluciona la demanda y el consumo en los hogares argentinos",
-    "summary": "La demanda por tecnologías que eliminan el delay en la transmisión de partidos ha resurgido con fuerza en Argentina, impulsada por el fervor futbolístico de la Selección. Este fenómeno convierte un producto que había perdido protagonismo en una prioridad para miles de hogares que buscan la experiencia perfecta.",
-    "editorialComment": "El inesperado resurgimiento de esta tecnología pone de manifiesto cómo eventos de gran magnitud pueden alterar patrones de consumo y generar gastos imprevistos en los hogares. Para aquellos que buscan optimizar sus finanzas y absorber estas nuevas demandas sin desequilibrios, una planificación presupuestaria sólida es clave. Recomendamos utilizar nuestras plantillas de ahorro en Excel para integrar estos gastos extra y mantener un control financiero efectivo.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/07/09/como-ver-los-partidos-sin-delay-lo-mas-buscado-por-los-argentinos-mientras-juega-la-seleccion/",
-    "date": "9 de julio de 2026",
-    "timestamp": 1783619236009,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El fervor futbolístico que envuelve a la Selección Argentina ha provocado un curioso resurgimiento en el mercado tecnológico: la demanda por soluciones que eliminan el 'delay' en las transmisiones de partidos. Tecnologías que habían perdido protagonismo frente a la comodidad del streaming generalista vuelven a ser protagonistas, con los aficionados buscando la mínima ventaja para no quedarse atrás en la celebración de un gol. Este fenómeno subraya cómo los eventos masivos pueden redirigir el interés del consumidor hacia productos específicos y nichos tecnológicos.</p><p>Desde una perspectiva económica, este repunte de la demanda se traduce en un impulso significativo para ciertos sectores. Minoristas de electrónica, proveedores de servicios de internet y empresas de hardware de streaming están experimentando un aumento en las ventas y consultas. Los hogares argentinos, impulsados por la pasión, están realizando una inversión adicional en equipos o mejoras de conectividad, lo que refleja una priorización del gasto en experiencias y entretenimiento por encima de otras categorías, al menos durante este período de alta intensidad emocional.</p><p>Este comportamiento de consumo no es meramente anecdótico; ofrece una ventana a la elasticidad de la demanda en períodos de euforia colectiva y la disposición de los consumidores a destinar recursos a la 'experiencia perfecta'. Además, resalta la constante evolución del mercado tecnológico, donde productos aparentemente obsoletos pueden recuperar relevancia bajo nuevas circunstancias. Para Pulso Finanzas, es un recordatorio de la importancia de observar cómo los eventos culturales influyen directamente en los patrones de gasto y la dinámica económica general del país.</p>"
-  },
-  {
-    "id": "noticia-1783607371032-683",
-    "category": "Mercados",
-    "title": "Goldman Sachs Afianza Liderazgo con Megacuerdos de $70 Mil Millones en Gestión de Activos: ¿Qué Significa para el Mercado?",
-    "summary": "Goldman Sachs ha asegurado contratos por 70 mil millones de dólares en gestión de activos con gigantes corporativos como Verizon y Lockheed Martin. Este logro se da en un mercado multimillonario de activos de jubilación caracterizado por una intensa competencia entre gestoras de fondos.",
-    "editorialComment": "Este tipo de acuerdos millonarios subraya la importancia de una gestión financiera estratégica y a largo plazo. Para cualquier inversor, entender cómo se construyen estas fortunas y cómo el tiempo y el interés compuesto pueden transformar sus propios ahorros es fundamental. Nuestra calculadora de interés compuesto es una herramienta ideal para visualizar el potencial de crecimiento de tus inversiones, inspirándote a planificar tu futuro financiero con la misma visión a largo plazo que estas grandes corporaciones.",
-    "relatedTool": "tab-interes",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html",
-    "date": "9 de julio de 2026",
-    "timestamp": 1783607371045,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Goldman Sachs ha logrado un hito significativo en el competitivo mercado de gestión de activos al asegurar acuerdos multimillonarios con dos gigantes corporativos: Verizon y Lockheed Martin. La firma de inversión ha ganado contratos valorados en 70 mil millones de dólares para gestionar los activos de jubilación de estas empresas, un movimiento que solidifica su posición como líder en la industria financiera global.</p><p>Este triunfo de Goldman Sachs destaca la intensa batalla que se libra entre las principales gestoras de fondos por el control del mercado de activos de jubilación, un sector que asciende a billones de dólares. Firmas de renombre como BlackRock, Russell Investments y Mercer compiten ferozmente por captar y administrar estos valiosos fondos. La capacidad de Goldman Sachs para atraer a clientes de la talla de Verizon y Lockheed Martin subraya su experiencia y reputación en la entrega de soluciones de inversión robustas y estratégicas a largo plazo.</p><p>La relevancia de estos acuerdos trasciende las finanzas corporativas, impactando la dinámica general de los mercados. La gestión eficiente de activos de jubilación es crucial no solo para la estabilidad financiera de las empresas y sus empleados, sino también para el flujo de capital en la economía global. Este desarrollo refuerza la tendencia hacia una gestión de inversiones cada vez más sofisticada y pone de manifiesto cómo las decisiones de grandes inversores institucionales pueden influir en el rumbo de la industria y la visión a largo plazo para el crecimiento del capital.</p>"
   }
 ]
