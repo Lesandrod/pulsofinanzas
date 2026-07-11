@@ -79,13 +79,18 @@ const newsSchema = {
         </div>
       </div>
 
-      <div style="font-family: var(--font-sans); font-size: 0.78rem; color: var(--text-muted); border-top: 1px solid var(--border-color); padding-top: 15px; margin-top: 25px;">
-        <span>Fuente de información original: <strong>{article.sourceName}</strong></span>
-        {article.sourceUrl !== '/' && (
-          <a href={article.sourceUrl} target="_blank" rel="noopener noreferrer" style="color: var(--color-red-gestion); text-decoration: underline; margin-left: 5px;">
-            Ver nota original completa →
-          </a>
-        )}
+      <div style="font-family: var(--font-sans); font-size: 0.78rem; color: var(--text-muted); border-top: 1px solid var(--border-color); padding-top: 15px; margin-top: 25px; display: flex; flex-direction: column; gap: 8px; line-height: 1.4;">
+        <div>
+          <strong>Nota Editorial de Cocuraduría:</strong> En Pulso Finanzas realizamos un trabajo de traducción, síntesis y adaptación de reportes económicos de medios de comunicación internacionales de alta autoridad. Nuestro equipo editorial añade análisis prácticos propios de utilidad directa y los vincula con herramientas de cálculo interactivas para que el lector de habla hispana pueda comprender e instrumentar el impacto de la noticia en su economía personal.
+        </div>
+        <div>
+          <span>Fuente de información original: <strong>{article.sourceName}</strong></span>
+          {article.sourceUrl !== '/' && (
+            <a href={article.sourceUrl} target="_blank" rel="noopener noreferrer" style="color: var(--color-red-gestion); text-decoration: underline; margin-left: 5px;">
+              Ver nota original completa →
+            </a>
+          )}
+        </div>
       </div>
     </div>
 

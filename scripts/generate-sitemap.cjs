@@ -13,6 +13,7 @@ const pages = [
   '/herramientas',
   '/guias',
   '/contacto',
+  '/quienes-somos',
   '/politica-privacidad',
   '/terminos-condiciones'
 ];

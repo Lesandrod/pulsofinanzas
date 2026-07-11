@@ -9,6 +9,44 @@ document.addEventListener('DOMContentLoaded', () => {
     dateBar.innerHTML = `Edición: ${dateString} | América Latina`;
   }
 
+  // Relative publish time updater (e.g. "hace 4 minutos")
+  function updateRelativeTimes() {
+    const timeElements = document.querySelectorAll('.news-time-ago');
+    const now = Date.now();
+
+    timeElements.forEach(el => {
+      const timestampAttr = el.getAttribute('data-timestamp');
+      if (!timestampAttr) return;
+
+      const timestamp = parseInt(timestampAttr, 10);
+      if (isNaN(timestamp) || timestamp <= 0) return;
+
+      const diffMs = now - timestamp;
+      const diffMins = Math.floor(diffMs / 60000);
+      const diffHours = Math.floor(diffMins / 60);
+      const diffDays = Math.floor(diffHours / 24);
+
+      let relativeText = '';
+      if (diffMins < 1) {
+        relativeText = 'hace unos instantes';
+      } else if (diffMins < 60) {
+        relativeText = `hace ${diffMins} ${diffMins === 1 ? 'minuto' : 'minutos'}`;
+      } else if (diffHours < 24) {
+        relativeText = `hace ${diffHours} ${diffHours === 1 ? 'hora' : 'horas'}`;
+      } else if (diffDays < 7) {
+        relativeText = `hace ${diffDays} ${diffDays === 1 ? 'día' : 'días'}`;
+      } else {
+        // If older than a week, keep the original static date format
+        return;
+      }
+      el.textContent = relativeText;
+    });
+  }
+
+  updateRelativeTimes();
+  // Refresh relative times every 30 seconds
+  setInterval(updateRelativeTimes, 30000);
+
   /* ==========================================================================
      CoinGecko API Integration (Real-Time Crypto Ticker & Sidebar Table)
      ========================================================================== */
