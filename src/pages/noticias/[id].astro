@@ -1,9 +1,10 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import newsData from '../../../public/news.json';
+import guidesData from '../../../public/guides.json';
 
 export async function getStaticPaths() {
-  return newsData.map(article => ({
+  return [...guidesData, ...newsData].map(article => ({
     params: { id: article.id },
     props: { article }
   }));

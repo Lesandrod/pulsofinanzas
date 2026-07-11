@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const newsJsonPath = path.join(__dirname, '../public/news.json');
+const guidesJsonPath = path.join(__dirname, '../public/guides.json');
 const sitemapXmlPath = path.join(__dirname, '../public/sitemap.xml');
 const distSitemapXmlPath = path.join(__dirname, '../dist/sitemap.xml');
 
@@ -25,6 +26,15 @@ try {
   });
 } catch (e) {
   console.warn('Error reading news.json for sitemap generation:', e);
+}
+
+try {
+  const guidesData = JSON.parse(fs.readFileSync(guidesJsonPath, 'utf8'));
+  guidesData.forEach(guide => {
+    pages.push(`/noticias/${guide.id}`);
+  });
+} catch (e) {
+  console.warn('Error reading guides.json for sitemap generation:', e);
 }
 
 let xml = '<?xml version="1.0" encoding="UTF-8"?>\n';
