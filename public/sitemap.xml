@@ -36,6 +36,21 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://pulsofinanzas.info/noticias/noticia-1783802271679-107</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pulsofinanzas.info/noticias/noticia-1783802282372-913</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pulsofinanzas.info/noticias/noticia-1783802292576-228</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pulsofinanzas.info/noticias/noticia-1783788156622-47</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -142,21 +157,6 @@
   </url>
   <url>
     <loc>https://pulsofinanzas.info/noticias/noticia-1783691831509-450</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://pulsofinanzas.info/noticias/noticia-1783691842061-245</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://pulsofinanzas.info/noticias/noticia-1783691850747-393</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://pulsofinanzas.info/noticias/noticia-1783680238931-404</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
