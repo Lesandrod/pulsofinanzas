@@ -18,7 +18,7 @@ const articleKeywords = `${article.category.toLowerCase()}, pulso finanzas, noti
 
 const newsSchema = {
   "@context": "https://schema.org",
-  "@type": "NewsArticle",
+  "@type": "BlogPosting",
   "headline": article.title,
   "description": article.summary,
   "datePublished": "2026-07-06T00:00:00Z",
@@ -82,7 +82,7 @@ const newsSchema = {
 
       <div style="font-family: var(--font-sans); font-size: 0.78rem; color: var(--text-muted); border-top: 1px solid var(--border-color); padding-top: 15px; margin-top: 25px; display: flex; flex-direction: column; gap: 8px; line-height: 1.4;">
         <div>
-          <strong>Nota Editorial de Cocuraduría:</strong> En Pulso Finanzas realizamos un trabajo de traducción, síntesis y adaptación de reportes económicos de medios de comunicación internacionales de alta autoridad. Nuestro equipo editorial añade análisis prácticos propios de utilidad directa y los vincula con herramientas de cálculo interactivas para que el lector de habla hispana pueda comprender e instrumentar el impacto de la noticia en su economía personal.
+          <strong>Nota de Cocuraduría e Integración:</strong> Como un grupo de amigos apasionados por la economía y las criptomonedas, realizamos un trabajo voluntario de traducción, síntesis y adaptación de reportes financieros de medios internacionales de alta autoridad. Vinculamos esta información con las herramientas de cálculo y simuladores desarrollados por nuestro programador para ayudar a la comunidad de habla hispana a visualizar de manera práctica el impacto de la actualidad económica en sus presupuestos personales.
         </div>
         <div>
           <span>Fuente de información original: <strong>{article.sourceName}</strong></span>
