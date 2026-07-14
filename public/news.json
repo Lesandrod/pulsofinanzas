@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1784009015580-387",
+    "category": "Mercados",
+    "title": "Kalshi Pro: La nueva herramienta que optimiza el trading simultáneo de futuros perpetuos para inversores activos",
+    "summary": "Kalshi ha lanzado 'Pro', una nueva herramienta diseñada para sus traders más activos que operan múltiples mercados y futuros perpetuos al mismo tiempo. Esta plataforma busca resolver los problemas de eficiencia y complejidad que estos usuarios experimentaban, según un comunicado interno.",
+    "editorialComment": "La introducción de Kalshi Pro marca un hito en la optimización de estrategias para traders de alto volumen, aliviando complejidades en mercados dinámicos. Aunque esta herramienta se enfoca en maximizar la eficiencia operativa y las ganancias a corto plazo, es fundamental que los inversores piensen en el crecimiento de su capital a largo plazo. Te invitamos a utilizar nuestra calculadora de interés compuesto para proyectar cómo tus ganancias de trading pueden crecer exponencialmente con el tiempo, transformándose en un patrimonio sólido.",
+    "relatedTool": "tab-interes",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html",
+    "date": "14 de julio de 2026",
+    "timestamp": 1784009015593,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Kalshi ha dado un paso significativo en el mundo del trading con el lanzamiento de su producto 'Pro', diseñado específicamente para sus usuarios más activos. Esta innovadora plataforma busca abordar los desafíos inherentes a la operación simultánea en múltiples mercados, particularmente en el ámbito de los futuros perpetuos. La iniciativa surge como respuesta directa a los problemas reportados por los traders de alto volumen, quienes a menudo enfrentan cuellos de botella y complejidades al gestionar diversas posiciones y estrategias al mismo tiempo.</p><p>El enfoque en los futuros perpetuos es clave, ya que estos instrumentos financieros, que no tienen fecha de vencimiento, ofrecen flexibilidad pero también demandan una gestión sofisticada y herramientas robustas. Kalshi Pro promete simplificar esta complejidad, permitiendo a los inversores ejecutar sus estrategias con mayor agidez y precisión. La memo interna de la compañía, revelada a CNBC, subraya el compromiso de Kalshi con la mejora continua de la experiencia de usuario, especialmente para aquellos que contribuyen significativamente al volumen de trading.</p><p>Este lanzamiento no solo mejora la experiencia para los traders existentes de Kalshi, sino que también establece un nuevo estándar en la industria de plataformas de trading. Al ofrecer una solución dedicada a la optimización de operaciones complejas, Kalshi Pro podría atraer a un segmento más amplio de inversores institucionales y minoristas avanzados, impulsando la liquidez y la eficiencia en los mercados de futuros. Su impacto podría extenderse a la democratización de herramientas de trading sofisticadas, permitiendo que un mayor número de participantes naveguen con éxito en el dinámico panorama de los mercados financieros globales.</p>"
+  },
+  {
+    "id": "noticia-1784009024721-948",
+    "category": "Mercados",
+    "title": "Goldman Sachs entra en el negocio de jubilaciones: ¿Qué significa para tu pensión?",
+    "summary": "Goldman Sachs ha logrado capturar una porción significativa de los fondos de jubilación de Estados Unidos a través de su división de gestión de activos. Esta maniobra posiciona al banco como un actor clave en la administración de ahorros para la jubilación, afectando potencialmente a millones de futuros jubilados.",
+    "editorialComment": "La incursión de Goldman Sachs en la gestión de fondos de jubilación subraya la importancia de una planificación financiera a largo plazo. Entender cómo el interés compuesto potencia tus ahorros es crucial para asegurar una jubilación próspera, sin importar quién administre los fondos. ¡Calcula el impacto de tus inversiones!",
+    "relatedTool": "tab-interes",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-quietly-snags-corner-003700514.html",
+    "date": "14 de julio de 2026",
+    "timestamp": 1784009024721,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Goldman Sachs ha realizado una importante y discreta jugada en el mercado de pensiones estadounidense, asegurando una parte considerable de los fondos de jubilación del país. A través de su división de gestión de activos, el gigante financiero ha consolidado su posición en la administración de planes 401(k) y otras cuentas de ahorro para la jubilación, un movimiento que ha pasado desapercibido para muchos a pesar de su magnitud. Esta estrategia refuerza la creciente influencia de la firma en el panorama financiero a largo plazo.</p><p>Esta incursión no es menor. Al integrar la gestión de estos gigantescos fondos, Goldman Sachs no solo amplía su cartera de clientes, sino que también se posiciona como un actor clave en la seguridad financiera de millones de estadounidenses. La escala de esta operación sugiere una visión a largo plazo por parte del banco, buscando estabilidad y flujos de ingresos consistentes en un segmento de mercado que históricamente ha sido dominado por otras firmas de inversión.</p><p>La implicación para la economía general es significativa. La concentración de la gestión de fondos de jubilación en manos de grandes instituciones como Goldman Sachs puede tener efectos en la competencia, las comisiones y las estrategias de inversión para los ahorradores. Este tipo de movimientos subraya la continua consolidación en la industria financiera y la importancia estratégica de los ahorros para la jubilación como un pilar fundamental del capital en los mercados globales.</p>"
+  },
+  {
+    "id": "noticia-1784009033007-111",
+    "category": "Mercados",
+    "title": "¿Qué esperar del dato de inflación de junio del INDEC y cómo impacta en tus finanzas?",
+    "summary": "El Instituto Nacional de Estadística y Censos (INDEC) publicará hoy el Índice de Precios al Consumidor (IPC) de junio, un dato clave para la economía argentina. Las consultoras ya anticipan sus proyecciones sobre este número y los rubros que habrían contribuido a su posible desaceleración.",
+    "editorialComment": "Ante la expectativa del dato de inflación de junio, la gestión eficiente de tus finanzas personales se vuelve imprescindible. Entender cómo este índice afecta tu poder adquisitivo es el primer paso para proteger tu capital. Te invitamos a utilizar nuestras plantillas de ahorro, una herramienta invaluable para organizar tu presupuesto y planificar tus gastos en un entorno inflacionario.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/07/14/hoy-se-conoce-el-dato-de-inflacion-de-junio-que-numero-esperan-los-especialistas/",
+    "date": "14 de julio de 2026",
+    "timestamp": 1784009033008,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El Instituto Nacional de Estadística y Censos (INDEC) dará a conocer hoy el Índice de Precios al Consumidor (IPC) correspondiente al mes de junio. Este dato es uno de los más esperados por analistas económicos, inversores y la ciudadanía en general, ya que ofrece una radiografía crucial sobre la evolución de la inflación en el país y su impacto directo en el poder adquisitivo de los argentinos.</p><p>Las proyecciones de las principales consultoras y entidades financieras giran en torno a un número que, si bien se mantiene en niveles elevados, podría mostrar una moderación respecto a meses anteriores. Se especula que la desaceleración, en caso de confirmarse, podría estar impulsada por ciertos rubros específicos que habrían contribuido a contener el incremento general de los precios, aunque la presión inflacionaria sigue siendo un desafío constante para la economía doméstica.</p><p>La publicación del IPC de junio no solo influirá en las decisiones de política monetaria del Banco Central, sino que también será un termómetro clave para la confianza de los mercados y las expectativas de los consumidores. Comprender la composición de este índice es fundamental para planificar estrategias financieras personales y empresariales, adaptándose a un panorama económico en constante evolución y buscando preservar el valor de los ahorros e inversiones.</p>"
+  },
+  {
     "id": "noticia-1783992200826-225",
     "category": "Bolsa de Valores",
     "title": "Oportunidad de Inversión: La Fiebre de IPOs en Startups Chinas de Robótica Humanoide",
@@ -306,47 +348,5 @@
     "timestamp": 1783888491617,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>Goldman Sachs ha conseguido un triunfo notable en el sector de gestión de activos, al cerrar acuerdos valorados en un total de $70 mil millones. Estos importantes contratos, que incluyen la administración de fondos para gigantes corporativos como Verizon y Lockheed Martin, consolidan la posición de la firma como un actor clave en el panorama financiero global. La confianza depositada por estas empresas de primer nivel en Goldman Sachs subraya la reputación y la capacidad de la entidad para manejar carteras de gran escala y complejidad.</p><p>Este movimiento estratégico se produce en un contexto de competencia extremadamente reñida dentro del mercado de activos para jubilación, un segmento que gestiona billones de dólares a nivel mundial. Gestores de fondos de la talla de BlackRock, Russell Investments y Mercer compiten constantemente por la administración de estos vastos capitales institucionales. La adición de clientes de alto perfil como Verizon y Lockheed Martin no solo representa una inyección masiva de activos bajo gestión para Goldman Sachs, sino que también intensifica la batalla por el liderazgo en este lucrativo y esencial sector.</p><p>La relevancia de estos acuerdos va más allá de las ganancias directas para Goldman Sachs. Reflejan una tendencia creciente entre las grandes corporaciones a externalizar la gestión de sus fondos de pensiones y beneficios para empleados, buscando optimizar rendimientos y mitigar riesgos en un entorno financiero volátil. Para la economía general, estas consolidaciones y movimientos masivos de capital institucional pueden influir significativamente en la dirección de los mercados, la asignación de recursos y, en última instancia, en el crecimiento económico a largo plazo, al dirigir vastas sumas de dinero hacia diversas oportunidades de inversión.</p>"
-  },
-  {
-    "id": "noticia-1783888500410-556",
-    "category": "Mercados",
-    "title": "Musk vs. OpenAI y Apple: ¿Cómo esta guerra tecnológica agita los mercados globales?",
-    "summary": "Elon Musk ha arremetido públicamente contra la integración de OpenAI con Apple, citando serias preocupaciones de seguridad. En respuesta, Sam Altman de OpenAI replicó con una pulla sobre los centros de datos espaciales prometidos por Musk.",
-    "editorialComment": "Este tipo de disputas entre gigantes tecnológicos genera volatilidad e incertidumbre en los mercados, pero también resalta la importancia de la visión a largo plazo en las inversiones. Invertir en empresas innovadoras como las que lideran estas figuras requiere una estrategia sólida, donde comprender el poder del interés compuesto puede ser clave para visualizar el crecimiento potencial de tus activos a pesar de las fluctuaciones del mercado.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-roasts-openais-apple-191500316.html",
-    "date": "12 de julio de 2026",
-    "timestamp": 1783888500411,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El siempre polémico Elon Musk ha encendido nuevamente las redes al criticar abiertamente la integración de OpenAI con los dispositivos de Apple, tildándola de una 'traición espantosa' a la seguridad del usuario. Este ataque, cargado de preocupación por la protección de datos, pone en el ojo del huracán a dos de las compañías más influyentes del sector tecnológico y a la vanguardia de la inteligencia artificial.</p><p>La respuesta no se hizo esperar. Sam Altman, CEO de OpenAI, replicó con agudeza, recordándole a Musk sus propias promesas de negocio, incluyendo la ambiciosa idea de centros de datos en el espacio. Este intercambio de golpes no solo revela la tensión entre los líderes de la IA, sino que también subraya la feroz competencia por el dominio en un campo que promete transformar radicalmente nuestra economía.</p><p>Más allá del espectáculo personal, este enfrentamiento tiene implicaciones significativas para el mercado tecnológico. Las dudas sobre la seguridad de la IA y la elección de socios estratégicos pueden influir en la confianza de los inversores y en la dirección futura de la innovación. Los analistas de Pulso Finanzas estarán atentos a cómo esta pugna impacta en las valoraciones bursátiles y en la adopción generalizada de la inteligencia artificial, especialmente en un momento crucial para la economía global.</p>"
-  },
-  {
-    "id": "noticia-1783888509015-422",
-    "category": "Mercados",
-    "title": "Ahorro Inteligente en el Supermercado: Descubre Cómo los Argentinos Reducen el Consumo de Harinas y Ultraprocesados",
-    "summary": "Nueve de cada diez hogares argentinos están modificando sus hábitos de compra, buscando activamente reducir el consumo de harinas, pan y productos ultraprocesados. Esta tendencia responde a la doble motivación de mejorar el bienestar y lograr un ahorro significativo en el presupuesto familiar.",
-    "editorialComment": "La decisión de millones de argentinos de reevaluar su changuito pone de manifiesto la creciente conciencia sobre la gestión del presupuesto familiar y la importancia del ahorro. Entender dónde se va cada peso es fundamental para optimizar los gastos y alcanzar metas financieras. Para ayudarte a visualizar y controlar tus finanzas, nuestra plantilla de ahorro es una herramienta indispensable.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/07/12/harinas-pan-y-ultraprocesados-los-productos-que-los-argentinos-buscan-sacar-del-changuito/",
-    "date": "12 de julio de 2026",
-    "timestamp": 1783888509016,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>La tendencia de reducir el consumo de harinas, pan y ultraprocesados está tomando fuerza en los hogares argentinos, con nueve de cada diez familias buscando activamente alternativas más saludables y económicas. Este cambio de paradigma refleja una doble motivación: la búsqueda de un mayor bienestar nutricional y la necesidad imperante de ajustar el presupuesto en un contexto económico desafiante. Los ciudadanos están cada vez más atentos a la composición de lo que compran y su impacto en la salud y el bolsillo.</p><p>Esta reconfiguración del 'changuito' tiene implicaciones significativas para la economía doméstica. Al optar por productos con menor carga de azúcar y harinas, los consumidores no solo persiguen beneficios para la salud, sino que también implementan estrategias de ahorro que pueden aliviar la presión sobre las finanzas del hogar. La demanda de alternativas más frescas y menos procesadas podría reorientar la producción y la oferta del mercado alimenticio, impulsando opciones más conscientes y eficientes en términos de costo-beneficio.</p><p>Más allá del impacto inmediato en el consumo, esta tendencia subraya una creciente sofisticación del consumidor argentino, quien ahora valora la relación entre alimentación, salud y economía personal. Para Pulso Finanzas, este escenario refuerza la importancia de herramientas que empoderen a las familias a gestionar mejor sus recursos. Monitorear los gastos alimenticios y planificar una compra inteligente se vuelve una piedra angular para cualquier estrategia de ahorro exitoso en el panorama actual.</p>"
-  },
-  {
-    "id": "noticia-1783874692998-433",
-    "category": "Mercados",
-    "title": "Actas de la Fed: La 'Pelea Familiar' por Tasas de Interés Podría Prolongarse, Impactando Mercados",
-    "summary": "Las actas de la última reunión de la Reserva Federal de EE. UU. revelan una significativa 'pelea familiar' interna sobre la dirección de las tasas de interés. Esta inusual discordia sugiere que las futuras decisiones sobre política monetaria podrían ser prolongadas e inciertas, marcando un panorama distinto al de las últimas tres décadas y media.",
-    "editorialComment": "La constante disputa dentro de la Fed sobre las tasas de interés resalta la volatilidad inherente a los mercados financieros y la crucial importancia de la planificación a largo plazo. Entender cómo las fluctuaciones en las tasas afectan el crecimiento de su capital es esencial; nuestra Calculadora de Interés Compuesto es una herramienta invaluable para proyectar el potencial de sus inversiones en este entorno cambiante.",
-    "relatedTool": "tab-interes",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html",
-    "date": "12 de julio de 2026",
-    "timestamp": 1783874693012,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Las recién publicadas actas de la Reserva Federal de Estados Unidos han desvelado una profunda 'pelea familiar' interna entre sus miembros respecto al rumbo de las tasas de interés. Este desacuerdo no es menor, ya que sugiere una falta de consenso que podría prolongar la incertidumbre sobre la política monetaria en un futuro previsible. La situación es particularmente notable dado que, en los últimos 35 años, han sido contadas las ocasiones en que la Fed ha realizado un único movimiento de tasas, lo que subraya la singularidad del actual estancamiento.</p><p>La implicación más directa de esta disputa interna es una posible mayor volatilidad en los mercados financieros. Los inversores y analistas buscan señales claras de la Fed para ajustar sus estrategias, y un organismo dividido genera una niebla de incertidumbre que puede frenar decisiones de inversión y consumo. La perspectiva de un debate prolongado sobre si las tasas deben subir, bajar o mantenerse estables introduce un elemento de imprevisibilidad que las empresas y los hogares deberán navegar con cautela.</p><p>Para la economía en general, esta 'lucha interna' podría traducirse en un período de ajuste más lento y menos predecible. Las decisiones sobre hipotecas, préstamos empresariales y la rentabilidad de los ahorros están intrínsecamente ligadas a las tasas de interés. Por ello, la incapacidad de la Fed para encontrar un camino claro y unificado podría influir en el crecimiento económico, haciendo que tanto los consumidores como las empresas sean más reacios a asumir riesgos y a realizar inversiones a gran escala hasta que haya mayor claridad en el horizonte monetario.</p>"
   }
 ]
