@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1784121005947-634",
+    "category": "Bolsa de Valores",
+    "title": "Warren Buffett: Claves para Invertir con Valor y Evitar la Especulación Hoy",
+    "summary": "El legendario inversor Warren Buffett ha expresado su fuerte crítica al actual mercado bursátil. Según Buffett, la especulación excesiva dificulta encontrar inversiones de valor a largo plazo, equiparando gran parte de la actividad a una forma de 'juego'.",
+    "editorialComment": "La visión de Warren Buffett subraya la importancia de una estrategia de inversión a largo plazo, alejada de la euforia especulativa. En Pulso Finanzas, creemos en el poder del tiempo y la paciencia para construir riqueza real. Te invitamos a utilizar nuestra Calculadora de Interés Compuesto para visualizar cómo tus inversiones pueden crecer exponencialmente, aplicando la sabiduría del valor a lo largo de los años.",
+    "relatedTool": "tab-interes",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html",
+    "date": "15 de julio de 2026",
+    "timestamp": 1784121005960,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Warren Buffett, el célebre 'Oráculo de Omaha' y presidente de Berkshire Hathaway, ha vuelto a alzar su voz crítica contra la dirección actual del mercado de valores. En declaraciones recientes, Buffett señaló la creciente dificultad para identificar inversiones de valor genuino, atribuyendo esta situación a una marcada preferencia por el trading especulativo, que en sus palabras, se asemeja más a 'jugar' que a invertir.</p><p>Esta postura del inversor legendario no es nueva, pero resuena con particular fuerza en un momento donde las plataformas de trading y la viralización de activos han popularizado movimientos rápidos y arriesgados. Buffett enfatiza que su filosofía de inversión se centra en adquirir participaciones en empresas sólidas a precios razonables, con la expectativa de mantenerlas a largo plazo. Sin embargo, la actual dinámica del mercado, impulsada por euforias cortoplacistas, desvía la atención de los fundamentos empresariales.</p><p>La advertencia de Buffett es crucial para los inversores, tanto novatos como experimentados. Sugiere una desconexión entre el valor intrínseco de las compañías y las valoraciones impulsadas por el fervor especulativo, lo que podría generar burbujas y correcciones futuras. Para Pulso Finanzas, la lección es clara: la disciplina y la perspectiva a largo plazo son esenciales para construir riqueza sostenible, incluso cuando el entorno parece invitar a la acción impulsiva.</p>"
+  },
+  {
+    "id": "noticia-1784121016787-63",
+    "category": "Mercados",
+    "title": "Precios al Productor en EE.UU. Caen Inesperadamente en Junio: ¿Es el Alivio Inflacionario que Esperabas?",
+    "summary": "Los precios al productor en Estados Unidos registraron una caída inesperada en junio, sorprendiendo a los analistas económicos y a los mercados financieros. Esta disminución sugiere una posible desaceleración de las presiones inflacionarias desde la cadena de suministro.",
+    "editorialComment": "La inesperada caída de los precios al productor en EE.UU. es una señal positiva que podría aliviar las presiones inflacionarias generales. Aunque es una buena noticia, la gestión efectiva de tus finanzas personales sigue siendo clave para aprovechar cualquier escenario económico. Te invitamos a descargar nuestra plantilla de ahorro para optimizar tu presupuesto y alcanzar tus metas financieras, aprovechando cada oportunidad.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/economy/articles/us-producer-prices-unexpectedly-fall-125824836.html",
+    "date": "15 de julio de 2026",
+    "timestamp": 1784121016788,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Según datos recientes, los precios al productor en Estados Unidos experimentaron una inesperada caída en junio, marcando un punto de inflexión que sorprendió a los mercados y analistas económicos. Este descenso representa un respiro en las presiones inflacionarias que han persistido en la economía global, desafiando las previsiones que anticipaban un mantenimiento o incluso un ligero incremento. Es la primera vez en varios meses que se observa una contracción tan significativa en este índice, el cual mide el costo de los bienes y servicios desde la perspectiva de los productores.</p><p>La relevancia de este indicador radica en su papel como un termómetro temprano de la inflación. Una caída en los precios al productor sugiere que las empresas están enfrentando menores costos en sus insumos y producción, lo cual, en teoría, podría traducirse en precios más estables o incluso reducciones para los consumidores finales en los próximos meses. Para la Reserva Federal, esta noticia podría ofrecer un margen de maniobra adicional en su política monetaria, disminuyendo la urgencia de futuras subidas de tipos de interés si esta tendencia a la desinflación se consolida.</p><p>Este desarrollo se produce en un momento crucial para la economía global, donde la resiliencia de las cadenas de suministro y la demanda del consumidor están bajo constante escrutinio. Si bien esta caída de los precios al productor es una señal alentadora, los expertos advierten que es fundamental observar la evolución de otros indicadores clave, como el Índice de Precios al Consumidor (IPC) y los datos de empleo, para confirmar si esta tendencia a la desinflación se mantiene. Los inversores y ciudadanos por igual estarán atentos a las próximas publicaciones económicas para discernir el camino que tomará la economía en la segunda mitad del año.</p>"
+  },
+  {
+    "id": "noticia-1784121024753-143",
+    "category": "Mercados",
+    "title": "Alerta económica: Cómo la pérdida de 330.000 empleos asalariados impacta tus finanzas y el mercado",
+    "summary": "Datos oficiales revelan la pérdida de casi 330.000 puestos de trabajo asalariados desde noviembre de 2023 en Argentina. La caída del empleo se profundizó en abril, y las proyecciones para mayo no anticipan una recuperación del mercado laboral.",
+    "editorialComment": "La preocupante tendencia de pérdida de empleos subraya la importancia de la planificación financiera personal en tiempos de incertidumbre. Si te encuentras en una situación de cambio laboral o necesitas calcular una indemnización, es fundamental conocer tus derechos. Nuestra calculadora de finiquito puede ser una herramienta esencial para asegurar que tus cálculos sean precisos.",
+    "relatedTool": "tab-finiquito",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/07/15/desde-noviembre-de-2023-se-perdieron-casi-330000-puestos-de-trabajo-asalariados-segun-datos-oficiales/",
+    "date": "15 de julio de 2026",
+    "timestamp": 1784121024753,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Según datos oficiales, el mercado laboral argentino ha experimentado una contracción significativa, con la pérdida de casi 330.000 puestos de trabajo asalariados desde noviembre de 2023. Esta tendencia negativa se acentuó en abril, y los indicadores adelantados para mayo sugieren que la recuperación del empleo aún no se vislumbra, generando preocupación en el ámbito económico.</p><p>Esta sostenida destrucción de empleo tiene implicaciones directas en la economía general. La disminución del poder adquisitivo de los hogares, producto de la falta de ingresos o la incertidumbre laboral, impacta directamente en el consumo y la demanda interna, factores cruciales para el crecimiento económico. Sectores clave de la actividad productiva se ven afectados, lo que puede generar un círculo vicioso de menor inversión y más despidos.</p><p>Para inversores y ciudadanos por igual, este panorama laboral adverso exige una atención especial. La evolución del empleo es un barómetro clave de la salud económica de un país, y su deterioro continuado puede señalar desafíos persistentes. Es crucial monitorear estos datos y adoptar estrategias financieras precautorias para navegar un entorno económico que presenta claras señales de desaceleración en el ámbito laboral.</p>"
+  },
+  {
     "id": "noticia-1784108975293-525",
     "category": "Mercados",
     "title": "Alerta Fed: ¿Subirá la tasa en julio? El repunte del petróleo dispara las apuestas y cómo te afecta",
@@ -306,47 +348,5 @@
     "timestamp": 1784009015593,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>Kalshi ha dado un paso significativo en el mundo del trading con el lanzamiento de su producto 'Pro', diseñado específicamente para sus usuarios más activos. Esta innovadora plataforma busca abordar los desafíos inherentes a la operación simultánea en múltiples mercados, particularmente en el ámbito de los futuros perpetuos. La iniciativa surge como respuesta directa a los problemas reportados por los traders de alto volumen, quienes a menudo enfrentan cuellos de botella y complejidades al gestionar diversas posiciones y estrategias al mismo tiempo.</p><p>El enfoque en los futuros perpetuos es clave, ya que estos instrumentos financieros, que no tienen fecha de vencimiento, ofrecen flexibilidad pero también demandan una gestión sofisticada y herramientas robustas. Kalshi Pro promete simplificar esta complejidad, permitiendo a los inversores ejecutar sus estrategias con mayor agidez y precisión. La memo interna de la compañía, revelada a CNBC, subraya el compromiso de Kalshi con la mejora continua de la experiencia de usuario, especialmente para aquellos que contribuyen significativamente al volumen de trading.</p><p>Este lanzamiento no solo mejora la experiencia para los traders existentes de Kalshi, sino que también establece un nuevo estándar en la industria de plataformas de trading. Al ofrecer una solución dedicada a la optimización de operaciones complejas, Kalshi Pro podría atraer a un segmento más amplio de inversores institucionales y minoristas avanzados, impulsando la liquidez y la eficiencia en los mercados de futuros. Su impacto podría extenderse a la democratización de herramientas de trading sofisticadas, permitiendo que un mayor número de participantes naveguen con éxito en el dinámico panorama de los mercados financieros globales.</p>"
-  },
-  {
-    "id": "noticia-1784009024721-948",
-    "category": "Mercados",
-    "title": "Goldman Sachs entra en el negocio de jubilaciones: ¿Qué significa para tu pensión?",
-    "summary": "Goldman Sachs ha logrado capturar una porción significativa de los fondos de jubilación de Estados Unidos a través de su división de gestión de activos. Esta maniobra posiciona al banco como un actor clave en la administración de ahorros para la jubilación, afectando potencialmente a millones de futuros jubilados.",
-    "editorialComment": "La incursión de Goldman Sachs en la gestión de fondos de jubilación subraya la importancia de una planificación financiera a largo plazo. Entender cómo el interés compuesto potencia tus ahorros es crucial para asegurar una jubilación próspera, sin importar quién administre los fondos. ¡Calcula el impacto de tus inversiones!",
-    "relatedTool": "tab-interes",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-quietly-snags-corner-003700514.html",
-    "date": "14 de julio de 2026",
-    "timestamp": 1784009024721,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Goldman Sachs ha realizado una importante y discreta jugada en el mercado de pensiones estadounidense, asegurando una parte considerable de los fondos de jubilación del país. A través de su división de gestión de activos, el gigante financiero ha consolidado su posición en la administración de planes 401(k) y otras cuentas de ahorro para la jubilación, un movimiento que ha pasado desapercibido para muchos a pesar de su magnitud. Esta estrategia refuerza la creciente influencia de la firma en el panorama financiero a largo plazo.</p><p>Esta incursión no es menor. Al integrar la gestión de estos gigantescos fondos, Goldman Sachs no solo amplía su cartera de clientes, sino que también se posiciona como un actor clave en la seguridad financiera de millones de estadounidenses. La escala de esta operación sugiere una visión a largo plazo por parte del banco, buscando estabilidad y flujos de ingresos consistentes en un segmento de mercado que históricamente ha sido dominado por otras firmas de inversión.</p><p>La implicación para la economía general es significativa. La concentración de la gestión de fondos de jubilación en manos de grandes instituciones como Goldman Sachs puede tener efectos en la competencia, las comisiones y las estrategias de inversión para los ahorradores. Este tipo de movimientos subraya la continua consolidación en la industria financiera y la importancia estratégica de los ahorros para la jubilación como un pilar fundamental del capital en los mercados globales.</p>"
-  },
-  {
-    "id": "noticia-1784009033007-111",
-    "category": "Mercados",
-    "title": "¿Qué esperar del dato de inflación de junio del INDEC y cómo impacta en tus finanzas?",
-    "summary": "El Instituto Nacional de Estadística y Censos (INDEC) publicará hoy el Índice de Precios al Consumidor (IPC) de junio, un dato clave para la economía argentina. Las consultoras ya anticipan sus proyecciones sobre este número y los rubros que habrían contribuido a su posible desaceleración.",
-    "editorialComment": "Ante la expectativa del dato de inflación de junio, la gestión eficiente de tus finanzas personales se vuelve imprescindible. Entender cómo este índice afecta tu poder adquisitivo es el primer paso para proteger tu capital. Te invitamos a utilizar nuestras plantillas de ahorro, una herramienta invaluable para organizar tu presupuesto y planificar tus gastos en un entorno inflacionario.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/07/14/hoy-se-conoce-el-dato-de-inflacion-de-junio-que-numero-esperan-los-especialistas/",
-    "date": "14 de julio de 2026",
-    "timestamp": 1784009033008,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El Instituto Nacional de Estadística y Censos (INDEC) dará a conocer hoy el Índice de Precios al Consumidor (IPC) correspondiente al mes de junio. Este dato es uno de los más esperados por analistas económicos, inversores y la ciudadanía en general, ya que ofrece una radiografía crucial sobre la evolución de la inflación en el país y su impacto directo en el poder adquisitivo de los argentinos.</p><p>Las proyecciones de las principales consultoras y entidades financieras giran en torno a un número que, si bien se mantiene en niveles elevados, podría mostrar una moderación respecto a meses anteriores. Se especula que la desaceleración, en caso de confirmarse, podría estar impulsada por ciertos rubros específicos que habrían contribuido a contener el incremento general de los precios, aunque la presión inflacionaria sigue siendo un desafío constante para la economía doméstica.</p><p>La publicación del IPC de junio no solo influirá en las decisiones de política monetaria del Banco Central, sino que también será un termómetro clave para la confianza de los mercados y las expectativas de los consumidores. Comprender la composición de este índice es fundamental para planificar estrategias financieras personales y empresariales, adaptándose a un panorama económico en constante evolución y buscando preservar el valor de los ahorros e inversiones.</p>"
-  },
-  {
-    "id": "noticia-1783992200826-225",
-    "category": "Bolsa de Valores",
-    "title": "Oportunidad de Inversión: La Fiebre de IPOs en Startups Chinas de Robótica Humanoide",
-    "summary": "Empresas chinas de robótica humanoide como LimX Dynamics están acelerando sus procesos de salida a bolsa para capitalizar el interés de los inversores. Esta tendencia refleja una fuerte demanda por tecnologías emergentes y el potencial de retornos elevados en el mercado asiático.",
-    "editorialComment": "La efervescencia en el sector de los humanoides en China subraya el potencial de crecimiento exponencial en mercados tecnológicos emergentes. Para aquellos que buscan capitalizar estas megatendencias a largo plazo, entender cómo el interés compuesto potencia el crecimiento de sus inversiones es fundamental. Nuestra calculadora de interés compuesto puede ser su aliada para proyectar rendimientos futuros en escenarios de alta volatilidad y crecimiento como este.",
-    "relatedTool": "tab-interes",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
-    "date": "14 de julio de 2026",
-    "timestamp": 1783992200839,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El panorama tecnológico chino está experimentando una efervescencia sin precedentes en el sector de la robótica humanoide, con startups como LimX Dynamics de Shenzhen liderando una carrera para lanzar sus Ofertas Públicas Iniciales (IPOs). Este fenómeno no solo evidencia la maduración de una industria de vanguardia, sino que también resalta el apetito insaciable de los inversores por nuevas oportunidades en el ámbito de la inteligencia artificial y la robótica, buscando capitalizar futuros rendimientos significativos.</p><p>La urgencia por salir a bolsa, descrita como 'Listing is a must', se debe a múltiples factores. Por un lado, la inyección de capital a través de un IPO es crucial para financiar la investigación y el desarrollo de tecnologías altamente costosas y para escalar la producción. Por otro, los inversores iniciales buscan salidas rentables, y la bolsa ofrece la liquidez y la valoración necesarias para materializar esas ganancias. Esta dinámica está creando un ecosistema altamente competitivo donde la velocidad para atraer financiación es clave para el liderazgo.</p><p>La implicación para la economía global es significativa, ya que China busca consolidar su posición como líder en inteligencia artificial y robótica. El éxito de estas IPOs podría no solo redefinir el futuro del trabajo y la automatización, sino también abrir nuevas vías de inversión para portafolios diversificados. Los inversores atentos a estas tendencias podrían encontrar en estos desarrollos un catalizador para el crecimiento a largo plazo, aunque siempre con la debida diligencia ante los riesgos inherentes a las inversiones en tecnologías emergentes y mercados de rápido movimiento.</p>"
   }
 ]
