@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1784135072095-723",
+    "category": "Mercados",
+    "title": "La Fed Habla: Qué Implicaciones Tienen las Declaraciones de Kevin Warsh sobre la Economía y Tus Finanzas",
+    "summary": "El presidente de la Reserva Federal, Kevin Warsh, compareció ante el Comité Bancario del Senado para abordar temas cruciales sobre la economía y las tasas de interés. Esta intervención forma parte de sus comparecencias regulares ante el Congreso para informar sobre la política monetaria del banco central.",
+    "editorialComment": "Las decisiones sobre tasas de interés impactan directamente en el costo de los préstamos y el rendimiento de tus ahorros. Entender cómo funcionan es clave para una buena planificación. Con nuestra calculadora de interés compuesto, puedes simular el crecimiento de tus inversiones o el impacto de las deudas en diferentes escenarios de tasas, permitiéndote tomar decisiones financieras más informadas.",
+    "relatedTool": "tab-interes",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
+    "date": "15 de julio de 2026",
+    "timestamp": 1784135072109,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El presidente de la Reserva Federal, Kevin Warsh, realizó una esperada comparecencia ante el Comité Bancario del Senado, como parte de sus obligaciones congresionales. Durante su intervención, el líder del banco central abordó los temas más acuciantes que enfrenta la economía estadounidense, con un énfasis particular en la trayectoria de las tasas de interés y sus implicaciones futuras para el crecimiento y la estabilidad financiera.</p><p>Las declaraciones de Warsh son escrutadas con lupa por inversores, analistas y ciudadanos por igual, dado que marcan la pauta de la política monetaria del país. Cualquier indicio sobre posibles alzas o recortes en las tasas de interés tiene repercusiones directas en el costo de los créditos hipotecarios, los préstamos empresariales y el rendimiento de los ahorros, afectando la toma de decisiones financieras a todos los niveles.</p><p>La visión de la Fed sobre la economía general, incluyendo factores como la inflación, el empleo y el consumo, es vital para anticipar los movimientos del mercado y planificar estrategias financieras. Este tipo de comparecencias ofrecen una ventana crucial a la estrategia del banco central para mantener la estabilidad económica, influyendo desde el precio de los bienes hasta las oportunidades de inversión para millones de personas.</p>"
+  },
+  {
+    "id": "noticia-1784135082769-827",
+    "category": "Mercados",
+    "title": "Alarmante Advertencia de CEOs: Microsoft y Palantir Alertan Sobre el Futuro Riesgoso de la Inteligencia Artificial",
+    "summary": "El CEO de Microsoft, Satya Nadella, ha respaldado las preocupaciones del CEO de Palantir, Alex Karp, sobre los riesgos y el rápido desarrollo de la Inteligencia Artificial. Ambos líderes tecnológicos señalan la posibilidad de que la IA genere 'superinteligencia' y consecuentes desafíos existenciales y totalitarios, pese a su potencial.",
+    "editorialComment": "La creciente preocupación de líderes tecnológicos por el impacto de la IA subraya la importancia de una planificación financiera sólida en tiempos de cambio. Ante la potencial disrupción que la IA podría traer a la economía y el mercado laboral, es más vital que nunca gestionar sus finanzas personales con prudencia. Utilice nuestras plantillas de ahorro para asegurar su estabilidad económica frente a futuros inciertos.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-adds-fuel-palantir-030700396.html",
+    "date": "15 de julio de 2026",
+    "timestamp": 1784135082769,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El director ejecutivo de Microsoft, Satya Nadella, ha encendido las alarmas al unirse a las advertencias de Alex Karp, CEO de Palantir, sobre los profundos riesgos que la Inteligencia Artificial (IA) podría representar para la sociedad. Ambos líderes tecnológicos señalan el potencial de la IA para alcanzar una \"superinteligencia\" con consecuencias impredecibles, incluyendo posibles derivaciones hacia sistemas totalitarios o incluso riesgos existenciales. Esta convergencia de preocupaciones desde el corazón de la industria tecnológica añade un peso significativo al debate sobre la gobernanza y el futuro de la IA.</p><p>A pesar de reconocer el inmenso potencial transformador de la IA para el progreso humano, Nadella enfatiza la urgencia de establecer mecanismos de seguridad y \"barandillas\" sólidas que guíen su desarrollo. La velocidad con la que avanza esta tecnología plantea un desafío sin precedentes para legisladores y expertos éticos, quienes luchan por comprender y anticipar todas sus ramificaciones. La conversación ya no se centra solo en las oportunidades, sino en la necesidad crítica de mitigar los peligros inherentes a una tecnología con capacidades exponenciales.</p><p>Para los mercados financieros y la economía global, estas advertencias sugieren un período de alta volatilidad e incertidumbre. Las empresas que no logren navegar la disrupción de la IA, o que lo hagan sin una base ética sólida, podrían enfrentar serios reveses. Para el inversor y el ciudadano común, la señal es clara: la IA es una fuerza imparable que redefinirá industrias, mercados laborales y la forma en que interactuamos con el mundo. Una sólida planificación financiera y una continua adaptación serán claves para prosperar en esta nueva era tecnológica.</p>"
+  },
+  {
+    "id": "noticia-1784135089990-835",
+    "category": "Mercados",
+    "title": "ARCA 2026: ¿Cómo regularizar tus deudas con hasta 18 cuotas? Guía clave para MiPyMEs y pequeños contribuyentes",
+    "summary": "El organismo ARCA ha lanzado un régimen especial para saldar deudas vencidas hasta el 30 de junio. Este plan permite a MiPyMEs, pequeños contribuyentes y entidades sin fines de lucro financiar sus obligaciones en hasta 18 cuotas.",
+    "editorialComment": "La gestión inteligente de deudas es crucial para la salud financiera de cualquier entidad. Comprender cómo los intereses y las cuotas afectan su flujo de caja es vital. Nuestra calculadora de interés compuesto puede ser una herramienta invaluable para proyectar el costo total de estas financiaciones y planificar mejor sus pagos, asegurando una recuperación financiera sostenible.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/07/15/nuevo-plan-de-pagos-arca-2026-como-funciona-y-quienes-pueden-acceder/",
+    "date": "15 de julio de 2026",
+    "timestamp": 1784135089990,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El organismo ARCA ha puesto en marcha un nuevo plan de pagos extraordinario, diseñado para ofrecer un alivio financiero significativo a diversos actores económicos. Este régimen especial busca facilitar la regularización de deudas tributarias y de seguridad social vencidas, permitiendo a miles de MiPyMEs, pequeños contribuyentes y entidades sin fines de lucro sanear su situación fiscal y financiera.</p><p>La iniciativa abarca obligaciones impagas hasta el 30 de junio del presente año, otorgando una ventana de oportunidad crucial para aquellos que enfrentan dificultades. Los beneficiarios podrán acceder a planes de financiación que se extienden hasta en 18 cuotas, adaptándose a la capacidad de pago y al tipo de contribuyente, lo que representa una flexibilidad considerable en la reestructuración de pasivos.</p><p>Este plan no solo representa una medida de apoyo directa para los sectores más afectados, sino que también impulsa la formalización y la reactivación económica al reducir la carga de endeudamiento. Para Pulso Finanzas, este tipo de herramientas son esenciales para comprender la dinámica del mercado y las estrategias de recuperación, subrayando la importancia de una gestión financiera proactiva y el aprovechamiento de estas oportunidades para consolidar la estabilidad económica.</p>"
+  },
+  {
     "id": "noticia-1784121005947-634",
     "category": "Bolsa de Valores",
     "title": "Warren Buffett: Claves para Invertir con Valor y Evitar la Especulación Hoy",
@@ -306,47 +348,5 @@
     "timestamp": 1784022356429,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>Los mercados de predicción, plataformas donde los usuarios apuestan sobre el resultado de eventos futuros utilizando criptomonedas o activos tradicionales, han emergido como un nuevo foco de atención para las autoridades financieras. Recientemente, han surgido serias preocupaciones sobre la posibilidad de que se utilicen para el \"insider trading\", es decir, el uso de información privilegiada para obtener ventajas injustas. Una investigación de CNBC reveló que, de 50 grandes empresas consultadas, muchas carecen de políticas claras respecto a la participación de sus empleados en estos mercados, abriendo una puerta a riesgos éticos y legales significativos.</p><p>Ante este panorama, algunas firmas de Wall Street, como Goldman Sachs, están tomando medidas proactivas para abordar estos riesgos. Han comenzado a revisar y actualizar sus códigos de conducta, extendiendo las prohibiciones de trading a estos mercados emergentes para salvaguardar su reputación y la integridad del mercado. Este movimiento refleja la complejidad de regular un espacio que a menudo opera con menor supervisión que los mercados tradicionales, planteando un desafío tanto para las empresas como para los reguladores en cuanto a cómo mantener la equidad y la transparencia.</p><p>La situación pone de manifiesto la constante evolución de la ética financiera en la era digital y la necesidad de adaptar los marcos regulatorios a las nuevas tecnologías. Para los inversores, este desarrollo subraya la importancia de la diligencia debida y la comprensión de los riesgos asociados a plataformas menos reguladas. A medida que los mercados de predicción continúan creciendo, será crucial observar cómo las autoridades y las propias empresas logran equilibrar la innovación con la protección del inversor y la prevención de prácticas desleales.</p>"
-  },
-  {
-    "id": "noticia-1784022365187-453",
-    "category": "Bolsa de Valores",
-    "title": "Mercados Mixtos: Futuros del Dow, S&P 500 y Nasdaq Ante Expectativas de Alza de Tasas de la Fed",
-    "summary": "Los futuros de los principales índices bursátiles de EE. UU. operan con resultados mixtos mientras los traders aumentan sus apuestas sobre posibles alzas de tasas de la Reserva Federal. Esta cautela se observa en vísperas de la publicación de datos clave de inflación que podrían definir el rumbo de la política monetaria.",
-    "editorialComment": "La volatilidad actual del mercado, impulsada por las expectativas de tasas de la Fed, subraya la importancia de una estrategia de inversión sólida y a largo plazo. Para los inversores que buscan potenciar su capital en este entorno, comprender cómo las tasas de interés afectan el crecimiento compuesto es fundamental. Nuestra calculadora de interés compuesto puede ser una herramienta invaluable para visualizar este impacto.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html",
-    "date": "14 de julio de 2026",
-    "timestamp": 1784022365188,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Los principales contratos de futuros de los índices bursátiles de Estados Unidos, incluyendo el Dow Jones, S&P 500 y Nasdaq 100, muestran un comportamiento mixto este martes. Esta fluctuación se debe a la creciente especulación entre los traders, quienes están elevando sus expectativas sobre futuras alzas en las tasas de interés por parte de la Reserva Federal. La cautela es palpable en el ambiente de trading, a la espera de indicadores económicos cruciales.</p><p>El aumento en las apuestas sobre endurecimiento monetario se produce a pocas horas de la publicación de datos clave sobre la inflación, un factor determinante para las próximas decisiones de política de la Fed. Si la inflación persiste en niveles elevados, la presión sobre el banco central para subir las tasas será mayor, lo que históricamente ha generado preocupación en los mercados bursátiles, especialmente en sectores sensibles al costo del endeudamiento como el tecnológico.</p><p>Este escenario de incertidumbre subraya la estrecha relación entre la política monetaria y el desempeño de los mercados financieros. La expectativa de tasas más altas puede afectar la valuación de activos y el atractivo de la renta variable frente a instrumentos de renta fija. Los inversores deberán seguir de cerca los reportes económicos y los comunicados de la Reserva Federal para ajustar sus estrategias y navegar la posible volatilidad en las próximas semanas.</p>"
-  },
-  {
-    "id": "noticia-1784022373520-973",
-    "category": "Mercados",
-    "title": "ANSES: Calendario de Pagos del 14 de Julio de 2026 con Montos Renovados y Extras",
-    "summary": "Hoy, martes 14 de julio de 2026, ANSES efectúa pagos a beneficiarios específicos según la terminación de su DNI. Estas liquidaciones incluyen valores actualizados para retiros, ayuda por hijo y otras prestaciones, además de un bono adicional para jubilaciones mínimas.",
-    "editorialComment": "La actualización de los valores de ANSES impacta directamente en el presupuesto familiar. Para optimizar estos ingresos y planificar mejor sus finanzas personales, recomendamos utilizar herramientas que permitan un seguimiento detallado de gastos e ingresos. Nuestra plantilla de ahorro descargable es ideal para organizar estos nuevos montos y alcanzar sus metas financieras.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/07/14/anses-quienes-cobran-hoy-martes-14-de-julio-de-2026/",
-    "date": "14 de julio de 2026",
-    "timestamp": 1784022373520,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>La Administración Nacional de la Seguridad Social (ANSES) ha confirmado el cronograma de pagos para este martes 14 de julio de 2026, una jornada clave para miles de beneficiarios en todo el país. Según el esquema establecido, se efectuarán las liquidaciones correspondientes a grupos específicos de titulares, cuya identificación se realiza mediante la terminación de su número de documento nacional de identidad (DNI).</p><p>Esta tanda de cobros trae consigo importantes novedades, incluyendo la aplicación de valores renovados para diversas prestaciones. Entre ellas se destacan los montos actualizados para retiros, la ayuda por hijo y otras asignaciones familiares. Además, se confirma la inclusión de un bono extraordinario destinado a reforzar los ingresos de aquellos beneficiarios con las jubilaciones y pensiones más bajas, buscando mitigar el impacto inflacionario en el poder adquisitivo.</p><p>Las actualizaciones en las prestaciones de ANSES tienen un impacto directo no solo en la economía doméstica de las familias, sino también en el flujo de capital a nivel nacional. Estos desembolsos masivos, que buscan garantizar el bienestar social, se traducen en un impulso al consumo en diversos sectores económicos. Es fundamental que los beneficiarios consulten los canales oficiales para verificar sus fechas exactas y los montos correspondientes a percibir.</p>"
-  },
-  {
-    "id": "noticia-1784009015580-387",
-    "category": "Mercados",
-    "title": "Kalshi Pro: La nueva herramienta que optimiza el trading simultáneo de futuros perpetuos para inversores activos",
-    "summary": "Kalshi ha lanzado 'Pro', una nueva herramienta diseñada para sus traders más activos que operan múltiples mercados y futuros perpetuos al mismo tiempo. Esta plataforma busca resolver los problemas de eficiencia y complejidad que estos usuarios experimentaban, según un comunicado interno.",
-    "editorialComment": "La introducción de Kalshi Pro marca un hito en la optimización de estrategias para traders de alto volumen, aliviando complejidades en mercados dinámicos. Aunque esta herramienta se enfoca en maximizar la eficiencia operativa y las ganancias a corto plazo, es fundamental que los inversores piensen en el crecimiento de su capital a largo plazo. Te invitamos a utilizar nuestra calculadora de interés compuesto para proyectar cómo tus ganancias de trading pueden crecer exponencialmente con el tiempo, transformándose en un patrimonio sólido.",
-    "relatedTool": "tab-interes",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html",
-    "date": "14 de julio de 2026",
-    "timestamp": 1784009015593,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Kalshi ha dado un paso significativo en el mundo del trading con el lanzamiento de su producto 'Pro', diseñado específicamente para sus usuarios más activos. Esta innovadora plataforma busca abordar los desafíos inherentes a la operación simultánea en múltiples mercados, particularmente en el ámbito de los futuros perpetuos. La iniciativa surge como respuesta directa a los problemas reportados por los traders de alto volumen, quienes a menudo enfrentan cuellos de botella y complejidades al gestionar diversas posiciones y estrategias al mismo tiempo.</p><p>El enfoque en los futuros perpetuos es clave, ya que estos instrumentos financieros, que no tienen fecha de vencimiento, ofrecen flexibilidad pero también demandan una gestión sofisticada y herramientas robustas. Kalshi Pro promete simplificar esta complejidad, permitiendo a los inversores ejecutar sus estrategias con mayor agidez y precisión. La memo interna de la compañía, revelada a CNBC, subraya el compromiso de Kalshi con la mejora continua de la experiencia de usuario, especialmente para aquellos que contribuyen significativamente al volumen de trading.</p><p>Este lanzamiento no solo mejora la experiencia para los traders existentes de Kalshi, sino que también establece un nuevo estándar en la industria de plataformas de trading. Al ofrecer una solución dedicada a la optimización de operaciones complejas, Kalshi Pro podría atraer a un segmento más amplio de inversores institucionales y minoristas avanzados, impulsando la liquidez y la eficiencia en los mercados de futuros. Su impacto podría extenderse a la democratización de herramientas de trading sofisticadas, permitiendo que un mayor número de participantes naveguen con éxito en el dinámico panorama de los mercados financieros globales.</p>"
   }
 ]
