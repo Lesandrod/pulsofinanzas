@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1784281572901-76",
+    "category": "Mercados",
+    "title": "Presidente de la Fed Warsh ante el Senado: Claves sobre Economía y Tasas de Interés que Afectan tu Bolsillo",
+    "summary": "El presidente de la Reserva Federal, Kevin Warsh, compareció ante el Comité Bancario del Senado para abordar el estado actual de la economía y la política de tasas de interés. Su testimonio es crucial para entender las futuras directrices monetarias y su impacto en los mercados financieros globales.",
+    "editorialComment": "La exposición de Warsh subraya la volatilidad de las tasas de interés y su impacto directo en tus ahorros y deudas. Para navegar este entorno de incertidumbre, te recomendamos utilizar nuestra calculadora de interés compuesto. Con ella podrás proyectar el crecimiento de tus inversiones o el costo de tus créditos, ajustándote a los posibles cambios anunciados por la Fed.",
+    "relatedTool": "tab-interes",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
+    "date": "17 de julio de 2026",
+    "timestamp": 1784281572912,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El presidente de la Reserva Federal, Kevin Warsh, compareció este martes ante el Comité Bancario del Senado, en una de las citas más esperadas por los mercados y la ciudadanía. Su testimonio, parte de las comparecencias obligatorias ante el Congreso, se centró en el panorama económico actual y la trayectoria futura de las tasas de interés. Estas declaraciones son vitales para descifrar el rumbo de la política monetaria y su impacto global en la economía.</p><p>Warsh abordó la resiliencia de la economía, pero también los vientos en contra que podrían influir en el crecimiento, como la inflación persistente y las tensiones geopolíticas. En cuanto a las tasas de interés, el presidente de la Fed ofreció una visión sobre cómo la institución planea equilibrar el control de la inflación con el mantenimiento de la estabilidad económica. Sus palabras son escrutadas con lupa por inversores y empresas, ya que marcan la pauta para decisiones de inversión y financiamiento a nivel nacional e internacional.</p><p>La relevancia de este tipo de comparecencias radica en su capacidad para influir directamente en la confianza del mercado y en las expectativas de los consumidores. Un discurso cauteloso o más optimista puede generar movimientos significativos en la bolsa de valores y en el valor de las divisas. Para el ciudadano de a pie, las decisiones sobre tasas de interés impactan desde el costo de una hipoteca hasta la rentabilidad de un depósito a plazo fijo, haciendo que cada palabra del presidente de la Fed sea un dato económico de primera línea.</p>"
+  },
+  {
+    "id": "noticia-1784281584440-788",
+    "category": "Bolsa de Valores",
+    "title": "IPO de Anthropic: Guía esencial para invertir en la próxima gigante de la IA",
+    "summary": "Anthropic, la destacada empresa de inteligencia artificial, se prepara para su posible Oferta Pública Inicial (IPO), generando gran expectación en el mercado financiero. Inversores potenciales deben conocer los factores clave y riesgos asociados antes de considerar la compra de sus acciones.",
+    "editorialComment": "La inminente IPO de Anthropic representa una oportunidad emocionante para los inversores interesados en el sector de la inteligencia artificial. Al considerar invertir en empresas de alto crecimiento como esta, es fundamental pensar a largo plazo y cómo el interés compuesto puede potenciar tus retornos. Utiliza nuestra calculadora de interés compuesto para simular el crecimiento de tus posibles inversiones y planificar tu estrategia financiera.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/personal-finance/investing/article/anthropic-ipo-what-to-know-before-you-buy-the-stock-170741665.html",
+    "date": "17 de julio de 2026",
+    "timestamp": 1784281584440,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>La empresa de inteligencia artificial Anthropic, reconocida por su avanzado modelo Claude, se encuentra en el centro de atención del mercado ante una inminente Oferta Pública Inicial (IPO). Este esperado movimiento estratégico, que se produce tras varias rondas de financiación que han valorado a la compañía en miles de millones de dólares, posiciona a Anthropic como un contendiente clave en el floreciente y competitivo sector de la IA, compitiendo directamente con empresas como OpenAI.</p><p>Para los inversores que consideran adquirir acciones de Anthropic, es vital comprender la naturaleza de alto crecimiento y, a menudo, alta volatilidad que caracteriza a las compañías de tecnología disruptiva. Se recomienda evaluar exhaustivamente no solo el potencial de innovación tecnológica de Anthropic, sino también la solidez de su modelo de negocio, la sostenibilidad de sus ingresos a largo plazo y el dinámico entorno regulatorio que rodea a la inteligencia artificial. La valoración inicial de la empresa y la trayectoria de sus principales competidores serán elementos cruciales a analizar.</p><p>La eventual salida a bolsa de una empresa del calibre de Anthropic no solo abre nuevas vías de inversión para capitales individuales e institucionales, sino que también actúa como un indicador fiable del sentimiento general del mercado hacia la inteligencia artificial. Este evento subraya la confianza en la IA como un motor fundamental del progreso económico y tecnológico, impulsando la innovación y remodelando significativamente diversas industrias a escala global.</p>"
+  },
+  {
+    "id": "noticia-1784281594274-622",
+    "category": "Mercados",
+    "title": "AUH ANSES: ¿De Cuánto Serán los Pagos en Agosto 2026? Guía Completa para Beneficiarios",
+    "summary": "ANSES actualizó los montos de la Asignación Universal por Hijo para agosto de 2026, basándose en la movilidad mensual atada al Índice de Precios al Consumidor de junio. El sistema de cobro mantendrá la retención parcial y la validación anual mediante la Libreta AUH, asegurando el cumplimiento de condiciones.",
+    "editorialComment": "La constante actualización de la AUH subraya la importancia de una gestión financiera hogareña sólida frente a la inflación. Para aprovechar al máximo estos ingresos y mantener un control riguroso de su economía familiar, le sugerimos utilizar nuestra plantilla de ahorro. Esta herramienta es fundamental para planificar gastos, establecer metas y optimizar su presupuesto mensual.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/07/17/de-cuanto-seran-las-auh-de-anses-en-agosto-2026/",
+    "date": "17 de julio de 2026",
+    "timestamp": 1784281594274,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>La Administración Nacional de la Seguridad Social (ANSES) ha confirmado los nuevos valores para la Asignación Universal por Hijo (AUH) que se abonarán a partir de agosto de 2026. Esta actualización responde al mecanismo de movilidad mensual que ajusta las prestaciones sociales en función del Índice de Precios al Consumidor (IPC) del mes de junio. Millones de familias beneficiarias recibirán montos renovados, un factor clave para su economía doméstica en un contexto inflacionario.</p><p>El sistema de cobro de la AUH se mantiene inalterable en su esencia, incluyendo la retención de un porcentaje del monto total, que se abona una vez presentada y validada la Libreta AUH anualmente. Este mecanismo no solo busca asegurar la escolaridad y los controles de salud de los niños y adolescentes, sino también promover el cumplimiento de las condicionalidades establecidas por el programa social. La validación de la Libreta AUH es un paso crucial para la percepción del 20% retenido.</p><p>La relevancia de estas actualizaciones trasciende el ámbito individual de los beneficiarios. En un panorama macroeconómico, la inyección de estos fondos ajustados por inflación representa un sostén fundamental para el consumo de los hogares más vulnerables, lo que a su vez tiene un impacto en la demanda agregada y la actividad económica general. Pulso Finanzas continuará monitoreando estas y otras medidas que inciden directamente en el bolsillo de los argentinos, brindando análisis y herramientas para una mejor gestión financiera.</p>"
+  },
+  {
     "id": "noticia-1784268516992-257",
     "category": "Bolsa de Valores",
     "title": "El IPO Histórico de India: $31 Mil Millones Impulsados por Inversores Institucionales, ¿Una Señal para los Mercados?",
@@ -306,47 +348,5 @@
     "timestamp": 1784165381828,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>Jamie Dimon, el influyente CEO de JPMorgan Chase, ha sacudido el panorama económico y de defensa de Estados Unidos con el anuncio de una inversión de 24 millones de dólares. Este considerable paquete está destinado a revitalizar la capacidad de construcción naval del país, enfocándose específicamente en la financiación de una nueva instalación de submarinos en el histórico Astillero Naval de Filadelfia. La iniciativa, apodada el 'arsenal de la democracia', subraya un compromiso estratégico con la seguridad nacional y el fortalecimiento industrial.</p><p>La inversión no solo busca mejorar la infraestructura crítica para la defensa, sino que también promete un significativo impulso económico regional. La creación de nuevas instalaciones y la expansión de capacidades de producción naval generarán empleos, estimularán la cadena de suministro local y fortalecerán la base industrial estadounidense. Este movimiento de un gigante financiero como JPMorgan Chase resalta la creciente preocupación por la capacidad productiva del país en sectores clave y la disposición del sector privado a intervenir en iniciativas de gran envergadura nacional.</p><p>Este esfuerzo de Dimon se enmarca en un contexto global de tensiones geopolíticas crecientes y una renovada atención a la seguridad y la autosuficiencia estratégica. Al invertir directamente en la construcción naval, JPMorgan Chase no solo contribuye a la capacidad defensiva, sino que también envía una señal poderosa sobre la confianza en el futuro industrial de Estados Unidos. Es un recordatorio de cómo las decisiones financieras de los líderes corporativos pueden tener ramificaciones profundas en la economía general y la seguridad de la nación.</p>"
-  },
-  {
-    "id": "noticia-1784165391356-460",
-    "category": "Bolsa de Valores",
-    "title": "Accenture (ACN) bajo lupa: ¿Qué desafíos estructurales impactan su rendimiento en la bolsa?",
-    "summary": "Accenture (ACN), una gigante de la consultoría, está enfrentando importantes desafíos que se atribuyen a factores estructurales del mercado. Esta situación podría estar afectando su rendimiento bursátil y sus perspectivas a corto y mediano plazo.",
-    "editorialComment": "La situación de Accenture nos recuerda la importancia de evaluar cuidadosamente las inversiones en el mercado de valores, incluso en empresas consolidadas. Entender cómo los factores estructurales pueden influir en el crecimiento a largo plazo es crucial. Para aquellos interesados en maximizar sus rendimientos a lo largo del tiempo, nuestra calculadora de interés compuesto es una herramienta esencial para visualizar el potencial de crecimiento de sus ahorros.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/accenture-acn-facing-challenges-due-134527701.html",
-    "date": "16 de julio de 2026",
-    "timestamp": 1784165391356,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>La reconocida firma global de consultoría Accenture (ACN) se encuentra en el centro de atención de los mercados financieros debido a presiones significativas atribuidas a \"factores estructurales\". Estos desafíos, que podrían incluir cambios en la demanda de servicios, la evolución tecnológica rápida o una mayor competencia en el sector de la consultoría y tecnología, están generando interrogantes sobre la trayectoria futura de la compañía y su valoración bursátil.</p><p>Los analistas y expertos del mercado están evaluando el impacto de estos factores en la rentabilidad y el crecimiento de Accenture. Una desaceleración en el gasto empresarial en servicios de consultoría o una reorientación estratégica de los clientes hacia soluciones internas o proveedores más especializados, podría erosionar la base de ingresos y los márgenes operativos de la compañía, afectando directamente la confianza de los inversores.</p><p>La situación de Accenture sirve como un indicador importante de las dinámicas cambiantes en el sector tecnológico y de consultoría. Para la economía general, el desempeño de gigantes como ACN puede reflejar tendencias más amplias en la inversión empresarial y la confianza económica. Los inversores deberán seguir de cerca cómo la compañía adapta su estrategia para navegar estos vientos en contra, ya que sus decisiones podrían influir en el sentimiento del mercado para otras empresas del sector.</p>"
-  },
-  {
-    "id": "noticia-1784165399565-133",
-    "category": "Mercados",
-    "title": "Deuda Pública a la Baja: Análisis del Impacto Económico tras dos Meses de Reducción",
-    "summary": "La deuda pública de la Administración Central disminuyó en USD 5.080 millones en junio, marcando el segundo mes consecutivo de baja. Aunque las operaciones financieras netas aumentaron, las diferencias de cambio y los ajustes de valuación fueron clave para este descenso.",
-    "editorialComment": "La gestión de la deuda pública es un factor crucial que afecta la estabilidad económica y las tasas de interés generales. Entender cómo los cambios en la deuda impactan su capacidad de ahorro e inversión es fundamental. Le invitamos a explorar nuestra calculadora de interés compuesto para proyectar el crecimiento de sus inversiones en un entorno de tasas dinámico.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/07/15/la-deuda-publica-bajo-en-junio-por-segundo-mes-consecutivo/",
-    "date": "16 de julio de 2026",
-    "timestamp": 1784165399565,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>La deuda pública de la Administración Central experimentó un descenso significativo en junio, reduciéndose en USD 5.080 millones y marcando el segundo mes consecutivo de esta tendencia positiva. Este resultado es especialmente relevante, considerando que las operaciones financieras netas de la administración registraron un aumento de USD 1.724 millones respecto a mayo, alcanzando un total de USD 56.097 millones.</p><p>La clave de esta disminución radica en factores técnicos: las diferencias de cambio y los ajustes de valuación tuvieron un impacto preponderante. Estos elementos lograron compensar con creces el incremento operativo, subrayando la sensibilidad de la deuda pública a las fluctuaciones del tipo de cambio y las valoraciones de mercado de los activos y pasivos. Esta dinámica compleja resalta la importancia de una gestión financiera sofisticada por parte del Estado.</p><p>Para la economía en general, un descenso sostenido de la deuda pública puede interpretarse como una señal de mayor solidez fiscal y confianza. Potencialmente, esto podría traducirse en mejores condiciones de financiamiento para el país, menores presiones inflacionarias a largo plazo y una mayor capacidad para destinar recursos a áreas prioritarias. Sin embargo, será crucial monitorear si esta tendencia se mantiene y cuáles son los factores subyacentes que la sostienen en los próximos meses.</p>"
-  },
-  {
-    "id": "noticia-1784148557885-327",
-    "category": "Bolsa de Valores",
-    "title": "Actualidad: Anthropic moves closer to mega-IPO as bankers line up investor meetings en español",
-    "summary": "Resumen de mercados: Anthropic moves closer to mega-IPO as bankers line up investor meetings. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
-    "editorialComment": "El mercado bursátil se ve fuertemente impulsado por empresas de alto rendimiento. A largo plazo, invertir de manera constante en el mercado bursátil permite ganarle a la inflación por medio del interés compuesto.",
-    "relatedTool": "tab-interes",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
-    "date": "15 de julio de 2026",
-    "timestamp": 1784148557901,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El evento sobre <strong>\"Anthropic moves closer to mega-IPO as bankers line up investor meetings\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
   }
 ]
