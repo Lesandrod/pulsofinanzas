@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1784252648343-232",
+    "category": "Mercados",
+    "title": "El Costo de la Desregulación: Sen. Warren revela que cambios en el CFPB de Trump costaron $26.5 mil millones a los americanos",
+    "summary": "La senadora Elizabeth Warren ha declarado que la administración Trump causó pérdidas de hasta $26.5 mil millones a los estadounidenses.\nSegún la senadora, esto se debe a la reversión de las normativas y la reducción de la aplicación de la ley por parte de la Oficina de Protección Financiera del Consumidor (CFPB).",
+    "editorialComment": "Esta noticia subraya la importancia de la autoprotección financiera en un entorno donde las regulaciones pueden cambiar. Ante posibles desprotecciones, mantener un control estricto de tu presupuesto y ahorros es fundamental para evitar impactos negativos en tu economía personal. Te invitamos a descargar nuestras plantillas de ahorro en Excel para gestionar tus finanzas de manera efectiva y construir tu colchón financiero.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html",
+    "date": "17 de julio de 2026",
+    "timestamp": 1784252648356,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>La senadora Elizabeth Warren ha lanzado una fuerte acusación contra la administración Trump, afirmando que sus modificaciones en la Oficina de Protección Financiera del Consumidor (CFPB) han costado a los ciudadanos estadounidenses la impresionante cifra de $26.5 mil millones. Esta declaración subraya las profundas repercusiones de las políticas de desregulación en la economía personal de millones de hogares.</p><p>Según Warren, estas pérdidas se derivan directamente de la flexibilización de las normativas y la reducción en la aplicación de la ley por parte del CFPB durante la administración anterior. La agencia, creada para salvaguardar a los consumidores de prácticas financieras abusivas, vio debilitada su capacidad para supervisar y sancionar a entidades en sectores como préstamos, tarjetas de crédito y hipotecas, lo que pudo traducirse en mayores cargas y menos protecciones para los usuarios.</p><p>Este señalamiento reabre el debate sobre el equilibrio entre la desregulación económica y la protección del consumidor. Mientras algunos argumentan que la reducción de normativas impulsa la innovación y el crecimiento, otros, como la senadora Warren, enfatizan los riesgos y costos directos para los ciudadanos cuando la vigilancia regulatoria disminuye. La magnitud de la cifra reportada destaca la sensibilidad de las políticas financieras y su impacto directo en el bienestar económico de la población.</p>"
+  },
+  {
+    "id": "noticia-1784252656948-416",
+    "category": "Mercados",
+    "title": "¿Por qué la plata sigue estancada por debajo de los $60 pese al conflicto en Irán? Análisis para inversores",
+    "summary": "El precio de la plata se mantiene anclado por debajo de los $60 dólares la onza, una situación que persiste en medio del conflicto en Irán. Esta contención de precios sugiere una compleja interacción de factores geopolíticos y económicos que impiden su repunte.",
+    "editorialComment": "La volatilidad en los mercados de commodities, como la plata, resalta la importancia de una estrategia de inversión a largo plazo que contemple la incertidumbre. Aunque los precios actuales puedan generar dudas, entender el poder del interés compuesto puede ayudar a planificar inversiones estratégicas que optimicen el crecimiento de su capital, incluso con activos volátiles. Utilice nuestra calculadora de interés compuesto para proyectar sus ganancias futuras.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-july-15-2026-stuck-below-60-as-iran-conflict-wages-on-120415508.html",
+    "date": "17 de julio de 2026",
+    "timestamp": 1784252656948,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El 15 de julio de 2026, el precio de la plata se mantiene firmemente anclado por debajo de la marca de los $60 dólares la onza. Esta persistente contención de precios se atribuye directamente a la prolongación del conflicto en Irán, un factor geopolítico que continúa generando incertidumbre y cautela entre los inversores y operadores de mercados de commodities a nivel global.</p><p>La continuación de la inestabilidad en Irán actúa como un freno significativo para el metal precioso. Aunque históricamente los periodos de tensión geopolítica suelen impulsar la demanda de activos refugio como el oro y la plata, la prolongación de esta crisis parece estar generando una dinámica diferente, quizás señalando una falta de confianza generalizada o una ponderación de otros factores macroeconómicos que impiden un repunte sustancial de su valor.</p><p>Para los inversores, la incapacidad de la plata para superar la barrera de los $60 dólares, incluso en un contexto de conflicto, sugiere una compleja interacción de fuerzas de mercado. Este escenario subraya la importancia de monitorear no solo los eventos geopolíticos, sino también indicadores económicos más amplios y las políticas monetarias. La situación actual podría representar tanto un punto de acumulación estratégico para algunos como una señal de advertencia sobre la fragilidad de la recuperación económica global para otros, haciendo crucial un análisis detallado antes de tomar decisiones de inversión.</p>"
+  },
+  {
+    "id": "noticia-1784252665286-664",
+    "category": "Bolsa de Valores",
+    "title": "Milei en la Bolsa: Entienda Cómo su Férrea Defensa del Liberalismo Impacta la Economía Argentina",
+    "summary": "Durante el 172° aniversario de la Bolsa de Comercio de Buenos Aires, el presidente Javier Milei defendió fervientemente el liberalismo económico. Su disertación fue interrumpida por un asistente, a quien respondió con una tajante defensa de sus principios.",
+    "editorialComment": "El discurso del presidente en la Bolsa de Valores subraya la dirección económica del país, que busca atraer inversiones y fomentar el crecimiento a largo plazo. Para quienes buscan capitalizar un entorno de estabilidad y expansión, comprender el poder del interés compuesto es fundamental. Nuestra calculadora de interés compuesto le ayudará a proyectar el crecimiento de sus inversiones en este nuevo escenario económico.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/07/17/si-no-te-gusta-andate-a-cuba-milei-defendio-al-liberalismo-y-se-cruzo-con-un-asistente-en-pleno-discurso/",
+    "date": "17 de julio de 2026",
+    "timestamp": 1784252665286,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>En el marco del 172° aniversario de la Bolsa de Comercio de Buenos Aires, el presidente Javier Milei protagonizó un momento que captó la atención del ámbito financiero y político. Durante su disertación, enfocada en la defensa del modelo liberal y la desregulación económica, el mandatario fue interpelado por un asistente del público, generando una interrupción inesperada en su alocución.</p><p>La respuesta de Milei, que incluyó la controvertida frase 'si no te gusta, andate a Cuba', reafirmó su postura inflexible en la implementación de principios de libre mercado. Este intercambio no solo subrayó su compromiso inquebrantable con la filosofía liberal, sino que también envió un mensaje claro sobre la dirección que su gobierno pretende mantener en materia económica, desestimando cualquier crítica que no se alinee con su visión.</p><p>Este episodio, más allá de la anécdota, tiene relevancia para los mercados. La férrea defensa del presidente ante una audiencia clave en el sector financiero puede ser interpretada como una señal de continuidad y firmeza en sus políticas económicas. Para inversores y analistas, esta postura consolida la expectativa de un camino sin concesiones hacia la desregulación y el ajuste, aspectos que impactan directamente en la confianza y las decisiones de inversión en Argentina.</p>"
+  },
+  {
     "id": "noticia-1784234713186-259",
     "category": "Mercados",
     "title": "La Fed de Dallas advierte: Tasas de interés podrían subir 'modestamente' y así impactar tu economía",
@@ -306,47 +348,5 @@
     "timestamp": 1784135072109,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>El presidente de la Reserva Federal, Kevin Warsh, realizó una esperada comparecencia ante el Comité Bancario del Senado, como parte de sus obligaciones congresionales. Durante su intervención, el líder del banco central abordó los temas más acuciantes que enfrenta la economía estadounidense, con un énfasis particular en la trayectoria de las tasas de interés y sus implicaciones futuras para el crecimiento y la estabilidad financiera.</p><p>Las declaraciones de Warsh son escrutadas con lupa por inversores, analistas y ciudadanos por igual, dado que marcan la pauta de la política monetaria del país. Cualquier indicio sobre posibles alzas o recortes en las tasas de interés tiene repercusiones directas en el costo de los créditos hipotecarios, los préstamos empresariales y el rendimiento de los ahorros, afectando la toma de decisiones financieras a todos los niveles.</p><p>La visión de la Fed sobre la economía general, incluyendo factores como la inflación, el empleo y el consumo, es vital para anticipar los movimientos del mercado y planificar estrategias financieras. Este tipo de comparecencias ofrecen una ventana crucial a la estrategia del banco central para mantener la estabilidad económica, influyendo desde el precio de los bienes hasta las oportunidades de inversión para millones de personas.</p>"
-  },
-  {
-    "id": "noticia-1784135082769-827",
-    "category": "Mercados",
-    "title": "Alarmante Advertencia de CEOs: Microsoft y Palantir Alertan Sobre el Futuro Riesgoso de la Inteligencia Artificial",
-    "summary": "El CEO de Microsoft, Satya Nadella, ha respaldado las preocupaciones del CEO de Palantir, Alex Karp, sobre los riesgos y el rápido desarrollo de la Inteligencia Artificial. Ambos líderes tecnológicos señalan la posibilidad de que la IA genere 'superinteligencia' y consecuentes desafíos existenciales y totalitarios, pese a su potencial.",
-    "editorialComment": "La creciente preocupación de líderes tecnológicos por el impacto de la IA subraya la importancia de una planificación financiera sólida en tiempos de cambio. Ante la potencial disrupción que la IA podría traer a la economía y el mercado laboral, es más vital que nunca gestionar sus finanzas personales con prudencia. Utilice nuestras plantillas de ahorro para asegurar su estabilidad económica frente a futuros inciertos.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-adds-fuel-palantir-030700396.html",
-    "date": "15 de julio de 2026",
-    "timestamp": 1784135082769,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El director ejecutivo de Microsoft, Satya Nadella, ha encendido las alarmas al unirse a las advertencias de Alex Karp, CEO de Palantir, sobre los profundos riesgos que la Inteligencia Artificial (IA) podría representar para la sociedad. Ambos líderes tecnológicos señalan el potencial de la IA para alcanzar una \"superinteligencia\" con consecuencias impredecibles, incluyendo posibles derivaciones hacia sistemas totalitarios o incluso riesgos existenciales. Esta convergencia de preocupaciones desde el corazón de la industria tecnológica añade un peso significativo al debate sobre la gobernanza y el futuro de la IA.</p><p>A pesar de reconocer el inmenso potencial transformador de la IA para el progreso humano, Nadella enfatiza la urgencia de establecer mecanismos de seguridad y \"barandillas\" sólidas que guíen su desarrollo. La velocidad con la que avanza esta tecnología plantea un desafío sin precedentes para legisladores y expertos éticos, quienes luchan por comprender y anticipar todas sus ramificaciones. La conversación ya no se centra solo en las oportunidades, sino en la necesidad crítica de mitigar los peligros inherentes a una tecnología con capacidades exponenciales.</p><p>Para los mercados financieros y la economía global, estas advertencias sugieren un período de alta volatilidad e incertidumbre. Las empresas que no logren navegar la disrupción de la IA, o que lo hagan sin una base ética sólida, podrían enfrentar serios reveses. Para el inversor y el ciudadano común, la señal es clara: la IA es una fuerza imparable que redefinirá industrias, mercados laborales y la forma en que interactuamos con el mundo. Una sólida planificación financiera y una continua adaptación serán claves para prosperar en esta nueva era tecnológica.</p>"
-  },
-  {
-    "id": "noticia-1784135089990-835",
-    "category": "Mercados",
-    "title": "ARCA 2026: ¿Cómo regularizar tus deudas con hasta 18 cuotas? Guía clave para MiPyMEs y pequeños contribuyentes",
-    "summary": "El organismo ARCA ha lanzado un régimen especial para saldar deudas vencidas hasta el 30 de junio. Este plan permite a MiPyMEs, pequeños contribuyentes y entidades sin fines de lucro financiar sus obligaciones en hasta 18 cuotas.",
-    "editorialComment": "La gestión inteligente de deudas es crucial para la salud financiera de cualquier entidad. Comprender cómo los intereses y las cuotas afectan su flujo de caja es vital. Nuestra calculadora de interés compuesto puede ser una herramienta invaluable para proyectar el costo total de estas financiaciones y planificar mejor sus pagos, asegurando una recuperación financiera sostenible.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/07/15/nuevo-plan-de-pagos-arca-2026-como-funciona-y-quienes-pueden-acceder/",
-    "date": "15 de julio de 2026",
-    "timestamp": 1784135089990,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El organismo ARCA ha puesto en marcha un nuevo plan de pagos extraordinario, diseñado para ofrecer un alivio financiero significativo a diversos actores económicos. Este régimen especial busca facilitar la regularización de deudas tributarias y de seguridad social vencidas, permitiendo a miles de MiPyMEs, pequeños contribuyentes y entidades sin fines de lucro sanear su situación fiscal y financiera.</p><p>La iniciativa abarca obligaciones impagas hasta el 30 de junio del presente año, otorgando una ventana de oportunidad crucial para aquellos que enfrentan dificultades. Los beneficiarios podrán acceder a planes de financiación que se extienden hasta en 18 cuotas, adaptándose a la capacidad de pago y al tipo de contribuyente, lo que representa una flexibilidad considerable en la reestructuración de pasivos.</p><p>Este plan no solo representa una medida de apoyo directa para los sectores más afectados, sino que también impulsa la formalización y la reactivación económica al reducir la carga de endeudamiento. Para Pulso Finanzas, este tipo de herramientas son esenciales para comprender la dinámica del mercado y las estrategias de recuperación, subrayando la importancia de una gestión financiera proactiva y el aprovechamiento de estas oportunidades para consolidar la estabilidad económica.</p>"
-  },
-  {
-    "id": "noticia-1784121005947-634",
-    "category": "Bolsa de Valores",
-    "title": "Warren Buffett: Claves para Invertir con Valor y Evitar la Especulación Hoy",
-    "summary": "El legendario inversor Warren Buffett ha expresado su fuerte crítica al actual mercado bursátil. Según Buffett, la especulación excesiva dificulta encontrar inversiones de valor a largo plazo, equiparando gran parte de la actividad a una forma de 'juego'.",
-    "editorialComment": "La visión de Warren Buffett subraya la importancia de una estrategia de inversión a largo plazo, alejada de la euforia especulativa. En Pulso Finanzas, creemos en el poder del tiempo y la paciencia para construir riqueza real. Te invitamos a utilizar nuestra Calculadora de Interés Compuesto para visualizar cómo tus inversiones pueden crecer exponencialmente, aplicando la sabiduría del valor a lo largo de los años.",
-    "relatedTool": "tab-interes",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html",
-    "date": "15 de julio de 2026",
-    "timestamp": 1784121005960,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Warren Buffett, el célebre 'Oráculo de Omaha' y presidente de Berkshire Hathaway, ha vuelto a alzar su voz crítica contra la dirección actual del mercado de valores. En declaraciones recientes, Buffett señaló la creciente dificultad para identificar inversiones de valor genuino, atribuyendo esta situación a una marcada preferencia por el trading especulativo, que en sus palabras, se asemeja más a 'jugar' que a invertir.</p><p>Esta postura del inversor legendario no es nueva, pero resuena con particular fuerza en un momento donde las plataformas de trading y la viralización de activos han popularizado movimientos rápidos y arriesgados. Buffett enfatiza que su filosofía de inversión se centra en adquirir participaciones en empresas sólidas a precios razonables, con la expectativa de mantenerlas a largo plazo. Sin embargo, la actual dinámica del mercado, impulsada por euforias cortoplacistas, desvía la atención de los fundamentos empresariales.</p><p>La advertencia de Buffett es crucial para los inversores, tanto novatos como experimentados. Sugiere una desconexión entre el valor intrínseco de las compañías y las valoraciones impulsadas por el fervor especulativo, lo que podría generar burbujas y correcciones futuras. Para Pulso Finanzas, la lección es clara: la disciplina y la perspectiva a largo plazo son esenciales para construir riqueza sostenible, incluso cuando el entorno parece invitar a la acción impulsiva.</p>"
   }
 ]
