@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1784354194905-587",
+    "category": "Mercados",
+    "title": "Buffett avala a Kevin Warsh para la Fed: ¿Impacto en tus inversiones y el futuro económico?",
+    "summary": "El legendario inversor Warren Buffett ha expresado su aprobación sobre la posible elección de Kevin Warsh como presidente de la Reserva Federal. Buffett confía en que Warsh realizará el mejor trabajo posible al frente del banco central.",
+    "editorialComment": "La elección del presidente de la Fed es un evento crítico que puede influir directamente en la política monetaria, afectando las tasas de interés y, consecuentemente, el rendimiento de tus ahorros e inversiones a largo plazo. Comprender cómo estos cambios pueden impactar tu capital es fundamental para una planificación financiera sólida. Utiliza nuestra calculadora de interés compuesto para proyectar el crecimiento de tus inversiones bajo diferentes escenarios de tasas y tomar decisiones informadas.",
+    "relatedTool": "tab-interes",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/07/15/buffett-says-trumps-pick-of-kevin-warsh-for-fed-chair-was-good-choice.html",
+    "date": "18 de julio de 2026",
+    "timestamp": 1784354194918,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El reconocido inversor Warren Buffett ha manifestado su respaldo a la designación de Kevin Warsh como candidato a la presidencia de la Reserva Federal. Según Buffett, la elección de Warsh sería una 'buena decisión', mostrando confianza en su capacidad para liderar el banco central de Estados Unidos. Esta opinión del 'Oráculo de Omaha' añade una capa de interés significativo a la carrera por uno de los puestos económicos más influyentes del mundo.</p><p>La figura del presidente de la Fed es crucial, ya que sus decisiones impactan directamente en las tasas de interés, la inflación y la estabilidad financiera global. Un nuevo líder puede señalar un cambio en la dirección de la política monetaria, lo que a su vez repercute en los mercados bursátiles, los bonos y el valor del dólar. La posible llegada de Warsh, con su experiencia previa en la Fed, genera expectativas sobre cómo podría moldear la estrategia económica del país en los próximos años.</p><p>Para los inversores, la aprobación de Buffett a Warsh subraya la importancia de estar atentos a los movimientos en la política de la Fed. Cualquier indicio sobre futuras alzas o bajas de tasas, o cambios en la compra de activos, puede alterar el panorama de inversión y el coste del crédito. Mantenerse informado sobre estos desarrollos es clave para ajustar estrategias y proteger el capital en un entorno económico en constante evolución.</p>"
+  },
+  {
+    "id": "noticia-1784354203565-672",
+    "category": "Bolsa de Valores",
+    "title": "El Riesgo Oculto de QYLD: ¿Cómo su 11% de Rendimiento Podría Erosionar tu Capital?",
+    "summary": "El ETF QYLD, conocido por su atractivo rendimiento por dividendo superior al 11%, ha sido identificado por expertos como un vehículo que podría estar erosionando silenciosamente el capital de los inversores. Esto ocurre debido a su estrategia de covered call, donde gran parte de las distribuciones provienen de un 'retorno de capital' que reduce el valor principal del fondo.",
+    "editorialComment": "Este análisis de QYLD resalta la importancia de entender el rendimiento real de sus inversiones más allá de los porcentajes superficiales. Para construir un patrimonio sólido, es crucial comprender cómo el interés compuesto trabaja a su favor, o en su contra, cuando la erosión del capital entra en juego. Utilice nuestra calculadora de interés compuesto para simular el impacto a largo plazo de rendimientos efectivos, no solo aparentes.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/markets/options/articles/why-qyld-11-yield-quietly-224941298.html",
+    "date": "18 de julio de 2026",
+    "timestamp": 1784354203565,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El Global X NASDAQ 100 Covered Call ETF (QYLD) ha captado la atención de muchos inversores gracias a su impresionante rendimiento por dividendo, que a menudo supera el 11%. Sin embargo, un análisis más profundo revela que esta atractiva cifra puede ser engañosa, ya que el ETF ha mostrado una tendencia a la erosión silenciosa del capital de sus tenedores mes tras mes. Este fenómeno desafía la percepción común de que un alto rendimiento siempre se traduce en un incremento neto de la riqueza.</p><p>La mecánica detrás de esta erosión radica en la estrategia de \"covered call\" de QYLD. Si bien genera ingresos consistentes vendiendo opciones de compra sobre el NASDAQ 100, gran parte de lo que se distribuye a los inversores es un \"retorno de capital\" y no ganancias orgánicas del crecimiento del activo subyacente. Esto significa que el valor principal del fondo disminuye con el tiempo, compensando (o incluso superando) las distribuciones recibidas y resultando en un valor neto total de inversión inferior al esperado.</p><p>Para los inversores, este caso subraya la importancia crítica de mirar más allá de los rendimientos llamativos y comprender a fondo las estrategias y los riesgos subyacentes de cualquier producto financiero. Evaluar el rendimiento total (distribuciones más apreciación/depreciación del capital) es fundamental para tomar decisiones informadas y asegurar que las inversiones contribuyan positivamente a la construcción del patrimonio a largo plazo, en lugar de erosionarlo inadvertidamente.</p>"
+  },
+  {
+    "id": "noticia-1784354212313-632",
+    "category": "Mercados",
+    "title": "Argentina busca un Peso Fuerte: Claves de la Estrategia del Gobierno y su Impacto en su Economía Personal",
+    "summary": "El equipo económico argentino busca consolidar un peso más robusto, anclado en el equilibrio fiscal y la diversificación exportadora, con el fin de que el país deje de ser percibido como \"barato\" en dólares. Esta estrategia redefine la competitividad, generando un nuevo panorama de ganadores y perdedores en la economía nacional.",
+    "editorialComment": "La apuesta del gobierno por un peso fuerte recalibra la balanza económica, afectando desde el costo de vida hasta la rentabilidad empresarial. Entender cómo estos cambios impactan su presupuesto personal es crucial para adaptarse y planificar el futuro. Le invitamos a explorar nuestras plantillas de ahorro, una herramienta invaluable para ajustar sus finanzas y mantener el control en un entorno económico en constante evolución.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/07/18/por-que-el-gobierno-apuesta-a-que-argentina-no-sea-barata-en-dolares-y-que-impacto-tiene-esa-estrategia-en-la-economia/",
+    "date": "18 de julio de 2026",
+    "timestamp": 1784354212313,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>La política económica del gobierno argentino se orienta firmemente hacia la consolidación de un peso más robusto frente al dólar. Esta estrategia, anclada en el equilibrio fiscal y una ambiciosa diversificación exportadora, busca transformar la percepción de Argentina como un país \"barato\" en moneda extranjera. El objetivo es generar una economía con valor añadido y sostenida, alejándose de la volatilidad cambiaria que ha caracterizado periodos anteriores.</p><p>La implementación de esta medida trae consigo una reconfiguración profunda de la competitividad económica. Si bien un peso más fuerte puede beneficiar a ciertos sectores, como aquellos que dependen de insumos importados o que operan principalmente en mercados internos, otros, especialmente los exportadores de commodities y servicios, podrían enfrentar mayores desafíos en términos de precios. Esto redefine el mapa de ganadores y perdedores, exigiendo adaptabilidad por parte de empresas y ciudadanos para navegar el nuevo escenario.</p><p>El impacto de esta estrategia se sentirá en diversos frentes, desde el poder adquisitivo de los ciudadanos hasta la dinámica de las inversiones y el costo de vida en general. Un peso fortalecido, si bien puede ofrecer estabilidad y reducir la inflación importada, también podría modificar patrones de consumo y la estructura de precios de bienes y servicios. Es un giro audaz que busca redefinir la estructura económica del país a largo plazo, con implicaciones significativas para la planificación financiera personal y empresarial.</p>"
+  },
+  {
     "id": "noticia-1784337869814-723",
     "category": "Mercados",
     "title": "Presidente de la Fed de NY: La Inflación Ha Tocado Techo y Tasas Están 'Bien Posicionadas' – ¿Qué Significa Para Tu Bolsillo?",
@@ -306,47 +348,5 @@
     "timestamp": 1784234713197,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>La presidenta de la Reserva Federal de Dallas, Lorie Logan, ha emitido una señal clara y concisa en el panorama económico, al abogar por un aumento 'modesto' en las tasas de interés. Sus comentarios llegan en un momento en que los mercados han estado procesando datos de inflación que, si bien muestran algunas mejoras, no son considerados suficientes por la funcionaria para asegurar una trayectoria sostenible hacia el objetivo del 2% de la Fed.</p><p>Según Logan, a pesar de las 'buenas noticias' recientes sobre la desaceleración de la inflación, el progreso no es lo suficientemente robusto como para descartar la necesidad de una política monetaria más restrictiva. Esta postura sugiere una cautela persistente dentro de ciertos sectores de la Fed, indicando que la lucha contra la inflación aún no ha terminado y que se podría requerir un mayor esfuerzo para llevarla de vuelta a los niveles deseados. Estas declaraciones pueden influir en las expectativas del mercado sobre futuras decisiones del Comité Federal de Mercado Abierto (FOMC).</p><p>Un incremento, incluso si es modesto, en las tasas de interés tiene ramificaciones significativas para la economía en general, afectando desde el costo de los préstamos hipotecarios y de consumo hasta el rendimiento de las inversiones. Para los consumidores y las empresas, esto podría traducirse en un acceso más caro al crédito, mientras que para los ahorradores podría representar una oportunidad de mayores rendimientos. La vigilancia de las próximas decisiones de la Fed será crucial para inversores y ciudadanos por igual.</p>"
-  },
-  {
-    "id": "noticia-1784234721716-38",
-    "category": "Bolsa de Valores",
-    "title": "Bolsa de Valores en Alza: Claves para Entender el Repunte del Mercado Impulsado por las Ganancias Empresariales",
-    "summary": "Los futuros de las acciones experimentaron un notable aumento, señalando un impulso alcista para los mercados. Este repunte se produce a medida que la temporada de presentación de resultados empresariales toma fuerza, alimentando el optimismo entre los inversores.",
-    "editorialComment": "El actual repunte del mercado, impulsado por sólidos resultados empresariales, subraya la importancia de entender cómo el crecimiento sostenido puede impactar sus inversiones. En Pulso Finanzas, te animamos a explorar nuestra calculadora de interés compuesto. Esta herramienta es ideal para visualizar cómo incluso modestas ganancias, reinvertidas con el tiempo, pueden generar un crecimiento patrimonial significativo en un escenario de mercado alcista.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://www.barrons.com/livecoverage/stock-market-news-today-071526/card/markets-build-on-rally-as-earnings-season-ramps-up-stock-futures-pop--iUg6Ze8lPRHH1uksHhrG?siteid=yhoof2&amp;yptr=yahoo",
-    "date": "16 de julio de 2026",
-    "timestamp": 1784234721717,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Los mercados bursátiles globales han comenzado la semana con una notable inyección de optimismo, evidenciada por un significativo salto en los futuros de las acciones. Este impulso sugiere una continuación del rally alcista que ha caracterizado las últimas sesiones, marcando un panorama prometedor para los inversores. La clave de este repunte reside en el inminente inicio de la temporada de resultados empresariales, un período crucial que tradicionalmente define la dirección a corto y mediano plazo de los principales índices bursátiles.</p><p>La expectativa por los informes de ganancias corporativas es un motor fundamental para el sentimiento del mercado. A medida que las grandes empresas empiezan a revelar sus desempeños trimestrales, los inversores buscan señales de fortaleza económica y salud financiera que puedan justificar las actuales valoraciones y proyectar un crecimiento futuro. Unas cifras sólidas y perspectivas optimistas por parte de las compañías tienen el poder de disipar preocupaciones sobre la desaceleración económica y reforzar la confianza de los participantes del mercado.</p><p>Este rally no solo refleja el entusiasmo por los resultados, sino también una potencial resiliencia de la economía frente a diversos desafíos macroeconómicos. Para los inversores, este período ofrece una ventana para reevaluar estrategias y buscar oportunidades en sectores que muestren un crecimiento robusto. Sin embargo, es vital mantener un análisis prudente, ya que la volatilidad siempre está presente y la reacción del mercado a cada informe puede ser impredecible, demandando una vigilancia constante sobre las tendencias y las comunicaciones corporativas.</p>"
-  },
-  {
-    "id": "noticia-1784234731628-860",
-    "category": "Mercados",
-    "title": "El Banco Central fortalece sus reservas: ¿Qué significa para su bolsillo la compra de USD 1.000 millones?",
-    "summary": "El Banco Central de Argentina ha intensificado sus operaciones en el mercado de cambios, adquiriendo más de USD 1.000 millones en la última semana. Con esta fuerte intervención, la autoridad monetaria acumula un total superior a los USD 12.500 millones en lo que va del año.",
-    "editorialComment": "La sostenida acumulación de reservas por parte del Banco Central es una señal clave sobre la dirección de la política monetaria y la estabilidad económica. En un contexto de movimientos cambiarios, es fundamental gestionar nuestras finanzas personales con previsión. Considere utilizar nuestras plantillas de ahorro de Pulso Finanzas para monitorear sus gastos y optimizar su presupuesto, adaptándose así a las dinámicas del mercado.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/07/16/el-banco-central-acelero-la-compra-de-dolares-suma-mas-de-usd-1000-millones-en-la-semana/",
-    "date": "16 de julio de 2026",
-    "timestamp": 1784234731628,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El Banco Central de la República Argentina (BCRA) ha reportado una notable aceleración en la adquisición de divisas, sumando más de USD 1.000 millones a sus reservas internacionales tan solo en la última semana. Esta fuerte intervención en el mercado cambiario eleva el total acumulado en lo que va del año a una cifra superior a los USD 12.500 millones, marcando un hito significativo en la estrategia de recomposición de activos de la autoridad monetaria.</p><p>Esta agresiva política de compra de dólares se interpreta como un esfuerzo por fortalecer la posición de reservas netas del país, un objetivo crucial para la estabilidad macroeconómica. La acumulación de divisas busca no solo robustecer la solvencia externa, sino también proporcionar una mayor capacidad de intervención para amortiguar futuras volatilidades en el tipo de cambio y contener las expectativas inflacionarias a mediano plazo.</p><p>Para la economía general y los inversores, esta estrategia del BCRA tiene múltiples implicaciones. Por un lado, una mayor acumulación de reservas puede mejorar la percepción de riesgo del país, facilitando el acceso a mercados de crédito internacionales y fomentando la confianza. Por otro lado, la intensidad de estas compras sugiere una gestión activa del tipo de cambio, lo que podría influir en la competitividad exportadora y en el poder adquisitivo local, requiriendo un seguimiento atento por parte de ciudadanos y empresas.</p>"
-  },
-  {
-    "id": "noticia-1784221357225-361",
-    "category": "Bolsa de Valores",
-    "title": "Actualidad: Short sellers load up against SpaceX as stock drops below IPO price en español",
-    "summary": "Resumen de mercados: Short sellers load up against SpaceX as stock drops below IPO price. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
-    "editorialComment": "El mercado bursátil se ve fuertemente impulsado por empresas de alto rendimiento. A largo plazo, invertir de manera constante en el mercado bursátil permite ganarle a la inflación por medio del interés compuesto.",
-    "relatedTool": "tab-interes",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
-    "date": "16 de julio de 2026",
-    "timestamp": 1784221357241,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El evento sobre <strong>\"Short sellers load up against SpaceX as stock drops below IPO price\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
   }
 ]
