@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1785173356599-44",
+    "category": "Bolsa de Valores",
+    "title": "CME Revoluciona el Trading: Futuros de Acciones Individuales de SpaceX y Más, Operables 23 Horas al Día",
+    "summary": "CME Group ha lanzado futuros de acciones individuales con liquidación en efectivo para 55 acciones estadounidenses, incluyendo contratos micro en 22 nombres. Esta iniciativa permite a los inversores negociar títulos como SpaceX y Micron Technology durante 23 horas al día, expandiendo significativamente las oportunidades de trading.",
+    "editorialComment": "La introducción de estos futuros de acciones por parte del CME ofrece a los inversores nuevas vías para la exposición y gestión de riesgos en el mercado. Sin embargo, ante la sofisticación de estos instrumentos, es fundamental no perder de vista la importancia de la planificación a largo plazo. Utilice nuestra calculadora de interés compuesto para proyectar el crecimiento de sus inversiones y comprender cómo la paciencia y la reinversión inteligente pueden potenciar su capital más allá de las operaciones diarias.",
+    "relatedTool": "tab-interes",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html",
+    "date": "27 de julio de 2026",
+    "timestamp": 1785173356612,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El CME Group ha dado un paso significativo en el mercado de derivados financieros al lanzar futuros de acciones individuales con liquidación en efectivo. Esta nueva oferta abarca 55 acciones estadounidenses, destacando nombres de alto perfil como SpaceX y Micron Technology, así como contratos de tamaño micro para 22 de ellas. La característica más revolucionaria es la capacidad de operar estos instrumentos durante 23 horas al día, brindando una flexibilidad sin precedentes a los inversores globales.</p><p>Esta expansión representa una oportunidad clave para inversores que buscan gestionar el riesgo o especular sobre movimientos de precios en acciones específicas fuera del horario de mercado tradicional. La disponibilidad casi continua del trading puede aumentar la liquidez y ofrecer a los participantes del mercado una mayor capacidad de respuesta a noticias y eventos globales, sin estar restringidos por los horarios de apertura de la bolsa de valores. Permite una integración más fluida con los mercados asiáticos y europeos.</p><p>La relevancia de esta iniciativa trasciende la mera conveniencia horaria. Impulsa la innovación en el ámbito de los derivados, democratizando el acceso a herramientas que antes eran más exclusivas y fomentando una mayor eficiencia en la formación de precios. Este movimiento del CME podría intensificar la competencia entre plataformas de trading y modificar las estrategias de inversión, al ofrecer un método más directo para obtener exposición a empresas individuales con una capitalización de mercado significativa, influyendo en la dinámica global de los mercados de capitales.</p>"
+  },
+  {
+    "id": "noticia-1785173357373-732",
+    "category": "Criptomonedas",
+    "title": "Actualidad: 52-year-old international restaurant chain closing all locations en español",
+    "summary": "Resumen de mercados: 52-year-old international restaurant chain closing all locations. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
+    "editorialComment": "La volatilidad en criptomonedas demuestra la importancia de mantener un presupuesto equilibrado. No arriesgues más de tu 20% de ahorro sagrado definido en la regla 50/30/20. Planifica tus finanzas de forma segura.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/small-business/articles/52-old-international-restaurant-chain-145707525.html",
+    "date": "27 de julio de 2026",
+    "timestamp": 1785173357373,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El evento sobre <strong>\"52-year-old international restaurant chain closing all locations\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
+  },
+  {
+    "id": "noticia-1785173359640-116",
+    "category": "Mercados",
+    "title": "Actualidad: Kristalina Georgieva celebró la acumulación de reservas por parte del Banco Central: “Sigan comprando” en español",
+    "summary": "Resumen de mercados: Kristalina Georgieva celebró la acumulación de reservas por parte del Banco Central: “Sigan comprando”. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
+    "editorialComment": "El mercado bursátil se ve fuertemente impulsado por empresas de alto rendimiento. A largo plazo, invertir de manera constante en el mercado bursátil permite ganarle a la inflación por medio del interés compuesto.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/07/27/kristalina-georgieva-celebro-la-acumulacion-de-reservas-por-parte-del-banco-central-sigan-comprando/",
+    "date": "27 de julio de 2026",
+    "timestamp": 1785173359641,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El evento sobre <strong>\"Kristalina Georgieva celebró la acumulación de reservas por parte del Banco Central: “Sigan comprando”\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
+  },
+  {
     "id": "noticia-1785161367138-945",
     "category": "Mercados",
     "title": "IA de Código Abierto: El Pacto Global por la Seguridad que Reconfigurará los Mercados Financieros",
@@ -306,47 +348,5 @@
     "timestamp": 1785059420087,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>La reciente intensificación de las hostilidades entre Estados Unidos e Irán ha generado una profunda preocupación en los círculos financieros globales. Inversores y economistas están analizando con lupa las posibles repercusiones de este conflicto en la economía mundial, especialmente en mercados clave como el petróleo y las cadenas de suministro. La incertidumbre geopolítica se convierte, una vez más, en un factor determinante para la dirección de los activos financieros.</p><p>Los expertos señalan que el sector energético sería uno de los primeros y más afectados, con la potencial volatilidad en los precios del crudo que podría desencadenar presiones inflacionarias a nivel global. Además, la confianza del consumidor y la inversión empresarial podrían resentirse, ralentizando el crecimiento económico. Otros sectores como la tecnología o la manufactura, dependientes de cadenas de suministro internacionales, también podrían enfrentar interrupciones significativas.</p><p>En este escenario de tensión, la prudencia se vuelve fundamental para los inversores. La búsqueda de refugios seguros, la diversificación de carteras y una evaluación constante del riesgo son estrategias clave para navegar la volatilidad. Los bancos centrales, por su parte, podrían verse en la difícil posición de equilibrar la contención de la inflación con el apoyo al crecimiento en un entorno de mayor incertidumbre global.</p>"
-  },
-  {
-    "id": "noticia-1785059428651-936",
-    "category": "Mercados",
-    "title": "Super Micro Dispara el Optimismo en Nvidia: Implicaciones Clave para Inversores en IA",
-    "summary": "Super Micro Computer elevó drásticamente su pronóstico de ingresos para el segundo trimestre de 2024, superando con creces las expectativas del mercado. Este significativo aumento, impulsado por la fuerte demanda de sus servidores de inteligencia artificial, es una señal muy positiva para Nvidia y el sector tecnológico en general.",
-    "editorialComment": "La sorprendente revisión al alza de Super Micro nos recuerda el dinamismo y el potencial de crecimiento en el sector tecnológico, especialmente en IA. Para visualizar cómo el rendimiento de estas inversiones puede magnificarse a largo plazo, nuestra calculadora de interés compuesto es una herramienta esencial. Descubre cómo pequeñas ganancias consistentes pueden construir un patrimonio significativo con el tiempo.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/super-micro-just-delivered-fantastic-052000576.html",
-    "date": "26 de julio de 2026",
-    "timestamp": 1785059428651,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Super Micro Computer (SMCI) ha sorprendido al mercado al elevar significativamente su pronóstico de ingresos para el segundo trimestre fiscal de 2024. La compañía ahora espera ingresos de entre 3.600 y 3.650 millones de dólares, un salto considerable desde la previsión anterior de 2.700 a 2.900 millones de dólares. Este anuncio no solo disparó las acciones de SMCI, sino que también inyectó un fuerte optimismo en el sector tecnológico, especialmente entre los inversores de Nvidia (NVDA), su principal socio en el suministro de chips de inteligencia artificial.</p><p>El optimismo se extiende a Nvidia debido a la estrecha relación entre ambas compañías. Super Micro es un proveedor clave de servidores de IA, que dependen en gran medida de los chips GPU de Nvidia para su rendimiento. El auge en la demanda de los productos de SMCI, incluyendo sus innovadoras soluciones de refrigeración líquida para centros de datos de IA, sugiere una demanda subyacente robusta para la tecnología de Nvidia, previendo un desempeño financiero aún más sólido para el gigante de los semiconductores en sus próximos informes de resultados.</p><p>Este desarrollo subraya la fortaleza inquebrantable del mercado de la inteligencia artificial y su impacto transformador en la economía global. El rendimiento de Super Micro actúa como un barómetro positivo para el sector tecnológico en su conjunto, reafirmando la confianza de los inversores en el potencial de crecimiento exponencial de las empresas que lideran la carrera de la IA. Para Pulso Finanzas, este tipo de noticias resalta la importancia de una estrategia de inversión informada en un mercado dinámico y en constante evolución.</p>"
-  },
-  {
-    "id": "noticia-1785059437469-351",
-    "category": "Mercados",
-    "title": "Kristalina Georgieva en Argentina: La Sintonía FMI-Milei y su Impacto en los Mercados Globales",
-    "summary": "Kristalina Georgieva, directora gerente del FMI, aterrizó en Buenos Aires para ratificar su alineación política y económica con el presidente Javier Milei. La visita subraya la consideración de Milei como un 'leading case' en el actual escenario internacional, marcado por conflictos en Medio Oriente y sus efectos en el comercio global y las cadenas de suministro.",
-    "editorialComment": "La convergencia de políticas entre el FMI y Argentina, especialmente en un contexto de incertidumbre global, puede influir directamente en la estabilidad económica y la inflación. Comprender cómo estos grandes movimientos impactan el valor de la moneda y los precios es crucial para la gestión financiera personal. Para navegar estos escenarios y asegurar la resiliencia de tus finanzas, te recomendamos utilizar nuestras plantillas de ahorro, que te permitirán optimizar tu presupuesto y adaptarte a las fluctuaciones del mercado.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/07/26/kristalina-georgieva-aterriza-en-buenos-aires-para-ratificar-su-sintonia-politica-y-economica-con-javier-milei/",
-    "date": "26 de julio de 2026",
-    "timestamp": 1785059437469,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>La visita de Kristalina Georgieva, directora gerente del Fondo Monetario Internacional (FMI), a Buenos Aires no es un evento protocolar más. Su llegada tiene como objetivo principal ratificar la profunda sintonía política y económica que su organización ha encontrado en la administración de Javier Milei. En un escenario internacional crecientemente complejo, dominado por la guerra en Medio Oriente y sus ramificaciones en la cadena de suministros global y el comercio, la visión del FMI sobre Argentina y su presidente adquiere una relevancia estratégica, elevando a Milei a la categoría de un 'leading case' en la implementación de políticas de ajuste y liberalización.</p><p>Esta ratificación por parte de Georgieva representa un espaldarazo significativo para la agenda de reformas de Milei, que busca estabilizar la macroeconomía argentina, reducir la inflación y abrir el país a la inversión extranjera. La convergencia de visiones entre el FMI y la Casa Rosada podría facilitar futuros acuerdos financieros y técnicos, proporcionando a Argentina una mayor capacidad para acceder a mercados de capital y afianzar la confianza de los inversores internacionales. Dicho respaldo es vital para un país que busca consolidar un camino de crecimiento sostenible y superar décadas de inestabilidad económica.</p><p>Desde una perspectiva global, la relación FMI-Argentina bajo la égida de Milei se convierte en un caso de estudio clave para otras naciones que enfrentan desafíos similares de alta inflación, deuda y necesidad de reformas estructurales. En un momento donde las tensiones geopolíticas amenazan la estabilidad económica mundial, la postura del FMI hacia Argentina envía un mensaje claro sobre la dirección preferida en cuanto a política fiscal y monetaria. La evolución de esta relación y los resultados de las políticas implementadas serán monitoreados de cerca por analistas y mercados, pudiendo influir en las estrategias de inversión y la percepción de riesgo en otras economías emergentes.</p>"
-  },
-  {
-    "id": "noticia-1785047326283-315",
-    "category": "Mercados",
-    "title": "John Paulson: ¿Por Qué el Oro Podría Estar en el Inicio de un Ciclo Alcista Duradero?",
-    "summary": "El renombrado inversor John Paulson ha declarado que el mercado del oro se encuentra en las primeras etapas de un prolongado ciclo alcista. Esta previsión se fundamenta en una demanda creciente por el lingote, impulsada tanto por bancos centrales que acumulan reservas como por un interés cada vez mayor del sector privado.",
-    "editorialComment": "La visión de John Paulson sobre un mercado alcista de oro a largo plazo subraya la importancia de pensar en estrategias de inversión a futuro. Para comprender cómo tus activos pueden crecer con el tiempo, incluso en diferentes mercados, nuestra calculadora de interés compuesto es una herramienta esencial. Te ayudará a visualizar el potencial de tus inversiones a largo plazo y a planificar mejor tu futuro financiero.",
-    "relatedTool": "tab-interes",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
-    "date": "26 de julio de 2026",
-    "timestamp": 1785047326296,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>John Paulson, el influyente gestor de fondos conocido por sus audaces apuestas, ha captado la atención de los mercados al pronosticar el inicio de un mercado alcista de oro a largo plazo. Su perspectiva optimista sugiere que el metal precioso está en las primeras etapas de una trayectoria de crecimiento sostenido, desafiando a quienes ven el oro como un activo meramente refugio en tiempos de incertidumbre.</p><p>Según Paulson, la demanda de lingotes de oro se ha expandido significativamente, con los bancos centrales liderando esta tendencia al aumentar consistentemente sus reservas. Paralelamente, el interés del sector privado en el oro también está en ascenso, lo que indica un cambio más amplio en la percepción del valor del metal como componente de carteras de inversión. Esta doble tracción sugiere una base sólida para el rally previsto.</p><p>Para los inversores de Pulso Finanzas, esta noticia es crucial. La visión de Paulson invita a considerar el papel estratégico del oro en una cartera diversificada, no solo como protección contra la inflación o la volatilidad, sino como un activo con potencial de crecimiento a largo plazo. Evaluar estas oportunidades y entender cómo se integran en una estrategia financiera personal es clave para navegar los complejos movimientos del mercado actual.</p>"
   }
 ]
