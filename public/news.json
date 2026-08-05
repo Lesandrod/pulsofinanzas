@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1785963391410-639",
+    "category": "Mercados",
+    "title": "Alerta de la Fed: Gobernadora Cook dispuesta a subir tasas si la inflación no cede",
+    "summary": "La gobernadora de la Reserva Federal, Lisa Cook, ha declarado que está 'preparada para actuar' con una subida de tasas de interés si la inflación persiste. Esta postura se da a pesar de haber votado la semana pasada a favor de mantener las tasas en su rango actual.",
+    "editorialComment": "La posibilidad de nuevas alzas en las tasas de interés por parte de la Fed subraya la importancia de una gestión financiera sólida para los hogares y empresas. Ante un escenario inflacionario y de costos de endeudamiento potencialmente mayores, revisar y ajustar tu presupuesto es fundamental. Para ayudarte a mantener el control, te invitamos a descargar nuestras plantillas de ahorro y presupuesto, una herramienta esencial para navegar la volatilidad económica.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
+    "date": "5 de agosto de 2026",
+    "timestamp": 1785963391423,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>La gobernadora de la Reserva Federal de Estados Unidos, Lisa Cook, ha emitido un fuerte mensaje a los mercados al declarar que está 'preparada para actuar' con una subida de tasas de interés. Esta afirmación surge en un momento clave, a pesar de que la semana pasada votó junto a la mayoría (9-3) para mantener la tasa de referencia del banco central en un rango entre 3.5% y 3.75%. Su postura, considerada hawkish, indica una preocupación persistente por la trayectoria de la inflación.</p><p>La disposición de Cook a considerar un aumento de las tasas subraya el compromiso de la Fed de llevar la inflación de nuevo a su objetivo del 2%. Un alza en las tasas busca encarecer el crédito y, por ende, enfriar la demanda, lo que teóricamente debería desacelerar el crecimiento de los precios. Este tipo de declaraciones son cruciales para los inversores y consumidores, ya que anticipan posibles movimientos futuros en la política monetaria que impactarán desde los préstamos hipotecarios hasta las inversiones.</p><p>El impacto de un posible endurecimiento monetario afectaría directamente a los costos de financiamiento para empresas y consumidores, lo que podría influir en el crecimiento económico general. Para Pulso Finanzas, es fundamental seguir de cerca estas señales, dado que las decisiones de la Fed no solo marcan el rumbo de la economía estadounidense, sino que también tienen repercusiones globales. La atención se centrará ahora en los próximos datos económicos y en las futuras reuniones del comité para dilucidar el camino que tomará la política monetaria.</p>"
+  },
+  {
+    "id": "noticia-1785963401712-276",
+    "category": "Bolsa de Valores",
+    "title": "Ataque a Microsoft: ¿Cómo la ciberseguridad en la IA impacta tus inversiones en la Bolsa?",
+    "summary": "Microsoft ha sido blanco de un ciberataque significativo, con 131 paquetes de IA maliciosos detectados en su registro de npm. Este incidente subraya las crecientes amenazas en el desarrollo de inteligencia artificial y la importancia crítica de la ciberseguridad para las grandes tecnológicas.",
+    "editorialComment": "Este tipo de incidentes no solo afecta la reputación de las empresas, sino que también puede generar volatilidad en sus acciones, impactando directamente las carteras de los inversores. En un entorno donde la estabilidad del mercado es clave, comprender cómo los eventos tecnológicos influyen en tus finanzas es fundamental. Asegura el crecimiento de tu capital a largo plazo, calculando el rendimiento de tus inversiones con nuestra calculadora de interés compuesto, una herramienta esencial para la planificación financiera estratégica.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/131-poisoned-ai-packages-hit-123042550.html",
+    "date": "5 de agosto de 2026",
+    "timestamp": 1785963401712,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El gigante tecnológico Microsoft ha enfrentado una seria vulnerabilidad en su plataforma npm, con el descubrimiento de 131 paquetes de inteligencia artificial maliciosos. Estos \"paquetes envenenados\" representan una amenaza latente para los desarrolladores y usuarios, con el potencial de comprometer sistemas y datos sensibles, marcando un hito preocupante en la seguridad del software de IA.</p><p>Este incidente no solo pone en relieve los desafíos de seguridad inherentes al rápido avance de la IA, sino que también subraya la vulnerabilidad de las cadenas de suministro de software. Para empresas como Microsoft, proteger su infraestructura es vital para mantener la confianza de sus clientes y la estabilidad de sus operaciones. Compañías de ciberseguridad como CrowdStrike, mencionada en la noticia, ven reforzada su propuesta de valor ante la creciente demanda de soluciones robustas contra este tipo de ataques.</p><p>Desde una perspectiva económica, la seguridad de la IA es un factor cada vez más relevante para los inversores. Los ciberataques pueden afectar la valoración de las empresas, generar costos significativos de remediación y dañar la reputación a largo plazo. Este suceso recalca la necesidad de que las empresas inviertan proactivamente en ciberseguridad y que los mercados financieros evalúen estos riesgos como parte integral de la salud corporativa y la sostenibilidad de las inversiones.</p>"
+  },
+  {
+    "id": "noticia-1785963410274-211",
+    "category": "Mercados",
+    "title": "Mercados: Acciones Argentinas Retoman Bajas, ¿Cómo Proteger tus Inversiones Ante la Volatilidad?",
+    "summary": "El S&P Merval registró una caída del 1%, marcando una nueva jornada de bajas para las acciones argentinas. Simultáneamente, Wall Street cerró dispar, con el Dow Jones en máximos pero con tomas de ganancias, mientras los bonos cayeron 0,3% y el riesgo país escaló a 428 puntos.",
+    "editorialComment": "La volatilidad en los mercados subraya la importancia de una estrategia de inversión sólida y a largo plazo. Incluso en jornadas de baja, comprender cómo el interés compuesto puede potenciar tu capital es clave. Utiliza nuestra calculadora de interés compuesto para simular el crecimiento de tus ahorros y planificar mejor tu futuro financiero.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/08/05/mercados-las-acciones-argentinas-retoman-las-bajas-mientras-wall-street-bate-un-nuevo-record/",
+    "date": "5 de agosto de 2026",
+    "timestamp": 1785963410275,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Las acciones argentinas experimentaron otra jornada de retroceso, con el índice S&P Merval cayendo un 1%. Esta tendencia a la baja se vio acompañada por un descenso del 0,3% en los bonos locales, reflejando una cautela persistente entre los inversores. La subida del riesgo país a 428 puntos básicos agrava la percepción de incertidumbre, impactando directamente en las expectativas de financiamiento y estabilidad económica del país.</p><p>En contraste, Wall Street presentó un panorama mixto. Si bien la temporada de balances impulsó al Dow Jones a nuevos máximos históricos, la jornada concluyó de manera dispar debido a una marcada toma de ganancias. Este comportamiento refleja una dicotomía global, donde la robustez de algunos sectores económicos internacionales contrasta con las particularidades y desafíos que enfrentan mercados emergentes como el argentino.</p><p>La divergencia entre el desempeño de los mercados locales y el de las bolsas internacionales destaca la complejidad del escenario financiero actual. Para los inversores, estas fluctuaciones subrayan la importancia de mantenerse informados y de evaluar cuidadosamente sus estrategias. La constante variación en los bonos y el riesgo país son indicadores clave que requieren atención para anticipar posibles movimientos económicos y proteger el capital en un entorno de elevada volatilidad.</p>"
+  },
+  {
     "id": "noticia-1785950332267-431",
     "category": "Bolsa de Valores",
     "title": "Actualidad: Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says en español",
@@ -306,47 +348,5 @@
     "timestamp": 1785851153938,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>La plataforma de mercados de predicción Polymarket ha acaparado la atención de los círculos financieros tras conocerse que está en conversaciones para una nueva ronda de financiación que podría catapultar su valoración a más de 20 mil millones de dólares. Esta impresionante cifra llega poco después de que la compañía reportara a CNBC ingresos anualizados que superan los mil millones de dólares, señalando un crecimiento explosivo en un nicho de mercado en expansión.</p><p>Polymarket opera en un espacio híbrido entre las finanzas descentralizadas (DeFi) y los mercados de apuestas sobre eventos futuros, desde política hasta criptomonedas. Una valoración tan elevada no solo refleja la confianza de los inversores en el modelo de negocio de Polymarket, sino también el apetito creciente por plataformas que combinan elementos de blockchain con mecanismos de mercado tradicionales, ofreciendo nuevas vías para la especulación y la asignación de capital.</p><p>Este desarrollo tiene implicaciones significativas para el ecosistema financiero global. Demuestra la maduración y el potencial de escalabilidad de proyectos Web3 y cripto, atrayendo la mirada de capitales institucionales y minoristas. No obstante, una valoración tan ambiciosa también invita a la cautela y al análisis detallado de sus fundamentos, recordando a los inversores la importancia de la diversificación y la diligencia debida en mercados emergentes y volátiles.</p>"
-  },
-  {
-    "id": "noticia-1785851162649-48",
-    "category": "Bolsa de Valores",
-    "title": "Wall Street en Cifras Récord: Dow y S&P 500 al alza, Nasdaq impulsado por optimismo en EEUU-Irán y sólidos resultados",
-    "summary": "Los principales índices bursátiles de Wall Street, el Dow Jones y el S&P 500, alcanzaron nuevos máximos históricos en la jornada de hoy. El Nasdaq también experimentó un ascenso, impulsado por el optimismo generado en torno a las relaciones entre Estados Unidos e Irán y por sólidos reportes de ganancias corporativas.",
-    "editorialComment": "El actual escenario de máximos históricos en los mercados resalta la importancia de la inversión a largo plazo para construir riqueza. Comprender cómo los rendimientos del mercado pueden crecer exponencialmente a lo largo del tiempo es clave para cualquier estrategia financiera. Nuestra calculadora de interés compuesto puede ayudarte a visualizar el potencial de crecimiento de tus inversiones en un mercado alcista.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html",
-    "date": "4 de agosto de 2026",
-    "timestamp": 1785851162649,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Los principales índices bursátiles de Wall Street vivieron hoy una jornada histórica, con el Dow Jones y el S&P 500 alcanzando nuevos récords, mientras que el Nasdaq Composite también registró ganancias significativas. Este avance generalizado fue impulsado por una combinación de factores positivos, incluyendo un renovado optimismo geopolítico entre Estados Unidos e Irán y una serie de sólidos informes de ganancias corporativas que superaron las expectativas del mercado.</p><p>El optimismo generado por las noticias relativas a EE. UU. e Irán sugirió una posible desescalada de tensiones, lo que tiende a reducir la incertidumbre en los mercados globales y a fomentar un entorno de mayor confianza para los inversores. Paralelamente, la temporada de resultados empresariales ha sido un pilar fundamental. Las compañías que reportaron ganancias superiores a lo previsto no solo validan las valoraciones actuales, sino que también proyectan una imagen de solidez y recuperación económica, incentivando aún más la inversión en renta variable.</p><p>Este desempeño excepcional en el mercado bursátil refleja una robusta confianza de los inversores en la trayectoria de crecimiento económico, a pesar de los desafíos persistentes. Si bien los récords son motivo de celebración para quienes están invertidos, también subrayan la dinámica cambiante de la economía global y la rapidez con la que los mercados pueden reaccionar a las noticias fundamentales. Para los inversores, este panorama recalca la importancia de mantenerse informados y considerar estrategias que aprovechen el potencial de crecimiento a largo plazo.</p>"
-  },
-  {
-    "id": "noticia-1785851171739-139",
-    "category": "Mercados",
-    "title": "Alerta Económica: Pobreza Vuelve a Crecer en 2026, Alcanzando el 30% Según la UCA",
-    "summary": "La Universidad Católica Argentina (UCA) informó que la pobreza alcanzó el 30% de la población durante el primer trimestre de 2026, deteniendo una baja previa. Este incremento se suma a un preocupante aumento en los niveles de indigencia en el mismo período.",
-    "editorialComment": "En un contexto de aumento de la pobreza y la indigencia, la gestión eficaz de las finanzas personales se vuelve crucial para millones de hogares. Entender y controlar el presupuesto familiar es un pilar fundamental para mitigar el impacto de estas tendencias. Nuestra plantilla de ahorro es una herramienta esencial para planificar y optimizar tus recursos en tiempos desafiantes.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/08/04/la-pobreza-freno-su-baja-y-volvio-a-aumentar-en-el-primer-trimestre-de-2026-segun-la-uca/",
-    "date": "4 de agosto de 2026",
-    "timestamp": 1785851171739,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>La Universidad Católica Argentina (UCA) ha emitido un informe preocupante, revelando que la pobreza se disparó al 30% de la población en el primer trimestre de 2026. Este dato no solo revierte una tendencia previa a la baja, sino que también subraya la persistencia de desafíos socioeconómicos significativos en el país. El estudio detalla, además, un incremento en la indigencia, marcando un empeoramiento general en las condiciones de vida de los sectores más vulnerables de la sociedad.</p><p>Este ascenso en los indicadores de pobreza impacta directamente en el poder adquisitivo de los hogares y en el consumo interno, factores esenciales para el dinamismo económico. Un escenario de creciente vulnerabilidad económica genera presiones adicionales sobre los presupuestos familiares, forzando a reajustes drásticos en gastos esenciales. La contracción del consumo, a su vez, repercute negativamente en diversos sectores productivos y de servicios, pudiendo generar un círculo vicioso de menor actividad económica y un posible aumento del desempleo.</p><p>Para la economía en general, el incremento en la pobreza y la indigencia representa una clara señal de alarma sobre la efectividad de las políticas actuales y la urgencia de implementar estrategias más robustas. La estabilidad social y económica de una nación está intrínsecamente ligada a su capacidad para reducir estas brechas. En este contexto, la planificación financiera personal y familiar se convierte en una herramienta indispensable para que los individuos puedan navegar un entorno económico cada vez más complejo y volátil, buscando proteger su patrimonio y asegurar un futuro más estable.</p>"
-  },
-  {
-    "id": "noticia-1785839214656-945",
-    "category": "Mercados",
-    "title": "Clear Street Abre Puerta Exclusiva a Databricks Pre-IPO: Inversión en Gigantes Tecnológicos",
-    "summary": "La firma de corretaje fintech Clear Street ha lanzado una innovadora plataforma de mercados privados. Esta iniciativa busca ofrecer a los inversores acceso temprano a participaciones de empresas tecnológicas de alto perfil como Databricks, antes de su potencial salida a bolsa.",
-    "editorialComment": "Esta noticia subraya la importancia de entender el potencial de crecimiento a largo plazo en inversiones estratégicas. Analizar cómo el valor de una empresa como Databricks podría multiplicarse con el tiempo es crucial, y nuestra calculadora de interés compuesto puede ayudarle a visualizar el impacto del crecimiento sostenido en sus inversiones.",
-    "relatedTool": "tab-interes",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-    "date": "4 de agosto de 2026",
-    "timestamp": 1785839214669,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>La firma de corretaje fintech Clear Street ha irrumpido en el mercado con el lanzamiento de una plataforma dedicada a los mercados privados, marcando un hito significativo para inversores que buscan exposición a startups de alto crecimiento. El debut de esta iniciativa se centra en ofrecer participaciones en Databricks, el gigante de la inteligencia artificial valorado en 188 mil millones de dólares, permitiendo a un selecto grupo de inversores acceder a la compañía antes de su potencial oferta pública inicial (IPO).</p><p>Esta estrategia de Clear Street responde a una creciente demanda de democratizar el acceso a empresas que tradicionalmente solo estaban disponibles para fondos de capital riesgo o inversores institucionales. Ofrecer un camino para invertir en una potencia de IA como Databricks, que está transformando la gestión de datos y análisis, representa una oportunidad de alto potencial. Sin embargo, este tipo de inversiones conlleva riesgos inherentes, dada la iliquidez y la especulación propias de los mercados privados.</p><p>El movimiento de Clear Street no solo redefine las barreras de entrada para la inversión en startups maduras, sino que también intensifica la competencia en el sector fintech. A medida que más empresas buscan innovar en la forma en que los inversores acceden a oportunidades de alto calibre, el panorama financiero general se transforma. Este desarrollo subraya la tendencia hacia una mayor accesibilidad y sofisticación en las opciones de inversión, perfilando un futuro donde los mercados privados juegan un papel cada vez más crucial en la cartera de los inversores.</p>"
   }
 ]
