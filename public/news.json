@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1786639452632-6",
+    "category": "Mercados",
+    "title": "Steve Eisman de 'Big Short' Alerta: El Riesgo Oculto del Boom de la IA y Cómo Proteger Tu Inversión",
+    "summary": "El reconocido inversor Steve Eisman, famoso por su papel en la crisis de 2008, ha lanzado una advertencia sobre el auge de la inteligencia artificial. Según Eisman, la creciente dependencia del sector en solo dos empresas clave, OpenAI y Anthropic, representa un talón de Aquiles para la estabilidad del mercado.",
+    "editorialComment": "La advertencia de Eisman subraya la importancia de una estrategia de inversión diversificada y consciente de los riesgos. Comprender cómo las valoraciones de las empresas pueden impactar tus retornos a largo plazo es fundamental para la estabilidad financiera. Te invitamos a utilizar nuestra calculadora de interés compuesto para simular escenarios y planificar tus inversiones, considerando siempre la volatilidad inherente del mercado.",
+    "relatedTool": "tab-interes",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
+    "date": "13 de agosto de 2026",
+    "timestamp": 1786639452645,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Steve Eisman, el inversor que anticipó la burbuja inmobiliaria de 2008 y se hizo célebre por su rol en 'The Big Short', ha vuelto a levantar la voz de alarma, esta vez sobre el creciente auge de la inteligencia artificial. Según Eisman, el floreciente sector de la IA presenta una vulnerabilidad crítica: su excesiva dependencia de solo dos actores principales, OpenAI y Anthropic. Esta concentración de poder y desarrollo podría convertirse en un punto débil fundamental si la trayectoria o valoración de estas empresas sufriera contratiempos.</p><p>La preocupación de Eisman radica en el riesgo sistémico que implica que una industria tan transformadora y valorada descanse sobre una base tan estrecha. En la historia de los mercados, la dependencia excesiva de unas pocas compañías ha sido, en ocasiones, un precursor de burbujas o correcciones significativas. Si el éxito de la IA se vincula de manera inextricable al rendimiento de estas dos firmas, cualquier desaceleración, problema regulatorio o tecnológica en ellas podría tener repercusiones en cadena para todo el ecosistema de la inteligencia artificial y, por extensión, para la bolsa global.</p><p>Para los inversores, esta advertencia sirve como un recordatorio crucial de la importancia de la diversificación y el análisis crítico. Si bien el potencial de la IA es innegable, la visión de Eisman insta a evaluar la sostenibilidad de las valoraciones actuales y a considerar estrategias que mitiguen la exposición a la concentración del mercado. En un entorno donde la euforia puede eclipsar la cautela, entender estos riesgos es clave para tomar decisiones financieras informadas y proteger el capital a largo plazo.</p>"
+  },
+  {
+    "id": "noticia-1786639461394-511",
+    "category": "Mercados",
+    "title": "Tasas Hipotecarias hasta 2030: Predicciones Clave y su Impacto en el Mercado Inmobiliario",
+    "summary": "La noticia explora las proyecciones de las tasas hipotecarias hasta el año 2030, analizando las expectativas de los expertos. Se aborda la gran pregunta de si estas tendencias podrían desencadenar una caída significativa en el mercado inmobiliario.",
+    "editorialComment": "Entender la trayectoria de las tasas hipotecarias es crucial para planificar tus finanzas personales o tus futuras inversiones inmobiliarias. Proyectar cómo los cambios en las tasas impactan el costo total de un préstamo a largo plazo te permitirá tomar decisiones informadas. Te invitamos a utilizar nuestra calculadora de interés compuesto para visualizar el impacto de diferentes escenarios de tasas en tus deudas o ahorros.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-through-2030-will-the-market-crash-195826935.html",
+    "date": "13 de agosto de 2026",
+    "timestamp": 1786639461394,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Las proyecciones sobre las tasas hipotecarias hasta 2030 son un tema de gran interés para propietarios, futuros compradores e inversores. Diversos analistas financieros están emitiendo sus pronósticos, buscando anticipar la dirección que tomarán los costos de endeudamiento a largo plazo en un mercado inmobiliario que ha mostrado una volatilidad considerable en los últimos años. La gran pregunta es si las tendencias actuales conducirán a una estabilización o, por el contrario, a una corrección más drástica.</p><p>Los expertos señalan que factores macroeconómicos como la inflación, las decisiones de política monetaria de los bancos centrales (particularmente la Reserva Federal), y el crecimiento económico general, serán determinantes en la evolución de estas tasas. Si bien hay quienes vaticinan una desaceleración gradual del mercado sin una caída brusca, otros advierten sobre la posibilidad de una corrección más pronunciada, especialmente si las tasas se mantienen elevadas por más tiempo de lo esperado, afectando la asequibilidad de la vivienda.</p><p>Para los consumidores, estas predicciones subrayan la importancia de una planificación financiera cuidadosa. Aquellos que buscan comprar una vivienda o refinanciar una hipoteca deben considerar los posibles escenarios de tasas y cómo estos impactarían sus pagos mensuales y el costo total de la deuda. Mantenerse informado y evaluar las opciones con anticipación es clave para navegar un mercado inmobiliario en constante cambio y tomar decisiones financieras sólidas.</p>"
+  },
+  {
+    "id": "noticia-1786639469301-37",
+    "category": "Mercados",
+    "title": "Mercados en Contraste: Acciones y Bonos Argentinos en Baja mientras Wall Street Alcanza Récord",
+    "summary": "Las acciones y bonos de Argentina experimentan nuevas caídas, con el Merval retrocediendo 1% y el riesgo país escalando a 473 puntos. Esta tendencia negativa se da en un contexto global de optimismo, donde el S&P 500 de Wall Street marca un nuevo máximo histórico.",
+    "editorialComment": "La divergencia entre los mercados globales y la situación local subraya la importancia de una visión a largo plazo en tus finanzas. Aunque las fluctuaciones actuales puedan ser desalentadoras, entender cómo el interés compuesto puede potenciar tus ahorros a lo largo del tiempo es clave para construir riqueza. Visita nuestra calculadora de interés compuesto para proyectar el crecimiento de tus inversiones.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/08/13/mercados-rebotan-las-acciones-y-los-bonos-argentinos-de-la-mano-de-una-sesion-favorable-de-wall-street/",
+    "date": "13 de agosto de 2026",
+    "timestamp": 1786639469301,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>La jornada bursátil de hoy presenta un panorama contrastante, con los activos argentinos retomando una senda bajista mientras los mercados globales, liderados por Wall Street, alcanzan nuevas cimas. Esta disociación refleja diferentes dinámicas económicas y de confianza inversora que están marcando el pulso financiero. La caída del petróleo, aunque modesta, añade un matiz a la fortaleza mostrada por los índices estadounidenses.</p><p>En el plano local, el índice Merval de la bolsa porteña registró una caída del 1%, impactando directamente en el valor de las acciones de las principales empresas argentinas. Simultáneamente, el riesgo país, un indicador clave de la percepción de los inversores sobre la capacidad de Argentina para honrar sus deudas, ascendió a 473 puntos básicos. Este incremento señala una mayor cautela y un costo de financiamiento más elevado para el país en los mercados internacionales.</p><p>La situación argentina contrasta fuertemente con el optimismo en Wall Street, donde el índice S&P 500 de Nueva York avanzó un significativo 0,8%, estableciendo un nuevo máximo histórico. Este desempeño de los mercados desarrollados, impulsado por factores internos y una perspectiva económica positiva, pone en evidencia los desafíos específicos que enfrentan los inversores y la economía en Argentina, requiriendo una cuidadosa evaluación de las estrategias de inversión en un entorno global tan diverso.</p>"
+  },
+  {
     "id": "noticia-1786625018950-20",
     "category": "Mercados",
     "title": "Mercados de Predicción Electoral: La Incertidumbre Legal que Desafía a las Autoridades Estadounidenses",
@@ -306,47 +348,5 @@
     "timestamp": 1786525248386,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>La Bolsa Mercantil de Chicago (CME) se encuentra en la vanguardia de la innovación financiera al anunciar el lanzamiento de contratos de futuros sobre el poder de cómputo de Inteligencia Artificial. Este movimiento estratégico, realizado en colaboración con Silicon Data, marca un hito significativo: transformar la capacidad de procesamiento de IA en una clase de activo negociable. Con fecha de lanzamiento prevista para el 5 de octubre, y pendiente de la aprobación regulatoria, esta iniciativa promete redefinir el panorama de inversión en tecnología.</p><p>La introducción de estos contratos de futuros ofrece a empresas y grandes inversores una herramienta vital para gestionar el riesgo y especular sobre la demanda futura de recursos de IA. Al estandarizar y titularizar el poder de cómputo, el CME crea un mercado líquido que facilitará la planificación a largo plazo para las empresas tecnológicas, desde startups que desarrollan nuevos modelos hasta gigantes que requieren inmensas capacidades de procesamiento. Esto no solo legitima la potencia de cómputo como un insumo económico fundamental, sino que también proporciona transparencia en su valoración.</p><p>Este desarrollo tiene profundas implicaciones para la economía general y el sector tecnológico. Al ofrecer un mecanismo para invertir directamente en la infraestructura subyacente de la IA, se pueden canalizar mayores flujos de capital hacia la innovación y el desarrollo en este campo. Además, la capacidad de cubrirse contra la volatilidad de los precios del cómputo de IA podría estabilizar los costos operativos para las empresas, fomentando una mayor inversión y expansión en un sector que es cada vez más central para el crecimiento económico global.</p>"
-  },
-  {
-    "id": "noticia-1786525249321-45",
-    "category": "Criptomonedas",
-    "title": "Actualidad: Are credit cards with annual fees worth it? en español",
-    "summary": "Resumen de mercados: Are credit cards with annual fees worth it?. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
-    "editorialComment": "La volatilidad en criptomonedas demuestra la importancia de mantener un presupuesto equilibrado. No arriesgues más de tu 20% de ahorro sagrado definido en la regla 50/30/20. Planifica tus finanzas de forma segura.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/personal-finance/credit-cards/article/are-credit-cards-with-annual-fees-worth-it-214012757.html",
-    "date": "12 de agosto de 2026",
-    "timestamp": 1786525249322,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El evento sobre <strong>\"Are credit cards with annual fees worth it?\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
-  },
-  {
-    "id": "noticia-1786525257826-672",
-    "category": "Bolsa de Valores",
-    "title": "¿Merval en Baja? Descubre por qué los inversores ignoran los buenos balances y cómo afecta tu cartera",
-    "summary": "El índice Merval en Argentina perforó los 1.900 puntos en dólares, cayendo un 15% desde sus máximos anuales. Esta baja ocurre a pesar de que bancos, servicios y energéticas reportan sólidas ganancias, evidenciando una creciente cautela inversora.",
-    "editorialComment": "En un escenario donde el mercado local muestra una clara desconexión entre los resultados empresariales y el ánimo inversor, es fundamental pensar a largo plazo. Nuestra calculadora de interés compuesto es una herramienta esencial para proyectar el potencial de tus inversiones, incluso en momentos de incertidumbre, y entender cómo el tiempo puede trabajar a tu favor más allá de las fluctuaciones diarias.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/08/12/crece-la-cautela-entre-los-inversores-y-el-mercado-local-pierde-atractivo-pese-a-los-buenos-balances-de-las-empresas/",
-    "date": "12 de agosto de 2026",
-    "timestamp": 1786525257826,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El mercado bursátil argentino, representado por el índice Merval, ha experimentado una notable caída, perforando los 1.900 puntos medidos en dólares y situándose un 15% por debajo de sus máximos anuales. Esta retracción se produce a pesar de que sectores clave como bancos, compañías de servicios y energéticas están reportando sólidas ganancias en sus balances, mostrando una salud corporativa que no logra traducirse en optimismo inversor.</p><p>La creciente cautela entre los inversores parece ser el factor dominante detrás de esta desvalorización. A pesar de los números positivos de las empresas, la preocupación por factores macroeconómicos, la incertidumbre política o la percepción de un techo en el crecimiento futuro podrían estar pesando más en las decisiones de inversión. Este fenómeno crea una dicotomía interesante: las empresas son rentables, pero el atractivo del mercado para captar nuevo capital disminuye.</p><p>Esta situación plantea un desafío para quienes buscan oportunidades en el mercado local y subraya la importancia de una estrategia de inversión bien fundamentada. La desconexión entre los fundamentales empresariales y el comportamiento del índice sugiere que los inversores están priorizando la aversión al riesgo, lo que podría generar oportunidades para aquellos con una visión a largo plazo o, por el contrario, señalar riesgos latentes que aún no se reflejan plenamente en los balances.</p>"
-  },
-  {
-    "id": "noticia-1786512187008-982",
-    "category": "Mercados",
-    "title": "Mercado Automotriz Chino: ¿Cómo el auge de los Vehículos Eléctricos reconfigura tu Estrategia de Inversión?",
-    "summary": "La Asociación de Automóviles de Pasajeros de China informó un notable aumento en la penetración de vehículos de nueva energía (NEV) durante julio. Además, el Tesla Model Y mantuvo su fuerte popularidad en el dinámico mercado chino.",
-    "editorialComment": "El impresionante crecimiento de los vehículos eléctricos en China subraya la importancia de identificar tendencias de mercado para oportunidades de inversión a largo plazo. Este panorama refuerza la relevancia de comprender cómo el capital invertido en sectores en expansión puede generar retornos significativos. Nuestra calculadora de interés compuesto puede ser una herramienta invaluable para proyectar el potencial de crecimiento de tus inversiones en este tipo de mercados.",
-    "relatedTool": "tab-interes",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
-    "date": "12 de agosto de 2026",
-    "timestamp": 1786512187021,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Los últimos datos publicados por la Asociación de Automóviles de Pasajeros de China revelan un avance significativo en la adopción de vehículos de nueva energía (NEV) durante el mes de julio. Esta tendencia subraya la rápida electrificación del mercado automotriz más grande del mundo, donde la penetración de los NEV continúa en ascenso. Marcas como Tesla, con su popular Model Y, y gigantes locales como BYD, están consolidando su posición en un ecosistema cada vez más competitivo.</p><p>Este dominio de los vehículos eléctricos no solo reconfigura el panorama automotriz chino, sino que también tiene profundas implicaciones para la economía global. El impulso hacia los NEV acelera la innovación en baterías y tecnología automotriz, mientras que la creciente demanda impacta las cadenas de suministro de minerales críticos y la infraestructura de carga. Además, la competitividad entre fabricantes locales e internacionales se intensifica, marcando pautas para la evolución de la industria a nivel mundial.</p><p>Para los inversores y analistas económicos, los datos de julio son un claro indicador de que la transición energética en el sector automotriz chino es una realidad irreversible. La resiliencia y el crecimiento del mercado de NEV en China sugieren oportunidades continuas en el sector, tanto para fabricantes de vehículos como para empresas relacionadas con la infraestructura de carga, la producción de componentes y la gestión de la cadena de suministro. Monitorear estas tendencias es crucial para entender las futuras dinámicas de un mercado global en constante transformación.</p>"
   }
 ]
