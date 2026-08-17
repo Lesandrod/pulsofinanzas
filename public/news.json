@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1786997673676-295",
+    "category": "Bolsa de Valores",
+    "title": "Mercados de Predicción: Analizando la Incertidumbre en la Fusión Paramount y Warner Bros. Discovery",
+    "summary": "Traders en mercados de predicción estiman una probabilidad de 1 en 4 de que la oferta de Paramount para adquirir Warner Bros. Discovery fracase. Esta estimación ha fluctuado, aumentando tras demandas estatales, pero disminuyendo después de un retraso previo en la adquisición.",
+    "editorialComment": "La volatilidad y las probabilidades en grandes fusiones como la de Paramount y WBD subrayan la importancia de una gestión financiera sólida para los inversores. Mantener un presupuesto bien estructurado es clave para proteger tus ahorros frente a cualquier turbulencia del mercado, sin importar el resultado de estas operaciones corporativas. Descarga nuestra plantilla de ahorro para asegurar tus finanzas.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
+    "date": "17 de agosto de 2026",
+    "timestamp": 1786997673690,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Los traders de los mercados de predicción están asignando una probabilidad de aproximadamente 1 en 4 (o 25%) a que la propuesta de Paramount para adquirir Warner Bros. Discovery no se concrete. Esta cifra, analizada por plataformas como Kalshi, es un indicador del sentimiento de los inversores sobre una de las fusiones más esperadas en el sector de medios y entretenimiento. La fluctuación en estas probabilidades refleja una constante reevaluación del riesgo por parte del mercado.</p><p>La evolución de estas probabilidades no ha sido lineal. Se observó un aumento significativo en la posibilidad de fracaso después de que doce estados presentaran demandas para bloquear la fusión, introduciendo un nuevo nivel de incertidumbre regulatoria. Sin embargo, estas expectativas negativas se moderaron ligeramente tras el anuncio de Paramount de un retraso en la adquisición a finales de julio, sugiriendo una posible gestión de obstáculos o una renegociación de términos.</p><p>La posible fusión o fracaso de la adquisición entre gigantes como Paramount y Warner Bros. Discovery tiene implicaciones significativas para el sector de medios, la competencia en el mercado y, por ende, para la economía general. Un fracaso podría liberar capital para otras inversiones, mientras que una consolidación exitosa redefiniría el panorama competitivo. Para los inversores, estos eventos son cruciales, ya que pueden influir en el valor de las acciones de ambas compañías y en el sentimiento general del mercado, subrayando la importancia de estar informados sobre la dinámica regulatoria y las señales del mercado.</p>"
+  },
+  {
+    "id": "noticia-1786997682825-528",
+    "category": "Bolsa de Valores",
+    "title": "Berkshire Hathaway de Buffett Aumenta Apuesta en Aerolíneas: ¿Qué Implicaciones Tiene para Tu Cartera?",
+    "summary": "Berkshire Hathaway, el conglomerado de Warren Buffett, ha incrementado significativamente su participación en la aerolínea más grande del mundo. Este movimiento sugiere una renovada confianza en el sector de la aviación y una potencial oportunidad de crecimiento a largo plazo.",
+    "editorialComment": "La decisión de Warren Buffett de reforzar su inversión en el sector aéreo es un recordatorio poderoso de la importancia de una visión a largo plazo en las finanzas. Para aquellos que buscan construir riqueza a lo largo del tiempo, entender cómo el interés compuesto puede potenciar sus inversiones es fundamental. Nuestra calculadora de interés compuesto es una herramienta ideal para visualizar el crecimiento potencial de sus ahorros siguiendo una estrategia similar a la del 'Oráculo de Omaha'.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-raises-stake-214700937.html",
+    "date": "17 de agosto de 2026",
+    "timestamp": 1786997682825,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Warren Buffett, a través de su holding Berkshire Hathaway, ha vuelto a acaparar titulares en el mundo financiero al aumentar su participación en la aerolínea más grande del planeta. Este movimiento, revelado en los últimos reportes, no solo subraya la confianza del 'Oráculo de Omaha' en el futuro de la aviación global, sino que también envía una señal clara a los mercados sobre las perspectivas de recuperación y crecimiento en un sector que ha enfrentado desafíos significativos.</p><p>La estrategia de Berkshire Hathaway suele ser observada con lupa por inversionistas de todo el mundo. Un aumento en una posición ya existente en una empresa líder de la industria aérea puede interpretarse como un voto de confianza en la fortaleza financiera y operativa de dicha compañía, así como en la recuperación sostenida de los viajes. Este tipo de movimientos pueden influir en el sentimiento del mercado y potencialmente atraer a otros inversionistas, validando la tesis de inversión en el sector.</p><p>Desde una perspectiva económica más amplia, el reforzamiento de la apuesta de Buffett en aerolíneas sugiere una visión optimista sobre el consumo global y la movilidad. La aviación es un barómetro clave de la actividad económica; un sector aéreo robusto implica más viajes de negocios y turismo, lo que a su vez impulsa otras industrias como el turismo, la hostelería y los servicios. Este voto de confianza de un inversionista de la talla de Buffett podría ser un indicio de un panorama económico más favorable a largo plazo.</p>"
+  },
+  {
+    "id": "noticia-1786997693438-458",
+    "category": "Mercados",
+    "title": "ANSES: Guía Esencial para Desempleados sobre Cómo Solicitar la Ayuda Económica y Requisitos Clave",
+    "summary": "ANSES ha puesto en marcha un beneficio económico para personas que han quedado desempleadas. Esta ayuda está dirigida específicamente a ex-empleados en relación de dependencia que cumplan con los requisitos mínimos establecidos por la entidad.",
+    "editorialComment": "La incertidumbre ante el desempleo puede ser abrumadora, especialmente al considerar la pérdida de ingresos. Entender los beneficios a los que se tiene derecho y calcular las liquidaciones correspondientes es crucial para una planificación financiera sólida. Nuestra calculadora de finiquito es una herramienta invaluable para estimar estos montos y afrontar mejor esta transición.",
+    "relatedTool": "tab-finiquito",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/08/17/quienes-pueden-pedir-la-ayuda-economica-de-anses-para-personas-sin-trabajo-y-como-se-hace-el-tramite/",
+    "date": "17 de agosto de 2026",
+    "timestamp": 1786997693438,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>La Administración Nacional de la Seguridad Social (ANSES) ha anunciado un programa de ayuda económica fundamental, diseñado para brindar soporte a los ciudadanos que se encuentran en situación de desempleo. Este beneficio se configura como un pilar de contención para aquellos que, habiendo estado bajo relación de dependencia, enfrentan ahora la inactividad laboral y cumplen con una serie de criterios mínimos establecidos por la entidad previsional.</p><p>Para acceder a esta prestación, los interesados deberán cumplir con requisitos específicos, los cuales están orientados a asegurar que el apoyo financiero llegue a quienes realmente lo necesitan y se enmarca dentro de las normativas de seguridad social vigentes. El proceso de solicitud, aunque detalla varios pasos, busca ser lo más accesible posible para los afectados, haciendo hincapié en la importancia de la presentación correcta de la documentación y el respeto de los plazos para poder recibir este respaldo esencial.</p><p>Esta iniciativa de ANSES no solo representa un alivio directo para numerosas familias argentinas al proporcionar un ingreso temporario, sino que también subraya el papel fundamental del Estado en la protección social frente a las vicisitudes del mercado laboral. En un entorno económico que puede presentar desafíos, la disponibilidad de estos recursos se vuelve clave para la estabilidad financiera de los hogares y para mitigar los efectos adversos de la interrupción de la actividad laboral.</p>"
+  },
+  {
     "id": "noticia-1786983274062-230",
     "category": "Mercados",
     "title": "Synchrony y OpenAI: ¿Cómo revolucionará ChatGPT tus compras con tarjetas de crédito?",
@@ -306,47 +348,5 @@
     "timestamp": 1786882628559,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>Goldman Sachs ha emergido como un actor clave en la financiación del vertiginoso auge de la inteligencia artificial, canalizando capital hacia los pilares de esta revolución tecnológica. Recientemente, el gigante bancario ha extendido su apoyo financiero a empresas líderes como Nvidia e Intel, fundamentales para la producción de la infraestructura de cómputo necesaria para el desarrollo de la IA a gran escala.</p><p>La creciente demanda de chips y sistemas de alta capacidad para la inteligencia artificial ha puesto una presión sin precedentes en la cadena de suministro global, haciendo que la inyección de capital sea vital para escalar la producción y cumplir con los pedidos. Esta estrategia no solo asegura el cumplimiento de las necesidades actuales del mercado, sino que también solidifica la posición de Goldman Sachs como un facilitador indispensable en la economía digital, anticipándose a los movimientos futuros del mercado.</p><p>Este movimiento estratégico de Goldman Sachs recalca la magnitud de la inversión requerida para sostener la expansión de la IA y subraya la interconexión entre las finanzas y la tecnología. Para los inversores, estas operaciones son un indicador claro de dónde se está generando valor y hacia dónde se dirigen las oportunidades de crecimiento a largo plazo en el sector tecnológico y en la economía global en general.</p>"
-  },
-  {
-    "id": "noticia-1786882637609-959",
-    "category": "Mercados",
-    "title": "Bancarrota de un Gigante de 53 Años: Impacto en el Sector y Estrategias de Protección Financiera",
-    "summary": "Un líder de la industria de jardinería y césped con 53 años de trayectoria ha solicitado la protección por bancarrota bajo el Capítulo 11, lo que culminará en su liquidación. Este evento subraya la fragilidad empresarial, incluso para compañías con décadas de historia.",
-    "editorialComment": "La inminente liquidación de este gigante de la industria es un recordatorio contundente de la volatilidad económica y sus repercusiones directas. Para los miles de trabajadores que podrían verse afectados, conocer sus derechos y calcular correctamente su liquidación es crucial. Nuestra herramienta de calculadora de finiquito está disponible para ofrecer claridad y apoyo en momentos tan desafiantes.",
-    "relatedTool": "tab-finiquito",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/small-business/articles/53-old-lawn-garden-giant-153300199.html",
-    "date": "16 de agosto de 2026",
-    "timestamp": 1786882637609,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El sector de jardinería y hogar ha sido sacudido por la noticia de que un gigante con 53 años de historia ha solicitado la protección por bancarrota bajo el Capítulo 11, lo que eventualmente llevará a su liquidación total. Este anuncio marca el fin de una era para una empresa que durante más de cinco décadas fue un pilar en la industria, proveyendo productos y servicios esenciales para millones de hogares y negocios.</p><p>La decisión de acogerse al Capítulo 11, una figura legal diseñada para permitir la reorganización financiera de una empresa, no logró evitar el desenlace fatal de la liquidación. Este proceso implica la venta de todos los activos de la compañía para pagar a sus acreedores, una situación que suele traducirse en la pérdida de empleos y una reconfiguración significativa del panorama competitivo en su nicho de mercado.</p><p>La caída de una empresa de esta magnitud no solo impacta a sus empleados y accionistas, sino que también envía una señal de alerta a la economía general. Refleja los desafíos que enfrentan muchas empresas ante cambios en los hábitos de consumo, presiones inflacionarias, disrupciones en la cadena de suministro y una competencia cada vez más feroz, subrayando la importancia de la adaptación constante y una sólida gestión financiera.</p>"
-  },
-  {
-    "id": "noticia-1786882645834-218",
-    "category": "Mercados",
-    "title": "Alerta Laboral: La Industria Encabeza la Pérdida de Empleo Formal y su Impacto en 2024",
-    "summary": "La industria manufacturera lidera la pérdida de empleo formal desde 2023, mostrando una tendencia preocupante en el mercado laboral. Aunque los datos oficiales sugieren una desaceleración en la caída, las cámaras empresariales proyectan una recuperación desigual sin fecha definida.",
-    "editorialComment": "La pérdida de empleo formal, especialmente en sectores clave como la industria, genera incertidumbre sobre la estabilidad financiera de miles de hogares. Comprender cómo se calculan las indemnizaciones es crucial para quienes enfrentan esta situación. Nuestra calculadora de finiquito puede ser una herramienta invaluable para estimar los montos correspondientes y planificar mejor sus finanzas ante un despido.",
-    "relatedTool": "tab-finiquito",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/08/16/la-industria-ya-lidera-la-perdida-de-empleo-formal-desde-2023-que-proyectan-las-empresas-para-todo-el-ano/",
-    "date": "16 de agosto de 2026",
-    "timestamp": 1786882645835,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>La industria manufacturera se ha posicionado como el sector de la economía que más empleo formal ha destruido desde 2023, un dato que enciende las alarmas en el mercado laboral. A pesar de que las cifras oficiales más recientes señalan una desaceleración en el ritmo de esta caída, las cámaras empresariales del rubro son cautelosas. Advierten que la recuperación será un proceso dispar entre las diferentes ramas y regiones, y que aún no vislumbran una fecha concreta para revertir la tendencia negativa de manera sostenida.</p><p>Esta contracción en el empleo industrial no solo impacta directamente a los trabajadores afectados, sino que genera ondas en toda la economía. La disminución de puestos de trabajo en un sector tan fundamental puede reducir el poder adquisitivo de los consumidores, afectar la demanda interna y, consecuentemente, frenar el crecimiento de otras áreas productivas y de servicios. La incertidumbre sobre la estabilidad laboral frena inversiones y el consumo, creando un ciclo que dificulta la reactivación.</p><p>Para empresas y particulares, este escenario exige una gestión financiera prudente. Mientras las proyecciones empresariales para el año sugieren que la situación podría mantenerse compleja, es fundamental estar preparados para posibles ajustes. Desde Pulso Finanzas, recomendamos monitorear de cerca estos indicadores y adoptar estrategias que permitan mitigar los riesgos asociados a la inestabilidad del mercado laboral.</p>"
-  },
-  {
-    "id": "noticia-1786868155529-575",
-    "category": "Mercados",
-    "title": "Mercados de Predicción Bajo Escrutinio: Nueva York Inicia Investigación Clave y Evalúa Regulación",
-    "summary": "El Ayuntamiento de Nueva York ha anunciado una investigación sobre las estrategias de marketing de cuatro plataformas de mercados de predicción.\nLa medida, liderada por la Portavoz Julie Menin, busca abordar preocupaciones y podría derivar en nueva legislación.",
-    "editorialComment": "La proliferación de mercados de predicción y las preocupaciones sobre sus estrategias de marketing resaltan la necesidad de una gestión financiera sólida. Es crucial que los inversores eviten decisiones impulsivas y comprendan a fondo dónde y cómo invierten su dinero, priorizando siempre la estabilidad.\nNuestras plantillas de ahorro y presupuesto pueden ser una excelente guía para mantener tus finanzas bajo control y tomar decisiones informadas, alejadas de la especulación de alto riesgo.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html",
-    "date": "16 de agosto de 2026",
-    "timestamp": 1786868155542,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El Ayuntamiento de Nueva York ha puesto en marcha una investigación exhaustiva sobre las estrategias de marketing empleadas por al menos cuatro plataformas de mercados de predicción. Liderada por la Portavoz del Consejo, Julie Menin, esta iniciativa surge de crecientes preocupaciones sobre la transparencia y la posible inducción a la especulación irresponsable entre los usuarios. La acción del Consejo busca examinar si estas plataformas están cumpliendo con las normativas existentes y si sus tácticas promocionales son justas y claras para el público inversor.</p><p>La pesquisa no solo se centrará en las actuales prácticas de marketing, sino que también considera activamente la posibilidad de proponer y aprobar nueva legislación para regular este tipo de mercados. Los mercados de predicción permiten a los usuarios apostar sobre el resultado de eventos futuros, desde políticos hasta económicos, ofreciendo rendimientos basados en la exactitud de sus pronósticos. Este modelo, si bien puede parecer innovador, ha levantado banderas rojas respecto a la protección del consumidor y la estabilidad financiera, especialmente en un entorno donde la línea entre inversión y juego puede volverse difusa.</p><p>Esta medida del Ayuntamiento de Nueva York podría sentar un precedente importante para la regulación de plataformas de mercados de predicción en otras jurisdicciones. El escrutinio sobre sus estrategias de marketing subraya la importancia de la educación financiera y la cautela al interactuar con productos de alto riesgo. Para los consumidores, es un recordatorio de la necesidad de investigar a fondo cualquier plataforma antes de comprometer capital, mientras que para la industria, representa un llamado a la autorregulación y a la implementación de prácticas de marketing más éticas y transparentes.</p>"
   }
 ]
