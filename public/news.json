@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1787083884190-625",
+    "category": "Mercados",
+    "title": "La Presión del Mercado de Bonos: Cómo el Endeudamiento Impacta tu Economía y el Futuro Financiero",
+    "summary": "Una fuerte venta de bonos del Tesoro a largo plazo está elevando los costos de endeudamiento para empresas y consumidores. Esta situación expone cómo el alto nivel de deuda, la inversión en IA y los precios de la energía están transformando el mercado de bonos en un desafío político y económico.",
+    "editorialComment": "Esta escalada en los costos de endeudamiento subraya la importancia de entender cómo funcionan los intereses en tus finanzas personales y empresariales. Ya sea que busques un préstamo o inviertas, la tasa de interés impacta directamente tu capital. Nuestra calculadora de interés compuesto te permite visualizar el efecto de estas variaciones a largo plazo, ayudándote a tomar decisiones financieras más informadas y estratégicas.",
+    "relatedTool": "tab-interes",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
+    "date": "18 de agosto de 2026",
+    "timestamp": 1787083884203,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El mercado de bonos a largo plazo experimenta una significativa liquidación, lo que ha provocado un aumento sustancial en los rendimientos de los bonos del Tesoro. Esta tendencia, que eleva los costos de endeudamiento, ejerce una presión directa sobre la economía real –las empresas y consumidores– que dependen del crédito para operar e invertir. Las implicaciones son vastas, desde hipotecas más caras hasta mayores costos operativos para las pequeñas y medianas empresas.</p><p>La raíz de esta problemática se encuentra en una compleja interacción de factores macroeconómicos. El elevado nivel de deuda pública, los ingentes gastos en desarrollo de inteligencia artificial y la volatilidad en los precios de la energía están transformando lo que antes era un indicador económico más técnico en una preocupación política de primer orden. Estos elementos combinados generan incertidumbre y exigen respuestas por parte de los formuladores de políticas.</p><p>La escalada en los costos de financiamiento amenaza con ralentizar el crecimiento económico, al encarecer la inversión y el consumo. Para la economía global, esta situación representa un dilema: cómo equilibrar la necesidad de financiamiento con el riesgo de una espiral de deuda y una desaceleración económica. La atención de Wall Street y los mercados financieros está puesta en las futuras decisiones de figuras clave, buscando estabilidad en un entorno financiero cada vez más volátil.</p>"
+  },
+  {
+    "id": "noticia-1787083893597-907",
+    "category": "Mercados",
+    "title": "Costco revoluciona Medicare Advantage con SCAN Group: ¿Nuevas oportunidades de ahorro en salud?",
+    "summary": "Costco ha anunciado su incursión en el sector de seguros de salud, lanzando planes Medicare Advantage en colaboración con SCAN Group. Esta estrategia marca un movimiento significativo para el gigante minorista en el competitivo mercado de la atención médica para adultos mayores.",
+    "editorialComment": "La entrada de Costco en el mercado de Medicare Advantage podría ofrecer nuevas oportunidades de ahorro en salud para los adultos mayores, impactando directamente su presupuesto familiar. Es crucial evaluar cómo estos nuevos planes encajan en tu estrategia de ahorro general, y para ello, nuestras plantillas de presupuesto pueden ser de gran ayuda.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/healthcare/articles/costco-launching-medicare-advantage-plans-171035001.html",
+    "date": "18 de agosto de 2026",
+    "timestamp": 1787083893597,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Costco Wholesale Corporation, el gigante minorista conocido por su modelo de membresía y ventas al por mayor, ha realizado un movimiento estratégico audaz al anunciar su entrada en el sector de seguros de salud. En colaboración con SCAN Group, la compañía lanzará sus propios planes Medicare Advantage, marcando un paso significativo hacia el mercado de la atención médica para adultos mayores en Estados Unidos y diversificando su oferta de servicios.</p><p>Esta iniciativa posiciona a Costco como un nuevo actor en un mercado altamente competitivo, donde buscará replicar su filosofía de valor y lealtad del cliente. La expectativa es que los planes ofrecidos no solo proporcionen cobertura médica esencial, sino que también inclinen la balanza a favor del consumidor al introducir un nuevo nivel de opciones y, potencialmente, beneficios adicionales que los diferencien de los proveedores tradicionales. Esta jugada podría presionar a la competencia para innovar y mejorar sus propias ofertas.</p><p>La incursión de Costco subraya una tendencia creciente entre grandes minoristas de expandir sus ofertas para capturar una mayor porción del gasto del consumidor, desde bienes básicos hasta servicios esenciales como la salud. Para los inversores y el mercado en general, esta alianza con SCAN Group es una señal de la búsqueda activa de nuevas vías de crecimiento y la adaptación a las necesidades demográficas, lo que podría redefinir las expectativas de los consumidores en el ámbito de los seguros de salud y la integración de servicios.</p>"
+  },
+  {
+    "id": "noticia-1787083913520-766",
+    "category": "Mercados",
+    "title": "Visita de Caputo a Lucciano's: Claves del Consumo y Estrategias Financieras para el Hogar en Argentina",
+    "summary": "El ministro de Economía, Luis Caputo, realizó una visita a la reconocida heladería Lucciano's en Las Cañitas, acompañado por su dueño Christian Otero y la legisladora porteña Pilar Ramírez. Durante el encuentro, se abordaron temas relacionados con la situación del consumo en el país, ofreciendo una mirada directa a la realidad económica cotidiana.",
+    "editorialComment": "La conversación sobre el consumo entre el ministro Caputo y el empresario heladero subraya la relevancia de cada peso gastado en la economía nacional. Para los ciudadanos, comprender estos flujos es clave para una gestión financiera inteligente. Te invitamos a descargar nuestra plantilla de ahorro, una herramienta esencial para planificar tus finanzas y optimizar tu presupuesto en el contexto económico actual.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/08/18/el-heladero-preferido-del-gobierno-recibio-a-caputo-hablo-del-consumo-y-revelo-que-gusto-tomo-el-ministro/",
+    "date": "18 de agosto de 2026",
+    "timestamp": 1787083913520,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El titular del Palacio de Hacienda, Luis Caputo, protagonizó un encuentro inusual pero significativo al visitar la sucursal de la prestigiosa heladería Lucciano's en el barrio de Las Cañitas. Acompañado por Christian Otero, propietario de la cadena, y la legisladora porteña Pilar Ramírez, la reunión trascendió el ámbito meramente protocolar para adentrarse en un diálogo franco sobre la situación actual del consumo. Este tipo de encuentros informales, aunque anecdóticos, ofrecen una ventana a la percepción gubernamental sobre el pulso económico en el sector privado.</p><p>La conversación giró en torno a las dinámicas de compra y las preferencias de los consumidores, un indicador crucial para evaluar la salud de la economía. El hecho de que un ministro de Economía se interese directamente en el desempeño de un negocio minorista como una heladería, que es sensible al poder adquisitivo y el gasto discrecional, resalta la preocupación por la reactivación del mercado interno. Las palabras del empresario sobre el consumo y la revelación del gusto elegido por el ministro, el chocolate amargo con praliné, agregan un toque humano a la discusión macroeconómica.</p><p>Este episodio subraya la interconexión entre las políticas económicas implementadas y su impacto directo en el bolsillo de los ciudadanos y la facturación de los comercios. En un contexto de inflación y ajustes, cada señal sobre la evolución del consumo es atentamente analizada por inversores y ciudadanos. La expectativa de una recuperación del poder de compra y, por ende, del gasto, es fundamental para la estabilidad y el crecimiento, haciendo que este tipo de visitas, más allá de lo superficial, generen lecturas sobre el rumbo económico del país.</p>"
+  },
+  {
     "id": "noticia-1787069940835-355",
     "category": "Bolsa de Valores",
     "title": "Kalshi lanza futuros perpetuos en índices bursátiles: ¿Cómo impacta esta innovación a tus inversiones?",
@@ -306,47 +348,5 @@
     "timestamp": 1786969248187,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>La gigante de la movilidad Uber y la innovadora compañía china Pony.ai han anunciado una alianza estratégica que promete revolucionar el transporte europeo. El acuerdo contempla el despliegue de 2.000 robotaxis en el continente, marcando un hito significativo en la adopción masiva de vehículos autónomos. Esta colaboración no solo posiciona a ambas empresas a la vanguardia de la tecnología, sino que también acelera la materialización de un futuro donde los viajes sin conductor sean una realidad cotidiana.</p><p>La magnitud de esta flota subraya una tendencia crítica en la industria de la conducción autónoma: el tamaño de la flota es cada vez más determinante para la viabilidad comercial. Un despliegue de esta envergadura permite a las empresas recopilar vastos volúmenes de datos, refinar sus algoritmos a una velocidad sin precedentes y optimizar la logística operativa. Esta escala es esencial para reducir costos, mejorar la seguridad y, en última instancia, alcanzar la rentabilidad que ha eludido a muchos en el sector hasta ahora.</p><p>Desde una perspectiva económica, esta expansión tiene profundas implicaciones. Podría catalizar la inversión en infraestructura tecnológica y energética, redefinir el mercado laboral en el sector del transporte y generar nuevas oportunidades de negocio y modelos de servicio. Los inversores deberán observar de cerca cómo este movimiento afecta a las empresas de transporte tradicionales y a los fabricantes de automóviles, ya que la competencia por la supremacía en la movilidad autónoma se intensifica y promete un futuro de transformación y crecimiento sustancial.</p>"
-  },
-  {
-    "id": "noticia-1786969257021-817",
-    "category": "Bolsa de Valores",
-    "title": "Mercados Hoy: Dow Jones Cae, Nasdaq Sube con Fuerza por Micron y SanDisk – Claves del Día Bursátil",
-    "summary": "La jornada bursátil actual muestra una divergencia: el Dow Jones Industrial Average experimentó una caída, mientras que el índice Nasdaq Composite registró ganancias significativas. Este ascenso del Nasdaq fue impulsado notablemente por el buen desempeño de las acciones de compañías de chips de memoria, como Micron Technology y SanDisk.",
-    "editorialComment": "La volatilidad del mercado bursátil, con índices como el Dow y el Nasdaq moviéndose en direcciones opuestas, subraya la importancia de una estrategia de inversión bien fundamentada. Comprender cómo el interés compuesto puede potenciar tus inversiones a largo plazo es crucial para construir riqueza de manera efectiva, incluso en escenarios de mercado complejos como el actual. Nuestra calculadora de interés compuesto te ayudará a visualizar el crecimiento potencial de tus ahorros e inversiones.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&amp;yptr=yahoo",
-    "date": "17 de agosto de 2026",
-    "timestamp": 1786969257021,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>La jornada bursátil de hoy ha presentado un panorama mixto, donde el Dow Jones Industrial Average registró una caída, marcando una ligera corrección en su trayectoria. En contraste, el índice Nasdaq Composite experimentó un notable ascenso, impulsado por un sector tecnológico específico. Esta divergencia resalta la complejidad actual de los mercados y la influencia de factores sectoriales en el desempeño general de los índices.</p><p>El principal motor detrás del alza del Nasdaq fueron las acciones de compañías de chips de memoria. Micron Technology y Western Digital (SanDisk) extendieron sus ganancias, demostrando una fuerte confianza de los inversores en el sector de semiconductores y la creciente demanda de componentes tecnológicos. Este impulso sugiere un optimismo particular en subsegmentos de la tecnología, a pesar de las preocupaciones macroeconómicas que puedan afectar otros sectores.</p><p>Para los inversores, este comportamiento diferenciado subraya la importancia de un análisis detallado y la diversificación de carteras. Mientras algunos sectores muestran resiliencia y crecimiento, otros pueden enfrentar presiones. La evolución de estas tendencias sectoriales será clave para entender el futuro cercano de la economía global, impactando desde la producción tecnológica hasta las decisiones de inversión a nivel individual y corporativo.</p>"
-  },
-  {
-    "id": "noticia-1786969267700-107",
-    "category": "Mercados",
-    "title": "Alerta Económica: Producción Metalúrgica Cae 4,4% en Julio y Opera al 39,2% de su Capacidad. ¿Qué Implicaciones Tiene?",
-    "summary": "La industria metalúrgica registró una nueva contracción en julio, con una caída del 4,4% en su producción y una utilización de solo el 39,2% de sus instalaciones. Este escenario de retroceso generalizado no prevé mejoras a corto plazo, según siete de cada diez compañías del sector.",
-    "editorialComment": "La persistente contracción en un sector clave como el metalúrgico, junto con la baja utilización de su capacidad instalada, señala un escenario económico desafiante. Ante este panorama de incertidumbre, donde la mayoría de las empresas no prevén mejoras, la gestión proactiva de nuestras finanzas personales se vuelve crucial. Te invitamos a descargar nuestras plantillas de ahorro para preparar tu presupuesto y fortalecer tu estabilidad económica.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/08/17/alerta-en-un-sector-clave-de-la-industria-produjo-44-menos-en-julio-y-uso-solo-el-392-de-sus-instalaciones/",
-    "date": "17 de agosto de 2026",
-    "timestamp": 1786969267700,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>La industria metalúrgica argentina atraviesa un momento crítico, con una caída del 4,4% en su producción durante julio. Este retroceso se suma a un escenario ya complejo, evidenciado por el hecho de que las empresas del sector operan con solo el 39,2% de su capacidad instalada, dejando más del 60% ociosa. La situación es generalizada, afectando a las principales ramas y cadenas de valor, lo que subraya la profundidad del desafío.</p><p>Esta marcada contracción, que se extiende a lo largo de toda la cadena metalúrgica, desde la producción de hierro y acero hasta la fabricación de maquinaria y equipos, genera preocupación sobre el desempeño económico general del país. La falta de perspectivas de mejora, con siete de cada diez compañías sin anticipar cambios positivos para el próximo trimestre, sugiere una prolongación de la inactividad y una posible disminución de la inversión, impactando directamente en el empleo y el consumo.</p><p>El estancamiento de un sector industrial tan relevante como el metalúrgico actúa como un termómetro de la salud económica nacional. Para los inversores, este panorama de baja producción y capacidad ociosa puede señalar riesgos y la necesidad de una evaluación cautelosa. Para los ciudadanos, refuerza la importancia de una planificación financiera sólida y la búsqueda de herramientas que permitan mitigar los efectos de un entorno económico volátil.</p>"
-  },
-  {
-    "id": "noticia-1786955439953-546",
-    "category": "Bolsa de Valores",
-    "title": "Descubre por qué las acciones suben: Los márgenes de beneficio, clave para tus inversiones",
-    "summary": "La subida actual de las acciones se debe, en gran medida, a que los márgenes de beneficio de las empresas han alcanzado niveles récord. Datos recientes de FactSet revelan que este incremento en las ganancias no proviene únicamente del aumento en las ventas, sino de una gestión eficiente de costos.",
-    "editorialComment": "Entender cómo los márgenes de beneficio impactan en el rendimiento de las acciones es crucial para cualquier inversor. Al ver un rally sostenido, es el momento perfecto para proyectar el crecimiento de tus inversiones a largo plazo. Utiliza nuestra calculadora de interés compuesto para visualizar cómo estos beneficios récord pueden potenciar tu capital con el tiempo.",
-    "relatedTool": "tab-interes",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html",
-    "date": "17 de agosto de 2026",
-    "timestamp": 1786955439965,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Los mercados bursátiles están experimentando un notable repunte, y la razón principal, según los últimos datos de FactSet, reside en los márgenes de beneficio corporativos, que han alcanzado niveles históricos. Este fenómeno es particularmente interesante porque el crecimiento de las ganancias no se atribuye únicamente a un aumento en las ventas, sino a otros factores subyacentes que demuestran la fortaleza y adaptabilidad de las empresas en el panorama económico actual.</p><p>Esta situación implica que las empresas están logrando una mayor eficiencia operativa o poseen un poder de fijación de precios que les permite mantener o incluso incrementar sus ganancias por unidad, independientemente del volumen bruto de ventas. Dicho de otra manera, están obteniendo más beneficios por cada dólar o euro que facturan, lo que se traduce en mejores resultados para los inversores y una base sólida para el optimismo en la bolsa, consolidando un rally sostenido.</p><p>Para los inversores, este escenario subraya la importancia de analizar la salud financiera de las compañías más allá de las cifras de ingresos. Unos márgenes de beneficio robustos pueden ser un indicador clave de fortaleza y resiliencia empresarial, factores esenciales para un rally bursátil sostenido. Sin embargo, también es vital considerar si estos márgenes son sostenibles a largo plazo y qué factores externos podrían influir en su mantenimiento futuro, requiriendo un análisis constante del mercado.</p>"
   }
 ]
