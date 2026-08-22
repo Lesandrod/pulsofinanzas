@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1787415182476-799",
+    "category": "Bolsa de Valores",
+    "title": "Actualidad: Goldman studied where AI is squeezing labor markets. Here&apos;s what it found en español",
+    "summary": "Resumen de mercados: Goldman studied where AI is squeezing labor markets. Here&apos;s what it found. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
+    "editorialComment": "El mercado bursátil se ve fuertemente impulsado por empresas de alto rendimiento. A largo plazo, invertir de manera constante en el mercado bursátil permite ganarle a la inflación por medio del interés compuesto.",
+    "relatedTool": "tab-interes",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
+    "date": "22 de agosto de 2026",
+    "timestamp": 1787415182491,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El evento sobre <strong>\"Goldman studied where AI is squeezing labor markets. Here&apos;s what it found\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
+  },
+  {
+    "id": "noticia-1787415240863-741",
+    "category": "Criptomonedas",
+    "title": "Actualidad: Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada en español",
+    "summary": "Resumen de mercados: Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
+    "editorialComment": "La volatilidad en criptomonedas demuestra la importancia de mantener un presupuesto equilibrado. No arriesgues más de tu 20% de ahorro sagrado definido en la regla 50/30/20. Planifica tus finanzas de forma segura.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&amp;yptr=yahoo",
+    "date": "22 de agosto de 2026",
+    "timestamp": 1787415240863,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El evento sobre <strong>\"Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
+  },
+  {
+    "id": "noticia-1787415294161-337",
+    "category": "Mercados",
+    "title": "Crisis Láctea en Argentina: Histórica Empresa Solicita Concurso Preventivo por Deudas de $16.000 Millones",
+    "summary": "Una emblemática empresa láctea santafesina ha ingresado en concurso preventivo debido a una crisis financiera profunda, acumulando deudas que ascienden a casi $16.000 millones. Esta situación compromete la operación de tres de sus plantas y mantiene en vilo a cientos de trabajadores, tamberos, bancos y proveedores que esperan cobrar sus haberes.",
+    "editorialComment": "La compleja situación de esta firma láctea resalta la urgencia de una gestión financiera proactiva y un monitoreo constante de las obligaciones. Para anticiparse a escenarios de crisis y mantener las finanzas personales o de pequeños emprendimientos bajo control, es fundamental contar con herramientas de planificación. Te invitamos a explorar nuestras plantillas de ahorro, ideales para organizar presupuestos y asegurar la estabilidad económica.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/08/22/una-reconocida-empresa-lactea-pidio-el-concurso-preventivo-con-deudas-por-casi-16000-millones/",
+    "date": "22 de agosto de 2026",
+    "timestamp": 1787415294162,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Una de las empresas lácteas más reconocidas y con una trayectoria histórica en la provincia de Santa Fe ha conmocionado al sector productivo tras solicitar formalmente el concurso preventivo. La firma enfrenta una crisis financiera de proporciones alarmantes, con un pasivo que se acerca a los $16.000 millones. Esta medida judicial busca reestructurar sus deudas y evitar la quiebra, pero evidencia la profunda inestabilidad que atraviesa.</p><p>La difícil situación de la compañía no solo impacta en sus finanzas corporativas, sino que tiene un efecto dominó en toda su cadena de valor. Tres de sus plantas productivas se encuentran directamente afectadas, generando incertidumbre entre sus empleados. Además, un vasto grupo de acreedores, que incluye a tamberos proveedores de leche, entidades bancarias y diversos proveedores, se encuentran en una delicada posición, a la espera de soluciones que les permitan recuperar sus fondos.</p><p>Este suceso subraya la vulnerabilidad de ciertos sectores de la economía frente a contextos adversos y la importancia de una gestión financiera robusta. La quiebra o reestructuración de una empresa de tal magnitud puede tener repercusiones significativas en el mercado laboral regional, la cadena de suministro láctea y la confianza de los inversores. Es un recordatorio clave sobre la necesidad de estrategias de resiliencia financiera tanto para grandes corporaciones como para pequeños y medianos emprendimientos.</p>"
+  },
+  {
     "id": "noticia-1787401045885-995",
     "category": "Bolsa de Valores",
     "title": "Inversores Minoristas Mantienen su Apuesta por la IA con Nueva Cautela: ¿Oportunidad o Riesgo?",
@@ -306,47 +348,5 @@
     "timestamp": 1787300797899,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>Las acciones de Pop Mart, la reconocida compañía detrás de las populares figuras coleccionables Labubu y otros juguetes artísticos, sufrieron un notable descenso en la bolsa tras el anuncio de sus resultados financieros del primer semestre. El informe reveló una significativa caída en las ventas clave fuera de su mercado principal, China, afectando particularmente las regiones de Asia (ex-China) y América. Este desempeño ha generado inquietud entre los inversores y analistas del mercado.</p><p>La reacción del mercado no se hizo esperar, con el banco Citi revisando a la baja su precio objetivo para Pop Mart, reflejando una expectativa de crecimiento más moderada para la empresa. Este tipo de movimientos bursátiles resaltan la sensibilidad de las empresas a sus resultados trimestrales y la crucial importancia de la expansión en mercados internacionales. Para Pop Mart, la desaceleración fuera de China plantea un desafío estratégico considerable en su camino hacia la globalización y la consolidación de su marca a nivel mundial.</p><p>Este evento no solo afecta a Pop Mart, sino que también sirve como un importante indicador para otras compañías con ambiciones de expansión global, especialmente aquellas en el sector de consumo y entretenimiento. Subraya la necesidad de una diversificación robusta y una comprensión profunda de las dinámicas de cada mercado regional. Los inversores deben considerar estos factores al evaluar la sostenibilidad del crecimiento a largo plazo en un entorno económico global cada vez más interconectado y volátil.</p>"
-  },
-  {
-    "id": "noticia-1787300805523-406",
-    "category": "Bolsa de Valores",
-    "title": "Analog Devices Q3 2026: Claves de sus Resultados y el Impacto en el Sector Tecnológico",
-    "summary": "Analog Devices ha presentado un resumen de su conferencia de resultados del tercer trimestre de 2026, donde se analizaron su desempeño financiero y perspectivas futuras. Este informe es crucial para los inversores y el sector de semiconductores, ofreciendo una visión sobre la salud económica de la compañía.",
-    "editorialComment": "La evaluación del rendimiento trimestral de una empresa como Analog Devices es fundamental para los inversores que buscan oportunidades de crecimiento a largo plazo en la bolsa. Comprender cómo estos resultados pueden influir en el valor de sus acciones permite tomar decisiones informadas y estratégicas. Recuerde que el poder del interés compuesto puede potenciar significativamente sus inversiones si se toman decisiones basadas en un análisis sólido y una visión a largo plazo.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-inc-q3-2026-205557026.html",
-    "date": "21 de agosto de 2026",
-    "timestamp": 1787300805523,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Analog Devices, un actor clave en la industria de los semiconductores, ha revelado los detalles de su conferencia de resultados correspondiente al tercer trimestre fiscal de 2026. Este evento es de suma importancia para la comunidad financiera, ya que proporciona una radiografía exhaustiva del estado actual de la empresa, abarcando su salud financiera, proyecciones de crecimiento y la dirección estratégica en un mercado tecnológico dinámico y altamente competitivo.</p><p>Durante la presentación, la dirección de Analog Devices seguramente abordó métricas financieras cruciales como los ingresos totales, el margen de beneficio bruto, las ganancias por acción y las previsiones de ventas para los próximos períodos. Estos indicadores son determinantes para que analistas e inversores puedan calibrar no solo la rentabilidad actual, sino también el potencial de crecimiento sostenible de la compañía, influyendo directamente en la valoración de sus acciones y en el sentimiento general del mercado hacia el sector de semiconductores.</p><p>El desempeño de gigantes tecnológicos como Analog Devices a menudo funciona como un barómetro para la economía global. Sus resultados pueden reflejar tendencias importantes en la demanda de componentes electrónicos, la robustez de las cadenas de suministro y el ritmo de la innovación tecnológica. Un trimestre fuerte en Analog Devices podría señalar una mayor demanda en sectores como la automoción, la electrónica de consumo o la automatización industrial, ofreciendo así valiosas pistas sobre la dirección económica general y el bienestar de un amplio espectro de industrias a nivel mundial.</p>"
-  },
-  {
-    "id": "noticia-1787300813740-790",
-    "category": "Mercados",
-    "title": "Bonos en Dólares con 10% de Rendimiento: ¿Cómo Evaluar la Oportunidad de Inversión y el Riesgo País?",
-    "summary": "Los bonos en dólares no detienen su caída y ahora ofrecen rendimientos del 10%, generando incertidumbre en el mercado. Esta situación se da mientras el riesgo país escala a 532 puntos, acumulando trece jornadas consecutivas de subas.",
-    "editorialComment": "La actual coyuntura de bonos con altos rendimientos y un riesgo país en ascenso plantea un desafío para cualquier inversor. Si un 10% de retorno es atractivo, es vital comprender cómo se capitaliza ese interés a lo largo del tiempo y bajo qué escenarios de riesgo. Nuestra calculadora de interés compuesto es una herramienta esencial para proyectar el crecimiento real de tu capital, ayudándote a tomar decisiones informadas sobre estas oportunidades.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/08/21/los-bonos-en-dolares-no-frenan-su-caida-y-ofrecen-rendimientos-de-10-oportunidad-de-compra-o-senal-de-alerta/",
-    "date": "21 de agosto de 2026",
-    "timestamp": 1787300813740,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El mercado de bonos en dólares atraviesa un momento de alta volatilidad, con precios en franco descenso que han disparado sus rendimientos hasta un atractivo 10%. Esta dinámica se produce en un contexto de creciente incertidumbre, evidenciado por el riesgo país que ayer cerró en 532 puntos, marcando la decimotercera jornada consecutiva de incrementos. Esta escalada del indicador de riesgo soberano genera una dicotomía en la mente de los inversores: ¿estamos ante una oportunidad histórica de compra a precios bajos o frente a una clara señal de alarma que exige cautela?</p><p>La situación actual ha puesto en alerta a fondos y bancos locales, que reportan un aumento en las consultas de inversores minoristas y mayoristas interesados en aprovechar estos rendimientos que, a primera vista, lucen muy tentadores. Sin embargo, los expertos advierten que rendimientos tan elevados suelen ser una compensación directa por un mayor riesgo percibido. Es crucial analizar si la caída de los bonos ha tocado fondo o si aún existe espacio para un mayor deterioro, lo que podría erosionar cualquier ganancia potencial o incluso provocar pérdidas de capital.</p><p>La evolución del riesgo país es un termómetro clave de la confianza de los mercados en la solvencia económica de una nación. Un valor de 532 puntos y en ascenso constante no solo encarece el financiamiento para el Estado y las empresas, sino que también desalienta la inversión extranjera directa, impactando negativamente en la economía general. Ante este escenario, la prudencia es fundamental. Los inversores deben realizar un análisis exhaustivo de los fundamentos macroeconómicos, la política fiscal y monetaria, y las perspectivas a mediano y largo plazo antes de tomar cualquier decisión sobre estos bonos de alto rendimiento.</p>"
-  },
-  {
-    "id": "noticia-1787286469769-27",
-    "category": "Mercados",
-    "title": "Robots Humanoides en China: La Eficiencia Humana Sigue Siendo un Reto Insuperable para la Automatización",
-    "summary": "Los robots humanoides chinos aún no logran igualar la eficiencia y destreza de los trabajadores humanos en la mayoría de los escenarios laborales. Este desafío representa un obstáculo crucial para la adopción masiva de la automatización y la reconfiguración de los mercados de trabajo.",
-    "editorialComment": "Esta noticia resalta la importancia de la eficiencia humana en el mercado laboral actual, donde el capital humano sigue siendo insustituible. Mientras la tecnología avanza, comprender tus derechos laborales y cálculos de compensación, como el finiquito, se mantiene fundamental para navegar en un entorno económico en constante evolución. La valoración de la mano de obra humana es, por ahora, irremplazable.",
-    "relatedTool": "tab-finiquito",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
-    "date": "21 de agosto de 2026",
-    "timestamp": 1787286469782,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Un reciente informe de CNBC para agosto de 2026 revela que los robots humanoides desarrollados en China enfrentan un obstáculo significativo: su incapacidad para igualar la eficiencia de los trabajadores humanos en la mayoría de las tareas laborales. Esta limitación pone en tela de juicio las expectativas de una automatización a gran escala y subraya la complejidad de replicar la destreza y adaptabilidad que caracterizan a la mano de obra humana.</p><p>La lucha de estos androides por alcanzar la paridad de rendimiento tiene implicaciones profundas para la economía global y los planes de expansión industrial de China. Afecta directamente las proyecciones de productividad y los retornos esperados de las inversiones masivas en tecnología robótica. Este desafío tecnológico sugiere que, a pesar de los avances, ciertas habilidades cognitivas y motoras humanas siguen siendo irremplazables en el corto y mediano plazo, manteniendo la relevancia estratégica del capital humano.</p><p>Este escenario plantea una reevaluación de los plazos para la plena integración de la robótica en sectores clave y destaca la resiliencia del empleo humano. Aunque la visión a largo plazo para la automatización sigue vigente, la brecha de eficiencia actual implica una continua dependencia de la mano de obra humana. Para los inversionistas y líderes empresariales, es un recordatorio de que la transformación digital es un proceso gradual, donde la innovación y la adaptación serán clave para superar estas barreras tecnológicas.</p>"
   }
 ]
