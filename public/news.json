@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1787359002630-713",
+    "category": "Mercados",
+    "title": "¿Por Qué los Bonos Chinos Desafían la Subida de Rendimientos Globales? Claves para Inversores",
+    "summary": "Mientras los rendimientos de los bonos gubernamentales a nivel mundial experimentan un alza significativa, China ha logrado mantener los suyos en niveles bajos. Esta divergencia posiciona a los bonos chinos como una atractiva opción de diversificación en el panorama financiero actual.",
+    "editorialComment": "La estabilidad en los rendimientos de los bonos chinos, en contraste con la volatilidad global, subraya la importancia de entender cómo los intereses impactan en nuestras inversiones. Al analizar posibles retornos, incluso en activos de menor riesgo como los bonos, es fundamental proyectar el crecimiento a largo plazo de nuestro capital. Nuestra calculadora de interés compuesto puede ser una herramienta clave para visualizar cómo estos rendimientos, por pequeños que parezcan, se multiplican con el tiempo, ayudándote a planificar una estrategia de inversión robusta.",
+    "relatedTool": "tab-interes",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
+    "date": "22 de agosto de 2026",
+    "timestamp": 1787359002643,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>En un escenario donde los rendimientos de los bonos gubernamentales alrededor del mundo han experimentado un notable incremento, los bonos soberanos chinos se han mantenido en un terreno de baja volatilidad. Esta singular disociación con la tendencia global posiciona a China como un actor atípico en los mercados financieros, ofreciendo una relativa estabilidad en un entorno de incertidumbre. Este fenómeno es particularmente relevante para los inversores internacionales que buscan refugio y diversificación, dada la naturaleza de estos activos.</p><p>La resistencia de los bonos chinos a la presión alcista de los rendimientos globales puede atribuirse a varios factores, incluyendo la política monetaria interna del país, la estructura de su mercado de capitales y los controles sobre el flujo de capital. Mientras bancos centrales como la Reserva Federal han ajustado sus tasas para combatir la inflación, Pekín ha mantenido una postura más acomodaticia, lo que contribuye a la estabilidad de sus rendimientos. Esto genera un atractivo diferencial para carteras que buscan mitigar riesgos en un portafolio global diversificado.</p><p>Para los inversores, esta situación presenta una oportunidad única de diversificación. Incluir bonos chinos en una cartera podría ofrecer una cobertura contra la volatilidad en otros mercados, gracias a su baja correlación con activos tradicionales. A medida que la economía global navega por desafíos inflacionarios y geopolíticos, la estabilidad de los bonos chinos realza su atractivo como un componente estratégico para la construcción de carteras resilientes, influyendo potencialmente en flujos de capital significativos hacia el país asiático.</p>"
+  },
+  {
+    "id": "noticia-1787359015951-806",
+    "category": "Mercados",
+    "title": "AT&T Podría Impulsarse en el Mercado 5G tras el Revés Legal de Verizon",
+    "summary": "Verizon ha sufrido un revés legal al ser recomendada a cesar afirmaciones engañosas sobre su servicio 5G Home tras una queja de T-Mobile. Esta situación podría fortalecer la posición de competidores como AT&T en la creciente batalla por el dominio del mercado de internet doméstico y 5G.",
+    "editorialComment": "La intensa competencia en el sector de las telecomunicaciones, como lo demuestra este caso, puede influir en los servicios y precios que recibimos como consumidores. Mantener un control riguroso sobre nuestros gastos es clave en un mercado dinámico. Le invitamos a descargar nuestras plantillas de ahorro gratuitas para gestionar mejor su presupuesto y optimizar sus finanzas personales.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/technology/articles/t-stands-gain-verizon-loses-230000780.html",
+    "date": "22 de agosto de 2026",
+    "timestamp": 1787359015951,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>La compañía de telecomunicaciones Verizon ha enfrentado un significativo revés legal tras la decisión del National Advertising Review Board (NARB). Este organismo ha recomendado a Verizon cesar ciertas afirmaciones publicitarias sobre su servicio \"5G Home\", específicamente aquellas que lo conectan exclusivamente a su red \"5G Ultra Wideband\" y lo posicionan como una alternativa directa a la fibra óptica. La disputa fue iniciada por su competidor T-Mobile, resaltando la feroz batalla por la cuota de mercado en el ámbito del internet doméstico de alta velocidad.</p><p>Este dictamen no es menor para Verizon, que ya había perdido un caso similar ante T-Mobile en 2021. La recomendación del NARB, que es vinculante a menos que Verizon la apele judicialmente, podría tener implicaciones directas en su estrategia de marketing y en la percepción de sus clientes. En este escenario, AT&T emerge como un potencial beneficiario, dada su robusta oferta de 5G y servicios de internet doméstico, lo que podría permitirle ganar terreno frente a un competidor debilitado en el aspecto publicitario.</p><p>El episodio subraya la importancia de la veracidad en la publicidad dentro de un sector tan competitivo y en constante evolución como el de las telecomunicaciones. Para los inversores y consumidores, estas batallas legales ofrecen una ventana a las dinámicas de mercado, la fortaleza de las estrategias de marca y la capacidad de las empresas para competir eficazmente. Una mayor transparencia y una competencia leal son fundamentales para el desarrollo del mercado y para asegurar que los usuarios reciban la información y los servicios que esperan.</p>"
+  },
+  {
+    "id": "noticia-1787359023283-557",
+    "category": "Mercados",
+    "title": "Morosidad en Argentina: Milei niega responsabilidad del Gobierno y critica a la oposición",
+    "summary": "El presidente Javier Milei desestimó las acusaciones que culpan a su administración por el aumento de la morosidad, atribuyendo las críticas a la oposición. Afirmó que el nivel de irregularidad es similar al de Estados Unidos y otros países de la región.",
+    "editorialComment": "Ante el debate sobre la morosidad y su impacto en la economía personal, es vital que los ciudadanos refuercen su planificación financiera. Nuestras plantillas de ahorro son una herramienta esencial para presupuestar ingresos y gastos, ayudando a prevenir dificultades y asegurar una mayor estabilidad económica.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/08/21/javier-milei-no-hay-elementos-para-culpar-a-la-politica-del-gobierno-por-lo-que-esta-pasando-con-la-morosidad/",
+    "date": "22 de agosto de 2026",
+    "timestamp": 1787359023284,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El presidente Javier Milei ha desestimado tajantemente las acusaciones que señalan a su política económica como la responsable del incremento en los índices de morosidad en Argentina. En un reciente pronunciamiento, el mandatario calificó las críticas de la oposición como una maniobra política destinada a obtener rédito electoral, buscando desvincular la situación actual de sus decisiones de gobierno.</p><p>Milei argumentó que los niveles de irregularidad en los pagos de deudas en Argentina son comparables a los registrados en economías desarrolladas como Estados Unidos y otras naciones de la región. Esta perspectiva busca contextualizar la morosidad dentro de un panorama global, sugiriendo que no es un fenómeno exclusivo ni directamente atribuible a las medidas implementadas por su administración, a pesar del actual escenario de alta inflación y contracción económica interna.</p><p>La discusión sobre la morosidad es un indicador crucial de la salud financiera de hogares y empresas, y su aumento puede señalar presiones significativas en la capacidad de pago. Más allá de las atribuciones políticas, este fenómeno resalta la importancia de una gestión financiera prudente y proactiva, tanto a nivel individual como empresarial, para mitigar riesgos y asegurar la sostenibilidad económica en tiempos de incertidumbre.</p>"
+  },
+  {
     "id": "noticia-1787343230878-848",
     "category": "Criptomonedas",
     "title": "Predicciones de Kalshi: ¿Estabilidad o Estancamiento del Bitcoin para 2026?",
@@ -306,47 +348,5 @@
     "timestamp": 1787242900615,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>Kweichow Moutai, un emblema de lujo y prosperidad en China, ha sorprendido a los mercados con una rara caída en su beneficio neto semestral, siguiendo el primer descenso anual registrado en su historia. Este revés financiero del fabricante de baijiu, una de las bebidas espirituosas más prestigiosas y caras del país, no es un hecho aislado, sino una señal preocupante que resuena mucho más allá de la industria de licores.</p><p>La relevancia de Moutai como indicador económico radica en su profundo arraigo en la cultura del consumo y el lujo chino. Su desempeño refleja directamente la confianza del consumidor de alto poder adquisitivo y el gasto discrecional, elementos clave para la salud económica general. Un declive en sus ventas y ganancias sugiere una posible desaceleración del consumo interno y una cautela creciente entre los ciudadanos chinos, impactando también sectores como el inmobiliario y tecnológico.</p><p>Este escenario plantea interrogantes cruciales sobre la capacidad de China para mantener su ritmo de crecimiento y enfrentar los desafíos económicos actuales, desde la crisis inmobiliaria hasta la fricción comercial. Para los inversores globales y locales, el \"efecto Moutai\" sirve como un barómetro que requiere atención, subrayando la interconexión de los mercados y la necesidad de una vigilancia constante sobre los indicadores económicos para tomar decisiones informadas en un entorno financiero cada vez más complejo.</p>"
-  },
-  {
-    "id": "noticia-1787242910096-477",
-    "category": "Mercados",
-    "title": "Tasas Hipotecarias a la Baja: ¿Cómo Afecta la Volatilidad del Mercado a tu Préstamo?",
-    "summary": "La semana pasada, las tasas hipotecarias experimentaron una caída inesperada, desafiando la alta volatilidad del mercado de bonos. Este descenso genera implicaciones relevantes para propietarios y futuros compradores que evalúen refinanciar o adquirir una vivienda.",
-    "editorialComment": "La disminución de las tasas hipotecarias es una noticia clave para quienes gestionan deudas a largo plazo. Entender cómo el interés compuesto impacta tus pagos mensuales puede ser crucial para optimizar tus finanzas. Nuestra calculadora de interés compuesto te ayudará a visualizar el ahorro potencial y tomar decisiones informadas sobre tu hipoteca.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-dropped-last-week-despite-heightened-bond-market-volatility-mortgage-and-refinance-interest-rates-today-thursday-august-20-2026-100000272.html",
-    "date": "20 de agosto de 2026",
-    "timestamp": 1787242910096,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Las tasas hipotecarias en Estados Unidos experimentaron un descenso notable la semana pasada, desafiando la elevada volatilidad que dominó el mercado de bonos. Este inesperado movimiento, registrado hasta el jueves 20 de agosto de 2026, representa un respiro para el sector inmobiliario y los consumidores en un entorno económico incierto.</p><p>Normalmente, una mayor volatilidad en el mercado de bonos suele presionar al alza las tasas hipotecarias, ya que los bonos del Tesoro son un referente clave. Sin embargo, esta caída sugiere que otros factores, como quizás una menor demanda o movimientos estratégicos de los prestamistas, pudieron haber influido para ofrecer condiciones más favorables. Esto abre una ventana de oportunidad para aquellos interesados en refinanciar sus hipotecas existentes o para compradores potenciales.</p><p>La disminución de las tasas podría dinamizar el mercado de la vivienda, incentivando la compra y venta de propiedades que se habían ralentizado debido a los costos de endeudamiento. Este impulso al sector inmobiliario tiene un efecto multiplicador en la economía general, impactando desde la construcción hasta el gasto en bienes duraderos, lo que podría interpretarse como una señal positiva de adaptabilidad del mercado frente a las fluctuaciones macroeconómicas.</p>"
-  },
-  {
-    "id": "noticia-1787242921134-714",
-    "category": "Mercados",
-    "title": "VTV en CABA: Cómo el nuevo sistema de talleres y revisiones redefinirá los gastos automotores",
-    "summary": "La Ciudad Autónoma de Buenos Aires implementará un nuevo sistema para la Verificación Técnica Vehicular (VTV) a partir del 1° de septiembre, habilitando la inscripción de talleres particulares. Esta medida avanza localmente tras la promulgación de su propia ley, en contraste con la paralización del proceso a nivel nacional.",
-    "editorialComment": "La implementación de la nueva VTV en CABA introduce un factor adicional a considerar en el presupuesto mensual de los propietarios de vehículos. Ante estos cambios en los costos obligatorios, es crucial llevar un control riguroso de tus finanzas. Nuestra plantilla de ahorro te ayudará a integrar este gasto y optimizar tu planificación económica.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/08/20/nueva-vtv-en-caba-habilitan-nuevos-talleres-y-cambia-el-sistema-para-hacer-la-revision/",
-    "date": "20 de agosto de 2026",
-    "timestamp": 1787242921134,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>La Ciudad Autónoma de Buenos Aires se encamina hacia una transformación significativa en el sistema de Verificación Técnica Vehicular (VTV). A partir del 1° de septiembre, entrará en vigor una nueva normativa que permitirá la inscripción y operación de talleres particulares para realizar la revisión obligatoria de vehículos. Esta medida, respaldada por una ley sancionada en la Legislatura y promulgada el 15 de julio, marca un camino independiente para la capital argentina, distanciándose de la situación nacional donde la reforma se encuentra frenada por una medida cautelar.</p><p>La habilitación de talleres privados promete introducir un nuevo nivel de competencia en un servicio esencial para millones de conductores. Se espera que esta apertura genere mayor oferta, potencialmente optimizando los tiempos de espera y, en el mediano plazo, impactando en las tarifas al introducir un mecanismo de mercado. Para los propietarios de vehículos, esto representa más opciones y una posible flexibilización en la gestión de este trámite anual, aunque también exigirá atención a las nuevas reglamentaciones y a la oferta de servicios certificada.</p><p>Desde una perspectiva económica, esta iniciativa de CABA es un claro ejemplo de cómo las regulaciones locales pueden dinamizar un sector específico de la economía. Al permitir la participación de actores privados, se abren nuevas oportunidades de negocio para emprendedores y empresas existentes, generando inversión y empleo en el rubro automotor. Si bien la VTV es un gasto obligatorio, la estructura de un mercado más competitivo podría traducirse en un uso más eficiente de los recursos y una mejor calidad de servicio, beneficiando en última instancia tanto a los consumidores como al entramado productivo de la ciudad.</p>"
-  },
-  {
-    "id": "noticia-1787228669185-724",
-    "category": "Mercados",
-    "title": "Alza en Bonos: ¿Cómo el Endeudamiento y la IA Impactan tus Finanzas y la Economía Real?",
-    "summary": "Una reciente ola de ventas en los bonos del Tesoro a largo plazo está elevando los costos de endeudamiento para empresas y consumidores. Esta situación crítica expone cómo la deuda, la inversión en IA y los precios energéticos se transforman en un serio desafío político y económico.",
-    "editorialComment": "La escalada en los costos de endeudamiento a raíz de la presión en el mercado de bonos subraya la importancia de gestionar eficientemente cualquier tipo de deuda. En Pulso Finanzas, te ofrecemos la Calculadora de Interés Compuesto para que puedas visualizar el impacto real de las tasas de interés en tus inversiones o deudas. Entender cómo se acumula el interés es crucial para tomar decisiones financieras informadas en estos tiempos volátiles.",
-    "relatedTool": "tab-interes",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
-    "date": "20 de agosto de 2026",
-    "timestamp": 1787228669198,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El mercado de bonos del Tesoro a largo plazo se ha convertido en un epicentro de turbulencia económica, con una reciente ola de ventas que está disparando los costos de endeudamiento. Esta situación no solo afecta a Wall Street, sino que se traduce directamente en mayores gastos para empresas y consumidores, exponiendo la vulnerabilidad del sistema financiero frente a la creciente deuda y las decisiones políticas. La presión es palpable, y sus repercusiones empiezan a sentirse en la economía real.</p><p>Este escenario de alta presión se ve exacerbado por varios factores interconectados. Por un lado, la enorme acumulación de deuda, tanto pública como privada, ha creado un sistema frágil donde pequeños incrementos en las tasas de interés tienen un efecto magnificador. Por otro, la explosión del gasto en inteligencia artificial, que demanda grandes inversiones de capital, junto con la volatilidad de los precios energéticos, están transformando el mercado de bonos de un indicador económico en un problema político de primera magnitud, con implicaciones profundas para la inflación y el crecimiento.</p><p>La coyuntura actual obliga a una revisión profunda de las estrategias económicas y fiscales. Mientras los mercados esperan movimientos de figuras clave, la realidad es que el aumento del costo de capital amenaza con ralentizar la inversión productiva y encarecer el acceso al crédito para la 'Main Street'. Pulso Finanzas recomienda a sus lectores monitorear de cerca estos desarrollos, ya que la gestión de la deuda y la comprensión de las tasas de interés serán fundamentales para navegar un panorama económico cada vez más complejo y desafiante.</p>"
   }
 ]
