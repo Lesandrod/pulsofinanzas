@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1789223751453-964",
+    "category": "Mercados",
+    "title": "La Inflación Vuelve a Devorar tus Salarios: Claves para Proteger tu Bolsillo y Finanzas",
+    "summary": "En agosto, los precios al consumidor aumentaron un 3.4% interanual, superando el crecimiento salarial del 3.1%. Esta disparidad significa que el poder adquisitivo de los estadounidenses ha vuelto a contraerse, impactando directamente sus finanzas.",
+    "editorialComment": "La persistencia de la inflación por encima del crecimiento salarial subraya la urgencia de una gestión financiera proactiva. En Pulso Finanzas, entendemos la importancia de optimizar cada euro, especialmente en tiempos de incertidumbre económica. Por ello, te invitamos a descargar nuestra plantilla de ahorro, una herramienta esencial para organizar tus finanzas y hacer frente a estos desafíos.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+    "date": "12 de septiembre de 2026",
+    "timestamp": 1789223751463,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Las últimas cifras económicas revelan un escenario desafiante para el bolsillo de los consumidores. Durante el mes de agosto, los precios al consumidor experimentaron un aumento del 3.4% en comparación con el año anterior. Lamentablemente, este incremento superó el crecimiento de los salarios, que se situó en un modesto 3.1% para el mismo período.</p><p>Esta brecha significa que, en términos reales, el poder adquisitivo de los trabajadores ha vuelto a disminuir. A pesar de ver un aumento nominal en sus ingresos, la realidad es que su dinero rinde menos, obligando a muchos hogares a ajustar sus presupuestos y prioridades de gasto. El impacto se siente directamente en la cesta de la compra y en la capacidad de ahorro.</p><p>La situación genera preocupación sobre la estabilidad económica y el bienestar financiero de las familias. Expertos señalan que la persistencia de esta dinámica inflacionaria, donde los costos de vida superan la capacidad de generar ingresos, podría frenar el consumo y generar mayor presión sobre la economía general. Es crucial que los consumidores busquen estrategias para mitigar estos efectos y planifiquen con cautela.</p>"
+  },
+  {
+    "id": "noticia-1789223761232-116",
+    "category": "Criptomonedas",
+    "title": "BNY Mellon, un banco con 172 años de historia, proyecta un 400% de crecimiento para token blockchain: ¿Qué significa esto para tu inversión?",
+    "summary": "El prestigioso banco BNY Mellon, con una trayectoria de 172 años, ha expresado una confianza notable en un token de blockchain, proyectando un potencial de crecimiento del 400%. Esta audaz predicción subraya el creciente interés de las instituciones financieras tradicionales en el ecosistema de las criptomonedas.",
+    "editorialComment": "La noticia de BNY Mellon sobre el potencial de un token blockchain resalta la importancia de comprender el crecimiento exponencial en el mundo de las inversiones. Si bien las criptomonedas pueden ser volátiles, planificar el potencial de crecimiento a largo plazo y la reinversión de ganancias es clave. Nuestra calculadora de interés compuesto puede ayudarte a simular cómo un capital inicial podría multiplicarse bajo diferentes escenarios de rendimiento, aplicable tanto a inversiones tradicionales como a las más innovadoras como los activos digitales.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/markets/crypto/articles/172-old-bank-sees-400-173349444.html",
+    "date": "12 de septiembre de 2026",
+    "timestamp": 1789223761232,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El venerable banco BNY Mellon, una institución financiera con 172 años de historia, ha sorprendido al mercado al proyectar un potencial de crecimiento del 400% para el token HASH de la Provenance Blockchain Foundation. Esta declaración, proveniente de un actor tan consolidado, resalta una creciente convergencia entre las finanzas tradicionales y el innovador mundo de los activos digitales, marcando un hito en la aceptación institucional de la tecnología blockchain.</p><p>La apuesta de BNY Mellon no es trivial; el token HASH está diseñado para operar dentro de un ecosistema regulado que busca conectar a bancos, fondos e instituciones financieras. Este respaldo sugiere que las grandes corporaciones no solo están explorando la tecnología blockchain, sino que también están identificando activos específicos con un potencial de valorización significativo. Esta evolución es crucial, ya que apunta hacia una integración más profunda de la descentralización con los marcos financieros existentes, prometiendo mayor eficiencia y transparencia.</p><p>Para los inversores, este desarrollo puede interpretarse como una señal de maduración en el mercado de criptomonedas, donde la validación de instituciones como BNY Mellon podría atraer a un nuevo segmento de capital. Sin embargo, es fundamental recordar que, a pesar del optimismo institucional, el mercado de criptoactivos sigue siendo inherentemente volátil. Analizar el respaldo de entidades tradicionales aporta una nueva perspectiva, pero la debida diligencia y la gestión de riesgos continúan siendo pilares fundamentales antes de considerar cualquier inversión en este sector emergente.</p>"
+  },
+  {
+    "id": "noticia-1789223769822-502",
+    "category": "Mercados",
+    "title": "Nafta: La Escalada del Petróleo Desafía la Estabilidad de Precios Locales y Tu Presupuesto",
+    "summary": "El barril de Brent superó los USD 100 con un alza del 30% desde agosto, generando presión en el mercado local de combustibles. La capacidad de YPF para contener los precios de la nafta se agota, anticipando posibles incrementos en los surtidores.",
+    "editorialComment": "La inminente suba del precio de la nafta impacta directamente en el presupuesto familiar y empresarial, haciendo aún más crucial una gestión financiera eficiente. En Pulso Finanzas, te ofrecemos nuestras plantillas de ahorro en Excel, herramientas esenciales para optimizar tus gastos y enfrentar estos nuevos desafíos económicos con mayor preparación.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/09/12/que-va-a-pasar-con-la-nafta-la-escalada-del-precio-global-del-petroleo-pone-en-duda-el-alivio-previsto-para-los-surtidores-locales/",
+    "date": "12 de septiembre de 2026",
+    "timestamp": 1789223769823,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>La escalada global del precio del petróleo Brent, que ha superado la barrera de los USD 100 el barril y acumula un aumento del 30% desde agosto, está generando alarma en los mercados energéticos mundiales. Esta tendencia alcista se explica por una combinación de factores geopolíticos, restricciones en la oferta y una demanda sostenida, ejerciendo una presión considerable sobre los costos de los combustibles a nivel internacional. Para economías dependientes de las importaciones o con precios regulados, como la Argentina, el escenario se vuelve particularmente complejo.</p><p>En el contexto local, esta dinámica global pone en jaque la estrategia de contención de precios de la nafta que YPF ha implementado para proteger el bolsillo de los consumidores. Este mecanismo, que buscaba amortiguar el impacto de las fluctuaciones internacionales, ha llegado a su límite de margen operativo. La pregunta clave es cuánto tiempo más podrán mantenerse estables los precios en los surtidores, ante una realidad de costos crecientes y sin un margen adicional para absorber las subas.</p><p>La posible actualización de los precios de los combustibles tendrá un efecto cascada sobre la economía general, incrementando los costos de transporte y logística, y repercutiendo en la inflación. Para los hogares y las empresas, significaría un golpe directo al presupuesto, exigiendo una mayor planificación financiera. La situación actual subraya la vulnerabilidad de la economía local frente a los vaivenes del mercado petrolero global, anticipando un periodo de incertidumbre y desafíos para el poder adquisitivo.</p>"
+  },
+  {
     "id": "noticia-1789200761714-384",
     "category": "Criptomonedas",
     "title": "Criptomonedas en Riesgo: $3.63 Mil Millones Perdidos en Ciberataques Pese a Auditorías de Seguridad",
@@ -306,47 +348,5 @@
     "timestamp": 1789077797501,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>El evento sobre <strong>\"How one hedge-fund manager built his firm to be powered entirely by AI agents\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
-  },
-  {
-    "id": "noticia-1789077802092-250",
-    "category": "Criptomonedas",
-    "title": "Actualidad: Apple Stock Opens Lower Ahead of iPhone Event en español",
-    "summary": "Resumen de mercados: Apple Stock Opens Lower Ahead of iPhone Event. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
-    "editorialComment": "La volatilidad en criptomonedas demuestra la importancia de mantener un presupuesto equilibrado. No arriesgues más de tu 20% de ahorro sagrado definido en la regla 50/30/20. Planifica tus finanzas de forma segura.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://www.barrons.com/livecoverage/apple-event-iphone-stock-john-ternus/card/apple-stock-opens-lower-ahead-of-iphone-event-1IgWpWW5RQWPPdFONipS?siteid=yhoof2&amp;yptr=yahoo",
-    "date": "10 de septiembre de 2026",
-    "timestamp": 1789077802092,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El evento sobre <strong>\"Apple Stock Opens Lower Ahead of iPhone Event\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
-  },
-  {
-    "id": "noticia-1789077812754-559",
-    "category": "Mercados",
-    "title": "Alerta de Gastos: La Canasta Básica se Dispara y Exige $1.6M Mensuales a Familias para Cubrir lo Esencial",
-    "summary": "La canasta básica experimentó un incremento superior al de la inflación general, presionando aún más el presupuesto familiar. Como resultado, una familia tipo necesita ahora al menos $1.6 millones mensuales para no caer bajo el umbral de la pobreza.",
-    "editorialComment": "Esta escalada en los precios de productos esenciales subraya la importancia de una gestión financiera rigurosa y una planificación presupuestaria eficaz. Para afrontar estos desafíos y optimizar tus recursos, te recomendamos utilizar nuestra plantilla de ahorro, una herramienta invaluable para organizar tus finanzas y controlar tus gastos mensuales.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/09/10/las-canasta-basica-subio-casi-un-punto-por-sobre-la-inflacion-y-una-familia-tipo-ya-necesita-16-millones-por-mes-para-no-ser-pobre/",
-    "date": "10 de septiembre de 2026",
-    "timestamp": 1789077812754,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Los costos de vida continúan su ascenso ininterrumpido, y la canasta básica no es la excepción. Recientes datos revelan que el conjunto de bienes y servicios esenciales para la subsistencia de una familia ha aumentado casi un punto porcentual por encima del Índice de Precios al Consumidor (IPC) general. Esta brecha profundiza la presión sobre los hogares, elevando significativamente el umbral de ingresos necesarios para no ser considerado pobre.</p><p>La implicación más directa de este incremento es que una familia tipo, compuesta por dos adultos y dos menores, necesita ahora una suma de $1.6 millones mensuales para cubrir sus necesidades básicas y evitar caer en la pobreza. Este escenario representa un desafío considerable para millones de familias, cuyo poder adquisitivo se ve erosionado a un ritmo acelerado. La disparidad en el aumento de precios entre los bienes esenciales y el promedio general afecta desproporcionadamente a los sectores más vulnerables de la población.</p><p>Esta dinámica inflacionaria en los productos de primera necesidad no solo reconfigura el panorama económico de los hogares, sino que también pone de manifiesto la urgencia de estrategias financieras personales adaptativas. La persistencia de esta tendencia exige a las familias una mayor disciplina en el manejo de sus presupuestos y una búsqueda constante de herramientas que les permitan proteger su poder adquisitivo en un contexto de costos crecientes.</p>"
-  },
-  {
-    "id": "noticia-1789066107221-320",
-    "category": "Mercados",
-    "title": "IA revoluciona Wall Street: Cómo ChatGPT de OpenAI redefine los roles junior en finanzas",
-    "summary": "OpenAI ha lanzado ChatGPT para Servicios Financieros, una herramienta diseñada para automatizar tareas intensivas realizadas por banqueros junior en Wall Street. Esta innovación busca optimizar procesos como investigación, modelado y creación de pitchbooks, impactando directamente en la eficiencia y estructura laboral del sector.",
-    "editorialComment": "La llegada de la IA al sector financiero subraya la importancia de estar preparados para los cambios laborales. Si bien esta tecnología promete eficiencia, también plantea interrogantes sobre la redefinición de roles y la necesidad de nuevas habilidades. En Pulso Finanzas, entendemos estas transiciones y te ofrecemos herramientas como nuestra calculadora de finiquito para que estés informado ante cualquier eventualidad en tu trayectoria profesional.",
-    "relatedTool": "tab-finiquito",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-    "date": "10 de septiembre de 2026",
-    "timestamp": 1789066107234,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>OpenAI ha irrumpido en el corazón de Wall Street con el lanzamiento de su versión de ChatGPT diseñada específicamente para servicios financieros. Esta herramienta avanzada tiene como objetivo principal automatizar y optimizar las tareas más intensivas en mano de obra que tradicionalmente recaen en los banqueros junior, como la investigación exhaustiva de mercados, el modelado financiero complejo y la preparación de elaborados pitchbooks para clientes.</p><p>La integración de esta inteligencia artificial promete transformar radicalmente la eficiencia operativa de las instituciones financieras. Al reducir el tiempo y el esfuerzo dedicados a procesos repetitivos, los bancos podrían experimentar una significativa disminución de costos y una aceleración en la toma de decisiones. Sin embargo, esta evolución plantea un desafío directo a la estructura laboral, forzando a los profesionales a reenfocar sus habilidades hacia tareas de mayor valor estratégico y análisis crítico que la IA aún no puede replicar.</p><p>Más allá de la eficiencia interna, esta innovación tiene implicaciones profundas para la economía general. Podría alterar la dinámica del mercado laboral en uno de los sectores más lucrativos, exigiendo una reevaluación de la educación financiera y el desarrollo de talento. Además, la adopción de estas tecnologías de IA se convertirá en un factor clave de competitividad, diferenciando a las firmas que logren integrar eficazmente la automatización para impulsar su crecimiento y agilidad en un entorno financiero cada vez más digitalizado.</p>"
   }
 ]
