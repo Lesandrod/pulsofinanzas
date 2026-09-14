@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1789426235500-455",
+    "category": "Bolsa de Valores",
+    "title": "Alerta Financiera: Bank of America Prevé Caída en Banca de Inversión, ¿Se Frena el Boom de la IA en Wall Street?",
+    "summary": "Bank of America ha anunciado una expectativa de caída superior al 10% en sus comisiones de banca de inversión para el tercer trimestre. Esta proyección, por parte del segundo banco más grande de EE. UU., podría ser una señal temprana de turbulencias en el auge de la inteligencia artificial en Wall Street.",
+    "editorialComment": "La volatilidad en los mercados y las expectativas de rendimientos, como las expuestas por Bank of America, subrayan la importancia de una estrategia de inversión sólida. Para comprender cómo estos eventos pueden afectar el crecimiento de su capital a largo plazo, nuestra Calculadora de Interés Compuesto es una herramienta esencial. Le ayudará a visualizar el potencial de sus ahorros y a planificar su futuro financiero incluso en periodos de incertidumbre.",
+    "relatedTool": "tab-interes",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+    "date": "14 de septiembre de 2026",
+    "timestamp": 1789426235513,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Bank of America, el segundo banco más grande de Estados Unidos por activos, ha emitido una advertencia significativa para el tercer trimestre, proyectando una caída superior al 10% en sus comisiones de banca de inversión. Esta noticia ha generado una reacción inmediata en los mercados, provocando un deslizamiento en el valor de sus acciones. La expectativa del banco sugiere un enfriamiento en un sector que ha sido clave para el crecimiento de Wall Street en los últimos años.</p><p>Lo más preocupante de este pronóstico es su posible interpretación como una señal temprana de turbulencia en lo que muchos han denominado el \"boom de la inteligencia artificial\" en Wall Street. Las comisiones de banca de inversión son un barómetro crucial de la actividad económica, reflejando el volumen de fusiones y adquisiciones, ofertas públicas iniciales y otras operaciones de levantamiento de capital. Una desaceleración en estas áreas podría indicar una cautela creciente entre las empresas y los inversores, especialmente en sectores de alto crecimiento como la IA.</p><p>Para la economía general, una reducción en la actividad de banca de inversión podría traducirse en una ralentización en la creación de nuevos negocios y expansiones. Los inversores deberán monitorear de cerca si esta tendencia se propaga a otras instituciones financieras y sectores. Este escenario subraya la importancia de una planificación financiera prudente y una diversificación inteligente de carteras para navegar periodos de mayor incertidumbre en los mercados.</p>"
+  },
+  {
+    "id": "noticia-1789426244244-561",
+    "category": "Mercados",
+    "title": "Aumento de costos asfixia a PYMES: Otra cafetería se declara en bancarrota por presiones económicas",
+    "summary": "Una cafetería más ha solicitado acogerse al Capítulo 11 de la ley de bancarrota en Estados Unidos. La decisión se debe al implacable aumento de los costos operativos y de los precios de los insumos esenciales.",
+    "editorialComment": "Este caso subraya la importancia crítica de una gestión financiera sólida para cualquier negocio. Con los costos en constante ascenso, una planificación presupuestaria rigurosa es fundamental para la supervivencia. Nuestras plantillas de ahorro pueden ser una herramienta invaluable para controlar gastos y asegurar la estabilidad financiera.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html",
+    "date": "14 de septiembre de 2026",
+    "timestamp": 1789426244245,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>La reciente declaración de bancarrota bajo el Capítulo 11 por parte de otra cafetería en Estados Unidos es un claro indicativo de las presiones económicas que enfrentan los pequeños negocios. Este establecimiento, un pilar en su comunidad, se vio obligado a tomar esta drástica medida ante el implacable aumento de sus costos operativos y el encarecimiento de los insumos esenciales para su actividad diaria.</p><p>La situación de esta cafetería no es un hecho aislado, sino un reflejo de una tendencia macroeconómica. La inflación persistente ha elevado significativamente el precio de materias primas como el café, la leche y el azúcar, así como los costos de alquiler y mano de obra. Para negocios con márgenes de beneficio históricamente estrechos, como las cafeterías, trasladar estos aumentos directamente al consumidor final sin afectar la demanda se ha convertido en un equilibrio casi imposible de mantener, erosionando su rentabilidad.</p><p>Este caso sirve como una seria advertencia para el sector de las pequeñas y medianas empresas (PYMES), que son el motor de muchas economías. Subraya la necesidad crítica de una gestión financiera estratégica y una adaptabilidad constante en un entorno volátil. La supervivencia de estos negocios depende no solo de su capacidad para innovar, sino también de una planificación financiera rigurosa que les permita anticipar y mitigar los impactos de las fluctuaciones económicas y los crecientes costos operativos.</p>"
+  },
+  {
+    "id": "noticia-1789426253583-366",
+    "category": "Mercados",
+    "title": "Desafío de deuda: ¿Cómo afrontará el Gobierno los USD 4.000 millones en vencimientos hasta fin de año?",
+    "summary": "El Gobierno argentino debe afrontar vencimientos de deuda por USD 4.000 millones en los últimos cuatro meses de 2026. Para ello, se evalúan fuentes de financiamiento como un desembolso pendiente del FMI, nuevos préstamos, ingresos por privatizaciones y la colocación del bono A029.",
+    "editorialComment": "La gestión de deuda a gran escala como la que enfrenta el Gobierno subraya la importancia de una planificación financiera rigurosa. Para nuestros usuarios, entender y aplicar principios de administración de recursos es clave. Nuestras plantillas de ahorro en Excel son una herramienta fundamental para replicar esa disciplina en tus finanzas personales o empresariales, permitiéndote organizar ingresos, gastos y metas de manera efectiva.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/09/14/el-gobierno-enfrenta-vencimientos-por-usd-4000-millones-hasta-diciembre-de-donde-saldran-los-dolares-para-pagar-la-deuda/",
+    "date": "14 de septiembre de 2026",
+    "timestamp": 1789426253584,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El panorama económico de Argentina se ve desafiado por inminentes vencimientos de deuda. Hasta diciembre de 2026, el Gobierno deberá cubrir cerca de USD 4.000 millones, una cifra considerable que demanda una estrategia financiera clara y robusta. Esta situación añade presión a las reservas internacionales y a la estabilidad macroeconómica en un período clave para la consolidación fiscal.</p><p>Para afrontar estos compromisos, los analistas financieros y el propio Ejecutivo barajan diversas fuentes de fondos. Entre las opciones más destacadas se encuentra un esperado desembolso por USD 1.000 millones proveniente del Fondo Monetario Internacional (FMI), cuya aprobación depende del cumplimiento de metas acordadas. Adicionalmente, se evalúa la posibilidad de obtener nuevos préstamos, acelerar procesos de privatización que generen ingresos en divisa extranjera, y la colocación de instrumentos financieros como el bono A029 en el mercado.</p><p>La capacidad del Gobierno para asegurar estos fondos no solo es crucial para evitar un default, sino que también enviará una señal determinante a los mercados y a la confianza de los inversores. Una resolución exitosa de estos vencimientos podría fortalecer la credibilidad financiera del país y estabilizar la cotización de los activos, mientras que cualquier dificultad podría generar volatividad y presiones adicionales sobre el tipo de cambio y la inflación.</p>"
+  },
+  {
     "id": "noticia-1789405963055-864",
     "category": "Mercados",
     "title": "Alerta Financiera: Mercados de Predicción Anticipan Disparada en Precios de la Gasolina a Nuevos Máximos",
@@ -306,47 +348,5 @@
     "timestamp": 1789264699570,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>El evento sobre <strong>\"The iPhone Duo enters China’s crowded foldable market — and faces a price test\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
-  },
-  {
-    "id": "noticia-1789264709483-981",
-    "category": "Bolsa de Valores",
-    "title": "JPMorgan Rebaja Calificación de Chewy: Claves del Movimiento y su Impacto en el Inversionista",
-    "summary": "JPMorgan ha rebajado la acción de Chewy (CHWY), citando preocupaciones sobre la desaceleración del crecimiento en el sector de mascotas y un entorno competitivo más desafiante. Esta decisión refleja un ajuste en las expectativas del mercado tras el auge que experimentaron las empresas de e-commerce durante la pandemia.",
-    "editorialComment": "Este movimiento de JPMorgan subraya la volatilidad del mercado bursátil y la importancia de una estrategia de inversión bien fundamentada. Comprender cómo las decisiones de los analistas impactan el valor de tus activos es crucial para planificar a largo plazo. Nuestra calculadora de interés compuesto puede ayudarte a visualizar el crecimiento potencial de tus inversiones y cómo la paciencia y el conocimiento del mercado son tus mejores aliados.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-just-downgraded-chewy-stock-192516427.html",
-    "date": "13 de septiembre de 2026",
-    "timestamp": 1789264709483,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>JPMorgan ha revisado a la baja la calificación de las acciones de Chewy (CHWY), pasando de 'Sobreponderar' a 'Neutral' y ajustando su precio objetivo. Esta decisión se fundamenta en la expectativa de una desaceleración en el crecimiento del gasto de los consumidores en el sector de productos para mascotas, sumado a un incremento en la competencia minorista que podría presionar los márgenes de beneficio de la compañía. Los analistas también señalaron que la valoración actual de la acción no justifica un optimismo excesivo, dada la moderación de las proyecciones de crecimiento.</p><p>Esta rebaja no solo impacta directamente a Chewy, generando una presión inmediata sobre su cotización en bolsa, sino que también envía una señal clara al sector de e-commerce de productos para mascotas en general. El crecimiento explosivo observado durante la pandemia, impulsado por un aumento en la adopción de mascotas y el cambio hacia las compras online, parece estar normalizándose. Las empresas del sector ahora enfrentan el desafío de recalibrar sus estrategias frente a un consumidor más cauteloso y un mercado cada vez más saturado, obligando a los inversionistas a reevaluar el potencial de crecimiento a largo plazo.</p><p>El movimiento de JPMorgan destaca la importancia crítica de monitorear las evaluaciones de los analistas y entender los factores macro y microeconómicos que influyen en el rendimiento de las acciones. Para los inversionistas, este tipo de noticias es un recordatorio fundamental de la necesidad de una diversificación inteligente y de realizar un análisis fundamental constante. En un entorno de mercado volátil y cambiante, la adaptabilidad, una visión a largo plazo y la capacidad de interpretar las tendencias son esenciales para proteger y hacer crecer el capital de manera efectiva.</p>"
-  },
-  {
-    "id": "noticia-1789264777362-335",
-    "category": "Mercados",
-    "title": "Actualidad: “Inteligencia distorsionada”: la crítica de un premio Nobel de Economía en medio de la polémica por la carrera de la IA en español",
-    "summary": "Resumen de mercados: “Inteligencia distorsionada”: la crítica de un premio Nobel de Economía en medio de la polémica por la carrera de la IA. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
-    "editorialComment": "El mercado bursátil se ve fuertemente impulsado por empresas de alto rendimiento. A largo plazo, invertir de manera constante en el mercado bursátil permite ganarle a la inflación por medio del interés compuesto.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/09/12/inteligencia-distorsionada-la-critica-de-un-premio-nobel-de-economia-en-medio-de-la-polemica-por-la-carrera-de-la-ia/",
-    "date": "13 de septiembre de 2026",
-    "timestamp": 1789264777362,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El evento sobre <strong>\"“Inteligencia distorsionada”: la crítica de un premio Nobel de Economía en medio de la polémica por la carrera de la IA\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
-  },
-  {
-    "id": "noticia-1789249704807-543",
-    "category": "Mercados",
-    "title": "Kalshi Lanza Futuros Perpetuos de Oro y Plata: Una Nueva Era en la Inversión de Metales Preciosos",
-    "summary": "La plataforma Kalshi ha introducido futuros perpetuos para el oro y la plata, expandiendo su oferta de instrumentos financieros. Este lanzamiento, aprobado por la CFTC, representa un paso estratégico para diversificar los activos disponibles para sus usuarios.",
-    "editorialComment": "La constante innovación en los mercados financieros, como la introducción de futuros perpetuos, abre nuevas vías para la inversión y la gestión de patrimonio. Comprender el potencial de crecimiento a largo plazo de sus activos es fundamental en este entorno cambiante. Nuestra Calculadora de Interés Compuesto le será de gran utilidad para proyectar el rendimiento de sus inversiones y optimizar su estrategia financiera.",
-    "relatedTool": "tab-interes",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
-    "date": "12 de septiembre de 2026",
-    "timestamp": 1789249704818,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>La compañía Kalshi, previamente reconocida por su modelo de mercados de predicción, ha marcado un hito significativo en su trayectoria al lanzar futuros perpetuos, o 'perps', para el oro y la plata. Este importante desarrollo ha sido posible tras obtener la aprobación de la Comisión de Negociación de Futuros de Productos Básicos (CFTC) de Estados Unidos, lo que legitima la inclusión de estos nuevos productos financieros en su plataforma y refuerza su posición en el ecosistema financiero.</p><p>La introducción de estos contratos perpetuos representa un movimiento estratégico clave para Kalshi, permitiéndole diversificar su cartera de activos y atraer a un espectro más amplio de inversores. A diferencia de los futuros tradicionales, los 'perps' no tienen fecha de vencimiento, ofreciendo una flexibilidad única que permite a los usuarios mantener posiciones de forma indefinida, lo que podría ser atractivo tanto para la cobertura como para la especulación a largo plazo sobre los precios de estos metales preciosos.</p><p>Esta expansión no solo eleva el perfil de Kalshi dentro del sector de los derivados, sino que también subraya una tendencia más amplia hacia la innovación y la accesibilidad en los mercados financieros. La aprobación regulatoria de la CFTC añade una capa de confianza y estabilidad a estas nuevas ofertas, sugiriendo que instrumentos más complejos podrían seguir democratizándose, abriendo nuevas oportunidades y desafíos para los inversores y la regulación a nivel global.</p>"
   }
 ]
