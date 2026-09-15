@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1789511500381-432",
+    "category": "Mercados",
+    "title": "Alerta Económica: Inflación Vuelve a Superar Salarios y Comprime tu Poder Adquisitivo",
+    "summary": "Durante el mes de agosto, los precios al consumidor experimentaron un aumento del 3.4% anual en Estados Unidos. Sin embargo, el crecimiento salarial solo alcanzó el 3.1%, dejando a los ciudadanos con un menor poder de compra real.",
+    "editorialComment": "Esta disparidad entre el aumento de precios y salarios subraya la urgencia de una gestión financiera proactiva. Para proteger su economía familiar ante la inflación, es fundamental planificar y controlar sus gastos. Le invitamos a descargar nuestra plantilla de ahorro para optimizar su presupuesto y mantener sus finanzas bajo control.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+    "date": "15 de septiembre de 2026",
+    "timestamp": 1789511500392,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>La economía estadounidense enfrenta nuevamente un desafío significativo, con la inflación superando el crecimiento salarial en agosto. Los datos recientes revelan que los precios al consumidor se incrementaron un 3.4% en el último año, mientras que los salarios solo crecieron un 3.1% en el mismo periodo. Esta brecha, aunque aparentemente pequeña, significa que el poder adquisitivo de los ciudadanos se está erosionando, ya que su ingreso nominal no cubre el aumento real del costo de vida.</p><p>Este escenario tiene un impacto directo y palpable en el bolsillo de millones de familias. Los hogares se ven obligados a destinar una mayor proporción de sus ingresos a bienes y servicios esenciales, como alimentos, vivienda y transporte, cuyos precios han escalado. La consecuencia inmediata es una compresión de los presupuestos personales, limitando la capacidad de ahorro y, en muchos casos, forzando a recurrir a deudas para mantener el nivel de vida.</p><p>La persistencia de esta tendencia inflación-salarios plantea interrogantes sobre la estabilidad económica a medio plazo. Si bien el mercado laboral se mantiene robusto, la disminución del poder de compra podría frenar el consumo y generar presiones adicionales sobre la política monetaria. Es crucial que los individuos adopten estrategias financieras para mitigar estos efectos, mientras que los formuladores de políticas buscan soluciones para restaurar el equilibrio entre el crecimiento de precios y el ingreso real.</p>"
+  },
+  {
+    "id": "noticia-1789511507621-444",
+    "category": "Bolsa de Valores",
+    "title": "Dell triplica su valor en bolsa: ¿Es momento de mantener la inversión o asegurar ganancias?",
+    "summary": "Las acciones de Dell han experimentado un impresionante crecimiento del triple de su valor en lo que va de 2026. A pesar de este auge, analistas financieros sugieren cautela y no retirar las ganancias de forma inmediata.",
+    "editorialComment": "El vertiginoso ascenso de Dell nos recuerda el potencial de crecimiento a largo plazo en el mercado de valores. Para los inversores que buscan proyectar el rendimiento de sus activos en escenarios futuros, nuestra calculadora de interés compuesto es una herramienta esencial. Permite visualizar cómo pequeñas decisiones de inversión pueden multiplicarse con el tiempo, ayudándote a planificar tus próximas estrategias.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-tripled-2026-why-141139977.html",
+    "date": "15 de septiembre de 2026",
+    "timestamp": 1789511507621,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Dell Technologies ha capturado la atención del mercado financiero al registrar un aumento sin precedentes en el valor de sus acciones, triplicando su precio desde principios de 2026. Este notable rendimiento posiciona a la compañía como una de las estrellas del sector tecnológico, impulsada por diversos factores que están redefiniendo las expectativas de los inversores y analistas.</p><p>El impulso detrás de este crecimiento exponencial se atribuye en gran medida a la fuerte demanda de servidores optimizados para inteligencia artificial y la recuperación del mercado de PC. Los analistas, a pesar de este formidable rally, aconsejan a los inversores que se abstengan de asegurar beneficios por el momento, sugiriendo que la trayectoria ascendente de Dell podría tener aún más recorrido, especialmente dadas sus proyecciones en el lucrativo espacio de la IA y la infraestructura de centros de datos.</p><p>Este fenómeno no solo resalta la resiliencia y adaptabilidad de Dell, sino que también ofrece una perspectiva sobre la dinámica actual del mercado tecnológico y su impacto en la economía global. Para los inversores, la situación de Dell subraya la importancia de un análisis a fondo y una estrategia a largo plazo, recordándonos que el mercado puede ofrecer oportunidades significativas, pero también exige decisiones informadas frente a la volatilidad y las expectativas futuras.</p>"
+  },
+  {
+    "id": "noticia-1789511517656-219",
+    "category": "Mercados",
+    "title": "Alerta Económica: La caída del uso de la capacidad industrial en julio y sus efectos en tu inversión",
+    "summary": "El uso de la capacidad instalada en la industria argentina retrocedió significativamente en julio, con seis sectores operando por debajo del 50% de su potencial. Este panorama revela una actividad dispar, donde si bien seis segmentos mostraron crecimiento, otros tantos experimentaron un declive notable en su producción.",
+    "editorialComment": "La desaceleración en el uso de la capacidad industrial puede generar incertidumbre económica y afectar la estabilidad laboral. En tiempos como estos, es fundamental contar con un presupuesto sólido para proteger sus finanzas personales. Utilice nuestras plantillas de ahorro en Excel para organizar sus gastos, identificar oportunidades de ahorro y prepararse ante cualquier eventualidad económica.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/09/15/industria-cayo-el-uso-de-la-capacidad-instalada-en-julio-y-seis-sectores-trabajaron-por-debajo-del-50/",
+    "date": "15 de septiembre de 2026",
+    "timestamp": 1789511517656,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El reciente informe sobre la actividad industrial revela una preocupante caída en el uso de la capacidad instalada durante el mes de julio, con un promedio que genera alertas en el sector económico. Particularmente, seis rubros productivos operaron por debajo del 50% de su potencial, lo que sugiere un estancamiento o contracción significativa en áreas clave de la manufactura. Este escenario, no obstante, se presenta con matices, ya que otros seis sectores lograron incrementar su nivel de actividad, mostrando una heterogeneidad en el desempeño productivo.</p><p>Esta disparidad sectorial refleja un momento de transición y desafíos para la economía. La contracción en ciertos segmentos industriales puede ser un síntoma de una menor demanda interna o externa, o bien, de obstáculos en las cadenas de suministro y la disponibilidad de insumos. A nivel macroeconómico, una menor utilización de la capacidad instalada se traduce en una menor inversión, potencial desaceleración del crecimiento del Producto Bruto Interno (PBI) y, en el mediano plazo, podría impactar negativamente en el mercado laboral y la generación de empleo.</p><p>Para los inversores y el público en general, este indicador es crucial, ya que el desempeño industrial es un termómetro clave de la salud económica de un país. Una industria operando por debajo de su potencial puede señalar presiones inflacionarias futuras si la oferta no responde a la demanda, o bien, escenarios de menor rentabilidad para empresas listadas en bolsa. En Pulso Finanzas, recomendamos seguir de cerca estos datos para tomar decisiones financieras informadas, evaluando cómo las tendencias sectoriales pueden influir en sus carteras de inversión y su planificación económica personal.</p>"
+  },
+  {
     "id": "noticia-1789500070821-83",
     "category": "Mercados",
     "title": "Mercados de Predicción: Entiende Cómo Eventos como la NFL y Elecciones Mueven tus Inversiones",
@@ -306,47 +348,5 @@
     "timestamp": 1789352113500,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>Los mercados de predicción, plataformas donde los participantes apuestan sobre el resultado de eventos futuros (desde elecciones políticas hasta eventos económicos), están experimentando una transformación significativa. Lo que alguna vez fue un nicho dominado por entusiastas y traders individuales está atrayendo cada vez más la atención de instituciones y fondos de inversión. Esta 'profesionalización' los está volviendo más eficientes en la fijación de precios y, por ende, en la eliminación de las oportunidades de arbitraje.</p><p>Expertos señalan que esta institucionalización representa un desafío directo para los traders experimentados que históricamente han capitalizado las ineficiencias del mercado. Con la entrada de grandes capitales, algoritmos avanzados y análisis de datos sofisticados, la capacidad de detectar y explotar las valoraciones erróneas se reduce drásticamente. El margen para obtener beneficios rápidos a través de la especulación se estrecha, haciendo que el entorno sea considerablemente más competitivo y difícil de batir.</p><p>Para los inversores, este cambio implica una adaptación estratégica. Ya no basta con una intuición aguda; la exigencia de un análisis riguroso y una comprensión profunda de los factores subyacentes se vuelve primordial. Este desarrollo en los mercados de predicción refleja una tendencia más amplia en los mercados financieros, donde la eficiencia creciente obliga a los participantes a buscar ventajas competitivas sostenibles, priorizando la información de calidad y las estrategias a largo plazo sobre la mera especulación.</p>"
-  },
-  {
-    "id": "noticia-1789352122737-237",
-    "category": "Mercados",
-    "title": "Gigante de la joyería cierra 53 tiendas: ¿Qué revela sobre la salud del retail y el empleo actual?",
-    "summary": "Una importante cadena de joyerías ha anunciado el cierre de 53 de sus establecimientos tras la disolución de dos de sus marcas subsidiarias. Esta medida drástica refleja los crecientes desafíos que enfrenta el sector minorista tradicional en un entorno económico cambiante.",
-    "editorialComment": "El cierre de tiendas, lamentablemente, a menudo conlleva ajustes de personal y periodos de incertidumbre laboral. Ante este panorama, es crucial que los trabajadores conozcan sus derechos y cómo calcular correctamente su liquidación. Nuestra calculadora de finiquito puede ser una herramienta invaluable para quienes se encuentren en esta situación, asegurando una transición justa y bien informada.",
-    "relatedTool": "tab-finiquito",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/jewelry-chain-closes-53-stores-213700154.html",
-    "date": "14 de septiembre de 2026",
-    "timestamp": 1789352122737,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>La noticia impacta al sector minorista: una prominente cadena de joyerías ha anunciado el cierre de 53 de sus tiendas, una decisión que sigue a la desaparición de dos de sus marcas secundarias. Esta consolidación drástica subraya la intensa presión y los cambios estructurales que están experimentando las empresas de retail, especialmente aquellas con un modelo de negocio tradicional frente a la creciente competencia digital y las fluctuaciones en el gasto del consumidor.</p><p>Este movimiento no solo afecta a la cadena en cuestión y a sus empleados, sino que también envía una señal clara al mercado sobre la salud general del sector. Factores como la inflación, que reduce el poder adquisitivo, y la continua migración de los consumidores hacia las compras en línea, están redefiniendo el panorama minorista. Las empresas se ven obligadas a reevaluar sus estrategias de presencia física y a buscar eficiencias operativas para mantener su rentabilidad y relevancia.</p><p>Para los inversores, este tipo de anuncios sirven como indicadores sobre la resiliencia de los distintos segmentos del mercado. Mientras que algunas empresas logran adaptarse y prosperar, otras enfrentan desafíos insuperables. Este evento resalta la importancia de diversificar carteras y de analizar la capacidad de adaptación de las compañías a las nuevas tendencias económicas y de consumo, recordando que incluso sectores históricamente estables no son inmunes a las disrupciones.</p>"
-  },
-  {
-    "id": "noticia-1789352131183-816",
-    "category": "Mercados",
-    "title": "Actualidad: El duro editorial de The Economist sobre el gobierno de Milei: “La Argentina necesita menos gritos y más crecimiento” en español",
-    "summary": "Resumen de mercados: El duro editorial de The Economist sobre el gobierno de Milei: “La Argentina necesita menos gritos y más crecimiento”. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
-    "editorialComment": "El mercado bursátil se ve fuertemente impulsado por empresas de alto rendimiento. A largo plazo, invertir de manera constante en el mercado bursátil permite ganarle a la inflación por medio del interés compuesto.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/09/14/el-duro-editorial-de-the-economist-sobre-el-gobierno-de-milei-la-argentina-necesita-menos-gritos-y-mas-crecimiento/",
-    "date": "14 de septiembre de 2026",
-    "timestamp": 1789352131183,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El evento sobre <strong>\"El duro editorial de The Economist sobre el gobierno de Milei: “La Argentina necesita menos gritos y más crecimiento”\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
-  },
-  {
-    "id": "noticia-1789336477970-570",
-    "category": "Mercados",
-    "title": "El Frenazo del Vehículo Eléctrico Chino Impulsa la Era de los Robots Humanoides: ¿Oportunidad de Inversión?",
-    "summary": "Ante la desaceleración de las ventas de vehículos eléctricos en China y la caída de sus cotizaciones bursátiles, varios fabricantes de automóviles están redirigiendo sus esfuerzos. Estas compañías están acelerando drásticamente el desarrollo de la robótica humanoide como una nueva vía estratégica.",
-    "editorialComment": "La rápida adaptación de la industria automotriz china a las nuevas tecnologías, como la robótica humanoide, subraya la importancia de diversificar y entender las tendencias del mercado. Para los inversores, comprender cómo estas transformaciones afectan el valor a largo plazo es crucial. Nuestra calculadora de interés compuesto es una herramienta esencial para proyectar el crecimiento de tus inversiones, incluso en sectores en plena redefinición tecnológica.",
-    "relatedTool": "tab-interes",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html",
-    "date": "13 de septiembre de 2026",
-    "timestamp": 1789336477983,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>La industria automotriz china de vehículos eléctricos (VE) se encuentra en un punto de inflexión. Tras años de crecimiento explosivo, las ventas han comenzado a desacelerarse significativamente, llevando a una drástica caída en las cotizaciones bursátiles de varias de las principales empresas del sector. En respuesta a esta nueva realidad del mercado, un número creciente de fabricantes de VE ha decidido 'cambiar de marcha', volcando ahora sus recursos y estrategias hacia el desarrollo de robots humanoides de nueva generación.</p><p>Este giro estratégico no es una decisión aislada, sino una respuesta directa a la creciente saturación del mercado de VE, la feroz competencia y una potencial reducción en los subsidios gubernamentales. Las empresas chinas, conocidas por su capacidad de adaptación y su visión a largo plazo, ven en la robótica humanoide un nuevo motor de crecimiento y una oportunidad para diversificar sus ingresos y su base tecnológica. Se espera que estos humanoides puedan aplicarse en una vasta gama de sectores, desde la manufactura hasta servicios y asistencia personal.</p><p>La implicación de este movimiento para la economía global y el sector tecnológico es considerable. No solo señala un posible cambio de paradigma en la estrategia de inversión de los gigantes industriales, sino que también posiciona a China a la vanguardia de una nueva carrera tecnológica. Aunque el desarrollo de humanoides aún presenta desafíos técnicos y éticos significativos, el compromiso de estas empresas con el sector podría generar nuevas oportunidades de empleo, impulsar la innovación y redefinir el panorama industrial en los próximos años.</p>"
   }
 ]
