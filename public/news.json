@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1789611544205-61",
+    "category": "Bolsa de Valores",
+    "title": "Actualidad: Fed approves interest rate hike, signals one more to come this year en español",
+    "summary": "Resumen de mercados: Fed approves interest rate hike, signals one more to come this year. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
+    "editorialComment": "El mercado bursátil se ve fuertemente impulsado por empresas de alto rendimiento. A largo plazo, invertir de manera constante en el mercado bursátil permite ganarle a la inflación por medio del interés compuesto.",
+    "relatedTool": "tab-interes",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
+    "date": "17 de septiembre de 2026",
+    "timestamp": 1789611544217,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El evento sobre <strong>\"Fed approves interest rate hike, signals one more to come this year\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
+  },
+  {
+    "id": "noticia-1789611615828-574",
+    "category": "Criptomonedas",
+    "title": "Actualidad: ASML Eyes 110+ EUV Tools in 2028 as AI Chip Demand Accelerates en español",
+    "summary": "Resumen de mercados: ASML Eyes 110+ EUV Tools in 2028 as AI Chip Demand Accelerates. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
+    "editorialComment": "La volatilidad en criptomonedas demuestra la importancia de mantener un presupuesto equilibrado. No arriesgues más de tu 20% de ahorro sagrado definido en la regla 50/30/20. Planifica tus finanzas de forma segura.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/asml-eyes-110-euv-tools-143406050.html",
+    "date": "17 de septiembre de 2026",
+    "timestamp": 1789611615828,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El evento sobre <strong>\"ASML Eyes 110+ EUV Tools in 2028 as AI Chip Demand Accelerates\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
+  },
+  {
+    "id": "noticia-1789611624190-412",
+    "category": "Mercados",
+    "title": "Vaca Muerta y Agro: La Clave del BCRA para Fortalecer Reservas y Asegurar la Estabilidad del Dólar",
+    "summary": "El Banco Central de la República Argentina (BCRA) proyecta cumplir con su meta anual de reservas, impulsado por significativos ingresos de divisas provenientes del sector energético y agropecuario. Esta estrategia busca afianzar la estabilidad del tipo de cambio y anticipa una mejora en la calidad de la cartera crediticia hacia fin de año.",
+    "editorialComment": "La expectativa del BCRA de estabilizar el dólar mediante los ingresos de Vaca Muerta y el agro crea un entorno propicio para la planificación financiera personal. Ante un escenario de mayor previsibilidad económica, es fundamental gestionar tus finanzas de manera eficiente y establecer objetivos de ahorro. Te invitamos a utilizar nuestra plantilla de ahorro, una herramienta ideal para organizar tu presupuesto y maximizar tus recursos en este contexto de estabilidad.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/09/16/con-menores-compras-el-banco-central-apuesta-a-que-los-dolares-de-vaca-muerta-y-el-agro-apuntalen-las-reservas/",
+    "date": "17 de septiembre de 2026",
+    "timestamp": 1789611624190,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El Banco Central de la República Argentina (BCRA) ha delineado una estrategia ambiciosa para apuntalar sus reservas y extender la estabilidad del dólar, apostando fuertemente a los flujos de divisas generados por dos pilares económicos cruciales: Vaca Muerta y el sector agropecuario. Esta iniciativa busca no solo cumplir con el techo de la meta anual de reservas, sino también generar un marco de mayor previsibilidad cambiaria que impacte positivamente en la economía general.</p><p>La autoridad monetaria confía en que la creciente producción y exportación de energía no convencional, sumada a la fortaleza del sector agroindustrial, aportarán los dólares necesarios para robustecer el balance del BCRA. Este influjo de divisas es considerado clave para reducir la volatilidad del tipo de cambio y sentar las bases para una mejora en la calidad de la cartera crediticia del sistema financiero hacia finales de diciembre, un indicador vital de la salud económica.</p><p>La consecución de estos objetivos tendrá implicaciones significativas para el mercado y la confianza de los inversores. Una mayor estabilidad del dólar y el fortalecimiento de las reservas pueden propiciar un entorno más favorable para las inversiones y el desarrollo de proyectos productivos. Para los ciudadanos, se traduce en una mayor predictibilidad en sus finanzas personales y un potencial alivio en la presión inflacionaria, consolidando un panorama económico más robusto.</p>"
+  },
+  {
     "id": "noticia-1789597690923-236",
     "category": "Mercados",
     "title": "Las 5 Claves Esenciales de la Última Subida de Tasas de la Fed: ¿Cómo Impacta tu Bolsillo?",
@@ -306,47 +348,5 @@
     "timestamp": 1789487550600,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>Pekín ha desestimado las peticiones de algunos de los principales ejecutivos de empresas de inteligencia artificial (IA) para ralentizar el desarrollo de esta tecnología, calificándolas de \"alarmismo\". Esta declaración, difundida por los medios estatales chinos tras una rueda de prensa diaria, subraya la visión del país de continuar con el avance imparable de la IA. La postura china contrasta con las preocupaciones expresadas por líderes tecnológicos occidentales sobre los posibles riesgos y la necesidad de una pausa regulatoria.</p><p>Además de rechazar cualquier desaceleración, los informes estatales chinos enfatizaron la importancia de que todos los grupos trabajen juntos para promover la apertura y la inclusión en el ámbito de la IA. Este llamado a la colaboración global busca evitar monopolios o barreras que puedan frenar el progreso tecnológico, promoviendo un desarrollo más equitativo y accesible. China se posiciona así como un actor clave en la configuración del futuro de la IA, no solo en términos de innovación, sino también en su gobernanza global.</p><p>La firmeza de China en impulsar la IA tiene importantes implicaciones para la economía global y los mercados financieros. Un desarrollo acelerado de la IA en el gigante asiático podría intensificar la competencia tecnológica global, impulsando la innovación pero también generando tensiones geopolíticas. Para los inversores, este escenario refuerza la relevancia del sector tecnológico, particularmente aquellos segmentos relacionados con la IA, que seguirán siendo un foco de atención y una fuente potencial de oportunidades de crecimiento a largo plazo.</p>"
-  },
-  {
-    "id": "noticia-1789487560486-360",
-    "category": "Criptomonedas",
-    "title": "Ley Clarity: Descubre cómo la nueva regulación cripto protegerá tus inversiones digitales",
-    "summary": "La Ley Clarity busca establecer un marco regulatorio claro para los activos digitales en Estados Unidos, definiendo su clasificación como valores o materias primas. Esta medida es crucial para la protección del inversor y la estabilidad del volátil mercado de las criptomonedas.",
-    "editorialComment": "Esta búsqueda de claridad regulatoria en el mundo cripto subraya la importancia de una gestión financiera sólida y bien planificada para cualquier inversor. Para aquellos que buscan consolidar sus finanzas y prepararse para escenarios de mercado volátiles, nuestras plantillas de ahorro son herramientas esenciales. Te ayudarán a establecer un presupuesto claro y a mantener un control riguroso sobre tus inversiones, incluyendo tus activos digitales.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/personal-finance/investing/article/clarity-act-what-it-means-for-your-crypto-holdings-153849029.html",
-    "date": "15 de septiembre de 2026",
-    "timestamp": 1789487560486,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>La propuesta Ley Clarity (Clarity for Digital Assets Act of 2023) busca poner fin a la incertidumbre regulatoria que envuelve al sector de las criptomonedas en Estados Unidos. Este esfuerzo bipartidista tiene como objetivo principal establecer un marco legal claro que defina si los activos digitales deben ser clasificados como valores (securities) o como materias primas (commodities), una distinción fundamental que determinaría qué agencia reguladora, la SEC o la CFTC, tiene jurisdicción sobre ellos.</p><p>Actualmente, la falta de una definición unificada genera un entorno de riesgo y confusión para inversores y empresas, frenando la innovación y dificultando la protección al consumidor. La Ley Clarity propone un sistema de registro y divulgación más transparente para emisores de criptoactivos, buscando garantizar que los participantes del mercado operen bajo reglas claras y justas, similar a los mercados financieros tradicionales y así fomentar una mayor confianza en el ecosistema.</p><p>De ser aprobada, esta legislación podría traer una mayor estabilidad y legitimidad al volátil mercado de las criptomonedas, atrayendo a más inversores institucionales y minoristas. Sin embargo, también podría implicar mayores costos de cumplimiento para las empresas cripto. Su impacto no solo se sentiría en las carteras de los poseedores de criptoactivos, sino que sentaría un precedente crucial para la integración de estas tecnologías en la economía global, impulsando la adopción y la innovación responsable.</p>"
-  },
-  {
-    "id": "noticia-1789487570118-583",
-    "category": "Mercados",
-    "title": "Dólar Hoy: Analiza la Cotización del 15 de Septiembre y Protege tus Ahorros",
-    "summary": "Este martes 15 de septiembre, el dólar oficial se mantuvo en $1.530 para la venta, mientras que el dólar blue registró un ascenso alcanzando los $1.555. En este contexto, el Banco Central de la República Argentina (BCRA) intervino en el mercado con una compra de 12 millones de dólares.",
-    "editorialComment": "La volatilidad en el mercado cambiario, evidenciada por la diferencia entre el dólar oficial y el blue, subraya la importancia de una gestión financiera sólida. Para proteger tus ingresos y planificar eficazmente ante escenarios económicos cambiantes, te invitamos a descargar nuestras plantillas de ahorro. Con ellas podrás organizar tus finanzas personales y optimizar tu presupuesto frente a la dinámica del dólar.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/09/15/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-martes-15-de-septiembre/",
-    "date": "15 de septiembre de 2026",
-    "timestamp": 1789487570119,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El mercado cambiario argentino volvió a ser protagonista este martes 15 de septiembre, con cotizaciones que marcan la pauta de la dinámica económica actual. El dólar oficial minorista se mantuvo estable en $1.530 para la venta en el Banco Nación, ofreciendo una referencia para transacciones reguladas. Sin embargo, la atención se centra en el mercado informal, donde el dólar blue experimentó un ascenso, posicionándose en $1.555, ampliando la brecha con la divisa oficial y reflejando la demanda de cobertura frente a la incertidumbre.</p><p>En este escenario, la intervención del Banco Central de la República Argentina (BCRA) se hizo notar con la compra de 12 millones de dólares en el mercado cambiario. Esta acción busca fortalecer las reservas y moderar las presiones sobre el tipo de cambio, aunque su impacto a largo plazo depende de la continuidad y magnitud de dichas intervenciones. La estrategia del BCRA es crucial para estabilizar expectativas y enviar señales a los inversores y al público en general sobre la dirección de la política monetaria.</p><p>La constante fluctuación del dólar, sumada a la brecha entre sus distintas cotizaciones, tiene una relevancia directa para la economía general y el bolsillo de los ciudadanos. Estos movimientos afectan los costos de importación, la inflación y el poder adquisitivo, impactando decisiones de inversión y consumo. Para los argentinos, monitorear estas variables es fundamental para una adecuada planificación financiera y para tomar decisiones informadas en un contexto de persistente volatilidad.</p>"
-  },
-  {
-    "id": "noticia-1789462974266-844",
-    "category": "Mercados",
-    "title": "La Credibilidad de la FED en Juego: ¿Cómo Afectará una Inminente Subida de Tasas por Inflación y Políticas de Trump?",
-    "summary": "El presidente de la Reserva Federal (Fed), Warsh, enfrenta una semana decisiva donde su credibilidad está en juego ante la creciente presión para subir las tasas de interés. La decisión se ve impulsada por una inflación por encima del objetivo, la incertidumbre sobre los precios del petróleo y la inestabilidad generada por las políticas arancelarias de la administración Trump.",
-    "editorialComment": "La potencial subida de tasas por parte de la Fed tiene implicaciones directas para el costo del dinero y, por ende, para sus ahorros e inversiones. En un escenario de tasas cambiantes, comprender el impacto del interés compuesto es crucial para planificar su futuro financiero. Le invitamos a utilizar nuestra calculadora de interés compuesto para simular cómo estos cambios pueden afectar tanto a sus deudas como a la rentabilidad de su capital.",
-    "relatedTool": "tab-interes",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html",
-    "date": "15 de septiembre de 2026",
-    "timestamp": 1789462974276,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Esta semana marca un punto de inflexión para la Reserva Federal (Fed) y, en particular, para la credibilidad de su presidente, Warsh. El organismo monetario se encuentra bajo una intensa presión para considerar una subida de las tasas de interés, un desafío que ha puesto a prueba a sus predecesores en momentos críticos. La administración Trump y sus políticas económicas han añadido una capa extra de complejidad a la decisión, elevando las expectativas de acción por parte del banco central.</p><p>Los factores que impulsan esta urgencia son múltiples y significativos. La inflación se sitúa actualmente por encima del objetivo deseado por la Fed, lo que justifica una medida correctiva para evitar un recalentamiento de la economía. A esto se suma la falta de visibilidad en cuanto a una posible disminución de los precios del petróleo y la persistente inestabilidad generada por las políticas arancelarias de Trump. Estas condiciones crean un entorno de incertidumbre que demanda una respuesta firme de la autoridad monetaria.</p><p>La decisión de la Fed esta semana tendrá repercusiones profundas no solo para los mercados financieros, sino también para la economía en general. Una subida de tasas, si bien podría frenar la inflación, también tiene el potencial de desacelerar el crecimiento económico y afectar el costo del crédito para empresas y consumidores. La comunidad financiera global estará atenta a cada palabra y movimiento de Warsh, buscando señales sobre la dirección futura de la política monetaria estadounidense y su impacto en la estabilidad económica mundial.</p>"
   }
 ]
