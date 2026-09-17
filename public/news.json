@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1789673089721-552",
+    "category": "Bolsa de Valores",
+    "title": "Actualidad: Securitize jumps after regulators greenlight some tokenized U.S. stock trading en español",
+    "summary": "Resumen de mercados: Securitize jumps after regulators greenlight some tokenized U.S. stock trading. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
+    "editorialComment": "El mercado bursátil se ve fuertemente impulsado por empresas de alto rendimiento. A largo plazo, invertir de manera constante en el mercado bursátil permite ganarle a la inflación por medio del interés compuesto.",
+    "relatedTool": "tab-interes",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
+    "date": "17 de septiembre de 2026",
+    "timestamp": 1789673089731,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El evento sobre <strong>\"Securitize jumps after regulators greenlight some tokenized U.S. stock trading\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
+  },
+  {
+    "id": "noticia-1789673185988-371",
+    "category": "Criptomonedas",
+    "title": "Actualidad: I'm 62 With $1.5 Million in an IRA. Should I Convert $150,000 a Year to a Roth to Reduce Future RMDs? en español",
+    "summary": "Resumen de mercados: I'm 62 With $1.5 Million in an IRA. Should I Convert $150,000 a Year to a Roth to Reduce Future RMDs?. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
+    "editorialComment": "La volatilidad en criptomonedas demuestra la importancia de mantener un presupuesto equilibrado. No arriesgues más de tu 20% de ahorro sagrado definido en la regla 50/30/20. Planifica tus finanzas de forma segura.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/news/im-62-1-5-million-120000270.html",
+    "date": "17 de septiembre de 2026",
+    "timestamp": 1789673185988,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El evento sobre <strong>\"I'm 62 With $1.5 Million in an IRA. Should I Convert $150,000 a Year to a Roth to Reduce Future RMDs?\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
+  },
+  {
+    "id": "noticia-1789673197027-832",
+    "category": "Mercados",
+    "title": "Transformación en la Libreta AUH: Conoce el Nuevo Sistema Digital para Acreditar Salud y Educación",
+    "summary": "La Libreta AUH experimenta un cambio fundamental: los certificados de salud y escolaridad ahora serán validados directamente por Salud y Educación a través de un sistema seguro con ANSES. En caso de que la validación automática no sea exitosa, las familias conservarán la opción de presentar la documentación de forma presencial.",
+    "editorialComment": "Este cambio en la Libreta AUH, aunque busca simplificar la gestión para miles de familias, resalta la importancia de una buena organización financiera. Asegurarse de recibir correctamente estos beneficios es clave para el presupuesto familiar. Para llevar un control exhaustivo de todos tus ingresos y gastos, y planificar tu economía doméstica, te recomendamos utilizar nuestras plantillas de ahorro en Excel.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/sociedad/2026/09/17/cambia-la-libreta-auh-como-se-acreditaran-los-certificados-de-salud-y-escolaridad-a-partir-de-ahora/",
+    "date": "17 de septiembre de 2026",
+    "timestamp": 1789673197027,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El sistema de acreditación de la Libreta AUH (Asignación Universal por Hijo) se prepara para una transformación digital que promete simplificar un trámite anual crucial para millones de familias argentinas. A partir de ahora, la validación de los certificados de salud y escolaridad, requisito indispensable para el cobro del 20% retenido de la asignación, dejará de recaer exclusivamente en la presentación manual por parte de los beneficiarios. Este paso busca modernizar la gestión y reducir la carga burocrática, mejorando la eficiencia del proceso.</p><p>La principal novedad radica en que serán las propias carteras de Salud y Educación las encargadas de informar directamente a la Administración Nacional de la Seguridad Social (ANSES) sobre el cumplimiento de estos requisitos. Mediante un sistema seguro de intercambio de datos, se espera que la mayoría de las validaciones se realicen de forma automática. Sin embargo, en un ejercicio de previsión, el sistema contempla que, si por alguna razón no se logra validar la información de manera digital, las familias tendrán la posibilidad de presentar la documentación de forma presencial en las oficinas de ANSES, asegurando así que nadie quede excluido por fallas tecnológicas.</p><p>Esta digitalización tiene implicaciones directas para la economía familiar de los beneficiarios de la AUH, un programa fundamental para el desarrollo social y económico del país. Al agilizar el proceso y potencialmente reducir traslados y tiempos de espera, se libera tiempo y recursos que pueden ser destinados a otras necesidades. No obstante, es crucial que los beneficiarios estén atentos a las comunicaciones de ANSES y mantengan actualizada su información para evitar inconvenientes. Para Pulso Finanzas, este tipo de medidas recalca la importancia de la planificación y el control de los ingresos familiares, incluyendo los provenientes de programas sociales, como pilar para una gestión financiera sólida.</p>"
+  },
+  {
     "id": "noticia-1789660239237-215",
     "category": "Mercados",
     "title": "IA China Conquista Wall Street: ¿Cómo Kimi Transforma el Análisis Financiero?",
@@ -306,47 +348,5 @@
     "timestamp": 1789524885047,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>La startup china JoyIn, con el respaldo de Ant Group, ha irrumpido con fuerza en el escenario global de la robótica, desatando una controversia que pone en el punto de mira a OpenAI. La compañía ha lanzado un nuevo modelo de robótica, y su CEO ha publicado un artículo en mandarín donde no solo expone su propuesta, sino que también cuestiona la narrativa y las metodologías de 'destilación' de OpenAI. Este movimiento sugiere una competencia cada vez más intensa por la hegemonía en la inteligencia artificial y la robótica humanoide.</p><p>El corazón de la disputa radica en el concepto de 'destilación', un proceso técnico en IA donde un modelo más compacto aprende de uno más grande. Al parecer, JoyIn estaría invirtiendo esta lógica, o al menos cuestionando la originalidad de ciertas ideas atribuidas a OpenAI, lo que levanta importantes preguntas sobre la propiedad intelectual y las prácticas de desarrollo en la vanguardia tecnológica. Este tipo de confrontaciones no solo revelan tensiones entre gigantes, sino que también recalibran el entendimiento sobre quién lidera la innovación real en el sector.</p><p>Para los inversores y el mercado en general, esta pugna entre dos actores clave en la robótica y la IA es un indicador de una era de rápida innovación y potencial disrupción. La carrera por dominar la inteligencia artificial avanzada y la robótica humanoide tiene el poder de transformar industrias enteras, desde la manufactura hasta los servicios, y de crear nuevas oportunidades de inversión. Mantenerse informado sobre estas dinámicas será esencial para identificar las tendencias emergentes y las estrategias más prometedoras en el volátil panorama económico global.</p>"
-  },
-  {
-    "id": "noticia-1789524895496-611",
-    "category": "Mercados",
-    "title": "Las Continuas Advertencias de Elon Musk sobre la IA: ¿Cómo Impactan en la Inversión y el Futuro Económico?",
-    "summary": "Elon Musk ha reiterado que lleva tiempo 'dando la voz de alarma' sobre los riesgos potenciales de la inteligencia artificial. El magnate enfatiza que ha advertido consistentemente sobre estos peligros, incluso mientras sus propias empresas son actores clave en el desarrollo de la IA.",
-    "editorialComment": "Las recurrentes advertencias de Elon Musk sobre los desafíos y oportunidades que presenta la Inteligencia Artificial subrayan la necesidad de una estrategia financiera sólida y a largo plazo. En un entorno donde la tecnología redefine los mercados, la planificación de inversiones es crucial. Te animamos a usar nuestra calculadora de interés compuesto para simular el crecimiento de tus ahorros y adaptarte mejor a las futuras dinámicas económicas.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/markets/stocks/article/elon-musk-ive-been-sounding-the-alarm-on-ai-for-a-while-141818917.html",
-    "date": "16 de septiembre de 2026",
-    "timestamp": 1789524895496,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Elon Musk, el visionario detrás de empresas como Tesla y SpaceX, ha vuelto a posicionarse en el centro del debate sobre la Inteligencia Artificial (IA), afirmando haber estado \"dando la voz de alarma\" sobre sus riesgos desde hace tiempo. Sus declaraciones recientes refuerzan una postura que ha mantenido durante años, generando un contraste notable con su propia inversión masiva y desarrollo en el campo de la IA a través de proyectos como xAI.</p><p>Las advertencias de Musk no son nuevas; ha expresado repetidamente su preocupación por el potencial existencial de la IA, su impacto en el empleo y la necesidad de una regulación robusta antes de que la tecnología sea incontrolable. Esta dicotomía, donde es tanto un propulsor clave de la IA como uno de sus críticos más vocales, resalta la complejidad y las profundas implicaciones éticas y económicas que esta tecnología presenta para el futuro global.</p><p>Para los inversores y la economía general, las palabras de Musk tienen un peso considerable. Sus comentarios pueden influir en la percepción del riesgo tecnológico, el flujo de capital hacia nuevas empresas de IA y las discusiones sobre políticas regulatorias a nivel mundial. Monitorear de cerca estas dinámicas es fundamental para comprender cómo la IA no solo transformará industrias, sino también las estrategias de inversión y el panorama financiero en los próximos años.</p>"
-  },
-  {
-    "id": "noticia-1789524903741-287",
-    "category": "Mercados",
-    "title": "Presupuesto 2027: Dólar, Inflación y PBI bajo la lupa – ¿Qué espera el Gobierno vs. el Mercado?",
-    "summary": "El Presupuesto 2027 ha presentado sus estimaciones para el dólar, la inflación, el PBI y el superávit fiscal, mostrando claras diferencias con las proyecciones del mercado. La encuesta del Banco Central anticipa una menor expansión económica y una cotización más alta para la divisa estadounidense en comparación con las cifras oficiales.",
-    "editorialComment": "Las discrepancias entre las proyecciones oficiales y las del mercado respecto a la inflación y el PBI de 2027 subrayan la importancia de una gestión financiera proactiva. Para navegar este escenario de incertidumbre económica, nuestra plantilla de ahorro te permitirá planificar tus finanzas y ajustar tus presupuestos personales ante posibles fluctuaciones.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/09/15/dolar-inflacion-pbi-y-superavit-fiscal-que-numeros-preve-el-presupuesto-2027-y-que-contrastes-hay-con-las-proyecciones-del-mercado/",
-    "date": "16 de septiembre de 2026",
-    "timestamp": 1789524903741,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El Presupuesto 2027 ha revelado sus proyecciones macroeconómicas clave para el próximo año, abarcando variables críticas como el dólar, la inflación, el Producto Bruto Interno (PBI) y el superávit fiscal. Sin embargo, estas estimaciones oficiales presentan notables contrastes con las expectativas del mercado, recopiladas a través de la encuesta mensual del Banco Central. Esta divergencia pone de manifiesto la complejidad y la incertidumbre en la planificación económica a mediano plazo.</p><p>Uno de los puntos de mayor discrepancia radica en la expansión de la actividad económica y la cotización de la divisa estadounidense. Mientras que las cifras presupuestarias podrían apuntar a un escenario de crecimiento moderado, el consenso del mercado anticipa una menor expansión del PBI. Adicionalmente, los analistas privados proyectan una cotización del dólar significativamente más alta para 2027, lo que podría generar presiones inflacionarias adicionales y afectar la competitividad.</p><p>Estas diferencias entre las previsiones gubernamentales y las del mercado son cruciales para la toma de decisiones financieras, tanto a nivel corporativo como individual. Un dólar más alto y una menor expansión económica, según el mercado, impactarían directamente en los costos de importación, el poder adquisitivo y las oportunidades de inversión. Mantenerse informado sobre estas proyecciones cruzadas es fundamental para anticipar escenarios y ajustar estrategias económicas personales y empresariales.</p>"
-  },
-  {
-    "id": "noticia-1789511500381-432",
-    "category": "Mercados",
-    "title": "Alerta Económica: Inflación Vuelve a Superar Salarios y Comprime tu Poder Adquisitivo",
-    "summary": "Durante el mes de agosto, los precios al consumidor experimentaron un aumento del 3.4% anual en Estados Unidos. Sin embargo, el crecimiento salarial solo alcanzó el 3.1%, dejando a los ciudadanos con un menor poder de compra real.",
-    "editorialComment": "Esta disparidad entre el aumento de precios y salarios subraya la urgencia de una gestión financiera proactiva. Para proteger su economía familiar ante la inflación, es fundamental planificar y controlar sus gastos. Le invitamos a descargar nuestra plantilla de ahorro para optimizar su presupuesto y mantener sus finanzas bajo control.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
-    "date": "15 de septiembre de 2026",
-    "timestamp": 1789511500392,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>La economía estadounidense enfrenta nuevamente un desafío significativo, con la inflación superando el crecimiento salarial en agosto. Los datos recientes revelan que los precios al consumidor se incrementaron un 3.4% en el último año, mientras que los salarios solo crecieron un 3.1% en el mismo periodo. Esta brecha, aunque aparentemente pequeña, significa que el poder adquisitivo de los ciudadanos se está erosionando, ya que su ingreso nominal no cubre el aumento real del costo de vida.</p><p>Este escenario tiene un impacto directo y palpable en el bolsillo de millones de familias. Los hogares se ven obligados a destinar una mayor proporción de sus ingresos a bienes y servicios esenciales, como alimentos, vivienda y transporte, cuyos precios han escalado. La consecuencia inmediata es una compresión de los presupuestos personales, limitando la capacidad de ahorro y, en muchos casos, forzando a recurrir a deudas para mantener el nivel de vida.</p><p>La persistencia de esta tendencia inflación-salarios plantea interrogantes sobre la estabilidad económica a medio plazo. Si bien el mercado laboral se mantiene robusto, la disminución del poder de compra podría frenar el consumo y generar presiones adicionales sobre la política monetaria. Es crucial que los individuos adopten estrategias financieras para mitigar estos efectos, mientras que los formuladores de políticas buscan soluciones para restaurar el equilibrio entre el crecimiento de precios y el ingreso real.</p>"
   }
 ]
