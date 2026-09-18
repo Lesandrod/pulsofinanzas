@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1789768929065-533",
+    "category": "Mercados",
+    "title": "Subida de Tasas de la Fed: 5 Claves Indispensables para Entender su Impacto en tus Finanzas",
+    "summary": "La Reserva Federal ha concretado la esperada subida de sus tasas de interés de referencia este miércoles. Esta medida, anticipada por los mercados, tendrá repercusiones significativas en los costos de endeudamiento y la dinámica económica general.",
+    "editorialComment": "La reciente decisión de la Fed de aumentar las tasas de interés subraya la importancia de comprender cómo el valor del dinero afecta tu patrimonio. Es un momento clave para evaluar tus deudas y proyecciones de ahorro. Utiliza nuestra calculadora de interés compuesto para simular cómo estas nuevas tasas pueden influir en tus finanzas a largo plazo, ya sea en inversiones o créditos.",
+    "relatedTool": "tab-interes",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
+    "date": "18 de septiembre de 2026",
+    "timestamp": 1789768929079,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Los mercados financieros han reaccionado a la confirmación de la Reserva Federal (Fed) de una nueva subida en sus tasas de interés de referencia, un movimiento ampliamente anticipado que busca abordar los desafíos económicos actuales. Esta decisión, tomada tras la reunión de política monetaria del miércoles, marca un paso crucial en la estrategia del banco central para manejar la inflación y estabilizar la economía.</p><p>El incremento en las tasas de interés se implementa como una herramienta clave para contener las presiones inflacionarias que han afectado la economía. Al encarecer el costo del crédito, la Fed busca moderar el gasto y la inversión, esperando que esto contribuya a una desaceleración de la demanda y, consecuentemente, a una disminución de los precios. Esta estrategia tiene implicaciones directas para el sector bancario y las políticas de financiación de empresas.</p><p>Para los consumidores, la subida de tasas se traduce en un incremento en los costos de préstamos hipotecarios, créditos de consumo y tarjetas de crédito, haciendo que el endeudamiento sea más costoso. Por otro lado, los ahorradores podrían ver un aumento en la rentabilidad de algunos productos de ahorro. Esta medida reconfigura el panorama financiero, proyectando un impacto a medio y largo plazo sobre el crecimiento económico y la capacidad de compra de los ciudadanos.</p>"
+  },
+  {
+    "id": "noticia-1789768938656-266",
+    "category": "Bolsa de Valores",
+    "title": "Análisis clave: ¿Por qué las acciones de Brown-Forman se rezagan frente al Nasdaq?",
+    "summary": "Las acciones de Brown-Forman, la compañía detrás de Jack Daniel's, han mostrado un rendimiento inferior en comparación con el índice Nasdaq en los últimos períodos. Este rezago plantea interrogantes sobre los factores que impulsan la valoración de la empresa frente a las tendencias generales del mercado tecnológico.",
+    "editorialComment": "Entender el rendimiento de una acción individual frente a un índice es crucial para cualquier inversor. Aunque Brown-Forman muestre un rezago actual, el poder del interés compuesto es fundamental para la construcción de riqueza a largo plazo, independientemente de las fluctuaciones a corto plazo. Usa nuestra calculadora de interés compuesto para proyectar cómo tus inversiones pueden crecer con el tiempo, incluso con rendimientos variables.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/brown-forman-stock-underperforming-nasdaq-143102015.html",
+    "date": "18 de septiembre de 2026",
+    "timestamp": 1789768938656,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>La acción de Brown-Forman, conocida por ser el pilar detrás de marcas icónicas como Jack Daniel's, ha captado la atención del mercado al registrar un rendimiento inferior en comparación con el índice Nasdaq. Este fenómeno no solo subraya la volatilidad inherente al mercado de valores, sino que también invita a los inversores a examinar más de cerca los factores microeconómicos y macroeconómicos que pueden estar afectando a esta gigante del sector de bebidas alcohólicas.</p><p>El rezago de Brown-Forman frente a un índice predominantemente tecnológico como el Nasdaq podría atribuirse a diversas razones. Mientras que el Nasdaq se ha visto impulsado por un auge en las empresas de tecnología y crecimiento, las acciones de valor o las del sector de consumo, como Brown-Forman, a veces pueden quedar a la zaga en períodos de fuerte apetito por el riesgo tecnológico. Factores como la evolución del consumo, los costos de producción o las estrategias de marketing también juegan un papel crucial en su valoración.</p><p>Para los inversores, este caso resalta la importancia de una estrategia de inversión diversificada y la necesidad de analizar el rendimiento individual de las empresas más allá de las tendencias generales del mercado. Comprender por qué ciertas acciones se comportan de manera diferente a los índices de referencia permite tomar decisiones más informadas y ajustar las carteras para objetivos a largo plazo, siempre considerando el balance entre riesgo y retorno esperado.</p>"
+  },
+  {
+    "id": "noticia-1789768948434-765",
+    "category": "Mercados",
+    "title": "Alivio Financiero: Banco Nación Mejora Condiciones para Refinanciar Deudas Atrasadas ante Mora Récord. ¿Cómo Acceder?",
+    "summary": "El Banco Nación ha implementado nuevas condiciones para facilitar la refinanciación de deudas atrasadas, buscando aliviar la situación de sus clientes más comprometidos. Esta medida se toma en un contexto de mora récord y sigue la tendencia de otros bancos que también han ajustado sus políticas.",
+    "editorialComment": "Ante la posibilidad de reestructurar tus deudas, es crucial comprender cómo los nuevos términos y tasas de interés afectarán tu planificación financiera. Nuestra calculadora de interés compuesto puede ser una herramienta invaluable para simular diferentes escenarios de pago y evaluar el verdadero costo de tu refinanciación, ayudándote a tomar decisiones informadas sobre tu futuro económico.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/09/18/el-banco-nacion-mejoro-las-condiciones-para-refinanciar-deudas-atrasadas-ante-la-mora-record-quienes-pueden-acceder/",
+    "date": "18 de septiembre de 2026",
+    "timestamp": 1789768948434,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El Banco Nación ha tomado la delantera en la búsqueda de soluciones para la creciente problemática de la mora crediticia, anunciando una mejora significativa en las condiciones para la refinanciación de deudas atrasadas. Esta iniciativa está específicamente diseñada para clientes con atrasos más comprometidos, ofreciéndoles una vía para regularizar sus pasivos y, crucialmente, recuperar el acceso al sistema financiero. La medida surge en un contexto donde los índices de morosidad alcanzan niveles récord, evidenciando una dificultad generalizada de pago entre particulares y empresas.</p><p>La importancia de esta decisión radica en el potencial alivio financiero que representa para miles de argentinos. Al facilitar la refinanciación, la entidad busca no solo sanear su propia cartera, sino también brindar un respiro a aquellos que se encuentran en una espiral de endeudamiento. Para los beneficiarios, esto podría significar tasas de interés más bajas, plazos de pago más extensos o incluso períodos de gracia, permitiéndoles reestructurar sus obligaciones de una manera más sostenible y evitar el deterioro de su historial crediticio.</p><p>Este movimiento del Banco Nación no es un hecho aislado; el resumen sugiere que otros bancos también han comenzado a ajustar sus propias políticas de refinanciación en las últimas semanas. Esta tendencia subraya la preocupación generalizada en el sector financiero por la salud de la cartera crediticia y el impacto de la desaceleración económica. La capacidad de los bancos para ofrecer soluciones flexibles es vital para prevenir un endurecimiento aún mayor del crédito y para sostener la estabilidad económica general, brindando una oportunidad para que los deudores recuperen su solvencia.</p>"
+  },
+  {
     "id": "noticia-1789757031166-845",
     "category": "Mercados",
     "title": "Kevin Warsh y la Fed: ¿Cómo las próximas alzas de tasas afectarán tus inversiones?",
@@ -306,47 +348,5 @@
     "timestamp": 1789635615358,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>Los últimos datos económicos de China revelan un panorama mixto con señales de alarma. En agosto, las ventas minoristas crecieron a un ritmo más lento de lo esperado, mientras que la inversión en activos fijos profundizó su caída, ejerciendo una presión considerable sobre las autoridades de Pekín para implementar medidas de estímulo más contundentes. Estos indicadores sugieren una debilidad persistente en la demanda interna del gigante asiático, crucial para su recuperación económica post-pandemia.</p><p>Aunque la producción industrial sorprendió positivamente superando las estimaciones, este crecimiento contrasta con la fragilidad del consumo y la inversión. La divergencia entre una oferta robusta y una demanda interna titubeante plantea un serio desafío para la segunda economía mundial, evidenciando un desequilibrio que podría frenar su recuperación sostenida. El gobierno chino ya ha advertido sobre esta disparidad, lo que indica un reconocimiento de la complejidad del escenario actual.</p><p>La evolución de la economía china es crucial para los mercados globales, ya que cualquier desaceleración significativa en el consumo o la inversión en el país asiático puede tener repercusiones en las cadenas de suministro y la demanda de materias primas a nivel mundial. La presión sobre Pekín para estabilizar su economía se intensifica, y las próximas decisiones políticas, posiblemente incluyendo más estímulos, serán clave para determinar la trayectoria económica no solo de China, sino de gran parte del mundo.</p>"
-  },
-  {
-    "id": "noticia-1789635628221-250",
-    "category": "Criptomonedas",
-    "title": "Actualidad: Will the housing market crash this year? en español",
-    "summary": "Resumen de mercados: Will the housing market crash this year?. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
-    "editorialComment": "La volatilidad en criptomonedas demuestra la importancia de mantener un presupuesto equilibrado. No arriesgues más de tu 20% de ahorro sagrado definido en la regla 50/30/20. Planifica tus finanzas de forma segura.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-this-year-170038540.html",
-    "date": "17 de septiembre de 2026",
-    "timestamp": 1789635628221,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El evento sobre <strong>\"Will the housing market crash this year?\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
-  },
-  {
-    "id": "noticia-1789635636503-999",
-    "category": "Mercados",
-    "title": "Giro Económico en Argentina: De Bonanza Exportadora a Presión por Deuda y Tasas Globales",
-    "summary": "Argentina experimentó un récord exportador y fuertes compras del BCRA gracias a la suba de materias primas. Sin embargo, el encarecimiento del petróleo ha disparado la inflación y forzado alzas de tasas en EE.UU., impactando negativamente la deuda argentina y el riesgo país.",
-    "editorialComment": "Esta coyuntura subraya la importancia de entender cómo los movimientos en las tasas de interés internacionales pueden afectar la valuación de la deuda y, por ende, el riesgo país. Nuestra calculadora de interés compuesto es ideal para proyectar el costo de financiación o el rendimiento de inversiones en escenarios de tasas variables, ofreciendo claridad en tiempos de incertidumbre económica.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/09/17/todo-el-ano-hubo-viento-de-cola-para-la-argentina-pero-ahora-empezo-a-soplar-tambien-de-frente/",
-    "date": "17 de septiembre de 2026",
-    "timestamp": 1789635636504,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>La economía argentina disfrutó de un período favorable gracias al incremento global de los precios de las materias primas. Este \"viento de cola\" impulsó un récord en las exportaciones agrícolas, fortaleciendo las reservas del Banco Central de la República Argentina (BCRA) y generando una inyección de divisas que alivió parcialmente las presiones cambiarias y fiscales a lo largo del año.</p><p>No obstante, el panorama global ha experimentado un giro significativo. El notorio aumento del precio del petróleo, sumado a presiones inflacionarias a nivel internacional, ha obligado a la Reserva Federal de Estados Unidos a implementar subas en las tasas de interés. Este ajuste monetario en la mayor economía del mundo tiene repercusiones directas sobre los mercados emergentes.</p><p>Para Argentina, este cambio se traduce en un incremento en el costo del endeudamiento externo y una mayor aversión al riesgo por parte de los inversores, lo que presiona al alza el riesgo país. El escenario actual presenta un desafío complejo para la estabilidad macroeconómica, donde la necesidad de equilibrar las cuentas internas se ve agravada por condiciones financieras globales menos propicias y un entorno inflacionario persistente.</p>"
-  },
-  {
-    "id": "noticia-1789611544205-61",
-    "category": "Bolsa de Valores",
-    "title": "Actualidad: Fed approves interest rate hike, signals one more to come this year en español",
-    "summary": "Resumen de mercados: Fed approves interest rate hike, signals one more to come this year. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
-    "editorialComment": "El mercado bursátil se ve fuertemente impulsado por empresas de alto rendimiento. A largo plazo, invertir de manera constante en el mercado bursátil permite ganarle a la inflación por medio del interés compuesto.",
-    "relatedTool": "tab-interes",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
-    "date": "17 de septiembre de 2026",
-    "timestamp": 1789611544217,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El evento sobre <strong>\"Fed approves interest rate hike, signals one more to come this year\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
   }
 ]
