@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1790995807128-221",
+    "category": "Mercados",
+    "title": "La Orquestación de Agentes: La Habilidad de IA que Wall Street Demanda y Redefine Empleos Financieros",
+    "summary": "Los bancos en Wall Street están impulsando una fuerte ola de contrataciones de ingenieros de IA. Buscan expertos en 'orquestación de agentes', una habilidad crucial para coordinar equipos de IA especializados que ha disparado su demanda.",
+    "editorialComment": "La evolución del mercado laboral financiero con la IA subraya la importancia de la planificación personal y la adaptabilidad. Ante estos cambios, contar con herramientas que permitan una gestión financiera sólida es crucial para adaptarse y prosperar, ya sea para reorientar tu carrera o invertir en nuevas habilidades que aseguren tu futuro financiero.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+    "date": "3 de octubre de 2026",
+    "timestamp": 1790995807140,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Wall Street está experimentando una profunda transformación impulsada por la Inteligencia Artificial, redefiniendo las habilidades más valoradas en el sector financiero. En este contexto, la demanda de ingenieros de IA con una capacidad específica ha escalado un impresionante 1,721%, marcando un punto de inflexión en las estrategias de contratación de los grandes bancos y evidenciando un cambio tectónico en las prioridades laborales.</p><p>La clave de esta explosión reside en la 'orquestación de agentes', una habilidad que permite coordinar equipos de sistemas de IA especializados para ejecutar tareas complejas de manera autónoma y eficiente. Esta capacidad es fundamental para optimizar procesos, analizar grandes volúmenes de datos y desarrollar soluciones innovadoras, desde la gestión de riesgos y el cumplimiento normativo hasta la personalización de servicios financieros para clientes de alto perfil.</p><p>Esta nueva exigencia laboral no solo subraya el papel creciente de la IA en la columna vertebral de las finanzas, sino que también proyecta un futuro donde la interacción humana con la tecnología será cada vez más sofisticada. Para los profesionales, representa una clara señal sobre las competencias necesarias para mantenerse relevantes y competitivos en un mercado que valora la capacidad de integrar y gestionar soluciones de inteligencia artificial avanzada, anticipando nuevas oportunidades y desafíos.</p>"
+  },
+  {
+    "id": "noticia-1790995820174-781",
+    "category": "Mercados",
+    "title": "Intel impulsa desafío de $100 millones a Nvidia en redes de IA: ¿Qué significa para AMD y tus inversiones?",
+    "summary": "Pat Gelsinger, CEO de Intel, ha respaldado un desafío de 100 millones de dólares para romper el monopolio de Nvidia en la infraestructura de redes de IA. Esta iniciativa busca promover alternativas abiertas que podrían reconfigurar el mercado y beneficiar a competidores como AMD.",
+    "editorialComment": "Este tipo de movimientos estratégicos en el mercado tecnológico resalta la importancia de una visión a largo plazo en tus inversiones. Comprender cómo las dinámicas competitivas pueden influir en el crecimiento de ciertas empresas es clave para maximizar tus rendimientos. Te invitamos a utilizar nuestra calculadora de interés compuesto para proyectar el potencial de tus inversiones en el tiempo, considerando las oportunidades que surgen de estos cambios en la industria.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
+    "date": "3 de octubre de 2026",
+    "timestamp": 1790995820174,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Pat Gelsinger, CEO de Intel, ha encendido la chispa de una potencial revolución en la infraestructura de redes de inteligencia artificial al respaldar con 100 millones de dólares a Enfabrica, una startup dedicada a desafiar el dominio de Nvidia. Actualmente, Nvidia goza de un \"foso\" casi impenetrable gracias a su tecnología de red InfiniBand, la cual conecta sus GPU de IA en clústeres masivos. Este ecosistema propietario no solo le otorga un poder de fijación de precios significativo, sino que también crea una barrera de entrada para otros actores del mercado.</p><p>La iniciativa liderada por Enfabrica busca desarrollar una alternativa abierta y eficiente que pueda competir directamente con la solución de Nvidia. Un éxito en este frente podría reconfigurar drásticamente el panorama competitivo, abriendo nuevas oportunidades para empresas que actualmente luchan por integrar sus soluciones de hardware de IA en un ecosistema dominado por un único proveedor. Aquí es donde AMD emerge como un potencial gran beneficiario, ya que, si bien sus GPU MI300X son competitivas, carece de una solución de red comparable a InfiniBand, limitando su capacidad para desafiar plenamente el liderazgo de Nvidia.</p><p>Desde una perspectiva económica general, este movimiento representa un impulso hacia una mayor competencia y, potencialmente, una reducción de costos en la infraestructura de IA, lo que podría acelerar la innovación y la adopción de tecnologías de IA en diversos sectores. Para los inversores, este desafío estratégico subraya la volatilidad y las oportunidades que existen en el sector tecnológico. La posibilidad de un mercado de redes de IA más abierto y competitivo no solo podría beneficiar a AMD, sino también incentivar a otros desarrolladores de hardware y software a innovar, democratizando el acceso a la infraestructura crítica para el futuro de la inteligencia artificial.</p>"
+  },
+  {
+    "id": "noticia-1790995830114-701",
+    "category": "Mercados",
+    "title": "La Credibilidad Fiscal de Milei Según Alberto Ades: Claves para Entender el Futuro Económico de Argentina",
+    "summary": "El economista Alberto Ades resaltó el \"compromiso mesiánico con el equilibrio fiscal\" del presidente Javier Milei, otorgándole una considerable credibilidad en los mercados. Sin embargo, advirtió sobre la compleja situación que Argentina enfrentará en 2027, marcada por una \"pared de vencimientos\" y gran incertidumbre política.",
+    "editorialComment": "La visión de Alberto Ades sobre la economía argentina subraya la importancia de la planificación financiera ante escenarios de incertidumbre futura. En Pulso Finanzas, entendemos que anticiparse es clave para proteger tu capital. Te invitamos a utilizar nuestra plantilla de ahorro para gestionar tus finanzas y prepararte para cualquier eventualidad económica.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/10/02/el-economista-alberto-ades-destaco-el-compromiso-mesianico-con-el-equilibrio-fiscal-de-javier-milei-le-da-mucha-credibilidad/",
+    "date": "3 de octubre de 2026",
+    "timestamp": 1790995830115,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El reconocido economista Alberto Ades, formado en Harvard, ha puesto en relieve la singularidad del enfoque fiscal del actual gobierno argentino. En una reciente charla en la Facultad de Ciencias Económicas de la UBA, Ades destacó lo que describió como el 'compromiso mesiánico con el equilibrio fiscal' del presidente Javier Milei. Esta postura, según el especialista, es un factor crucial que 'le da mucha credibilidad' al país ante los ojos de los inversores y organismos internacionales, consolidando una percepción de responsabilidad en el manejo de las cuentas públicas.</p><p>La percepción de credibilidad fiscal es un activo invaluable en los mercados globales, y la observación de Ades sugiere que Argentina está capitalizando esta imagen. Un compromiso férreo con la disciplina presupuestaria puede traducirse en una mayor confianza para atraer inversiones y facilitar el acceso a financiación. Esto es fundamental para un país con un historial de inestabilidad económica, ya que sienta las bases para una recuperación y crecimiento sostenibles a largo plazo, siempre y cuando se mantenga la coherencia en la política económica.</p><p>No obstante, Ades no solo ofreció un panorama optimista. El economista también lanzó una advertencia clara sobre los desafíos futuros, señalando que en el año 2027 Argentina se enfrentará a una 'pared de vencimientos y mucha incertidumbre política'. Este escenario plantea la necesidad de una estrategia fiscal que no solo busque el equilibrio a corto plazo, sino que también prepare al país para afrontar sus obligaciones de deuda y las posibles turbulencias políticas que puedan surgir, asegurando la sostenibilidad de los logros fiscales actuales más allá del presente mandato.</p>"
+  },
+  {
     "id": "noticia-1790983460890-666",
     "category": "Mercados",
     "title": "Impulsa tu carrera financiera: La habilidad de IA que los bancos demandan con urgencia",
@@ -306,47 +348,5 @@
     "timestamp": 1790823645870,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>Los mercados de predicción están señalando una sorpresa positiva en el informe de empleo de septiembre para Estados Unidos. Contrario a las estimaciones de muchos economistas, los traders anticipan que la economía estadounidense añadió un número de puestos de trabajo superior al consenso, lo que sugiere una robustez persistente en el mercado laboral. Esta expectativa refleja una apuesta por otro mes de crecimiento significativo, desafiando las proyecciones más conservadoras.</p><p>Un crecimiento del empleo más fuerte de lo esperado es un indicador clave de la salud económica general. Podría interpretarse como una señal de mayor demanda de los consumidores y un sólido desempeño empresarial. Sin embargo, también podría avivar preocupaciones sobre presiones inflacionarias y las futuras decisiones de política monetaria de la Reserva Federal, que busca equilibrar el empleo y la estabilidad de precios.</p><p>Para inversores y ciudadanos por igual, este pronóstico del mercado de predicción ofrece una ventana a las expectativas sobre la resiliencia económica. Si la predicción se materializa, podría reforzar la confianza en la economía de EE. UU. a corto plazo, pero también podría generar volatilidad en los mercados financieros a medida que los participantes ajustan sus proyecciones sobre tasas de interés y crecimiento futuro. Es crucial seguir de cerca el informe oficial cuando sea publicado.</p>"
-  },
-  {
-    "id": "noticia-1790823647892-701",
-    "category": "Criptomonedas",
-    "title": "Actualidad: Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business? en español",
-    "summary": "Resumen de mercados: Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
-    "editorialComment": "La volatilidad en criptomonedas demuestra la importancia de mantener un presupuesto equilibrado. No arriesgues más de tu 20% de ahorro sagrado definido en la regla 50/30/20. Planifica tus finanzas de forma segura.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html",
-    "date": "1 de octubre de 2026",
-    "timestamp": 1790823647892,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El evento sobre <strong>\"Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
-  },
-  {
-    "id": "noticia-1790823661079-44",
-    "category": "Mercados",
-    "title": "Argentina Week en París: Claves de Inversión y Estrategia Económica para Entender el Futuro del País",
-    "summary": "La Argentina Week en París inició su ciclo de dos días con un evento de lanzamiento en la embajada, reuniendo a figuras clave del \"círculo rojo\" y la política. El ministro de economía francés participó en la velada, mientras que el presidente Javier Milei y su hermana Karina estuvieron ausentes con aviso.",
-    "editorialComment": "Este tipo de eventos internacionales son cruciales para entender las perspectivas de inversión y el futuro económico de un país. Analizar las implicancias de estas reuniones nos permite proyectar posibles escenarios de crecimiento. ¿Le interesa ver cómo el interés compuesto puede potenciar sus propias inversiones a largo plazo, simulando el efecto del crecimiento económico sostenido?",
-    "relatedTool": "tab-interes",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/10/01/argentina-week-arranco-en-paris-con-el-circulo-rojo-a-full-chicanas-futboleras-y-la-politica-que-nunca-deja-de-ser-protagonista/",
-    "date": "1 de octubre de 2026",
-    "timestamp": 1790823661080,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>La 'Argentina Week' en París dio inicio a su agenda de dos días con un cóctel de lanzamiento en la embajada argentina, congregando a una selecta representación del \"círculo rojo\" empresarial y político. La presencia del ministro de Economía y Finanzas de Francia subraya la relevancia bilateral del encuentro, enfocado en estrechar lazos económicos y explorar nuevas vías de cooperación. Si bien el evento contó con figuras destacadas, la ausencia del presidente Javier Milei y su hermana Karina fue registrada con aviso, un detalle que no pasó desapercibido en el marco de las expectativas generadas.</p><p>El objetivo principal de la 'Argentina Week' es proyectar una imagen de estabilidad y oportunidades de inversión para Argentina en el escenario europeo. Las discusiones tras bambalinas y los encuentros formales buscan atraer capital extranjero y consolidar lazos comerciales, aspectos vitales para la recuperación económica del país. Aunque el tono formal prevalece, estos eventos suelen ser plataformas para el intercambio de perspectivas políticas y económicas que, a menudo, influyen en la percepción de los inversores sobre el riesgo y el potencial de retorno.</p><p>La repercusión de este tipo de cumbres internacionales es considerable para los mercados. Una 'Argentina Week' exitosa en la capital francesa puede mejorar la confianza de los inversores, abrir puertas a nuevos acuerdos comerciales y facilitar el acceso a financiamiento. Para Pulso Finanzas, es clave seguir de cerca estos desarrollos, ya que la imagen que proyecta Argentina en el exterior tiene un impacto directo en sus bonos, su moneda y, en última instancia, en el bolsillo de sus ciudadanos a través de la estabilidad económica y la generación de empleo.</p>"
-  },
-  {
-    "id": "noticia-1790810327270-859",
-    "category": "Mercados",
-    "title": "Kashkari de la Fed advierte: Inflación 'demasiado alta' pese a datos PCE más suaves y su impacto en tu economía",
-    "summary": "El presidente de la Fed de Minneapolis, Neel Kashkari, afirmó que la inflación sigue siendo 'demasiado alta', incluso después de que los datos del PCE fueran más suaves de lo esperado. Sin embargo, describió el mercado laboral como 'bastante bueno'.",
-    "editorialComment": "Las declaraciones de Kashkari subrayan la persistencia de la inflación, un factor clave que erosiona el poder adquisitivo de tu dinero. Ante este panorama, es más importante que nunca tener un control estricto de tus finanzas personales y optimizar tus ahorros. Te recomendamos utilizar nuestra plantilla de ahorro para gestionar eficazmente tu presupuesto y protegerte contra la subida de precios.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
-    "date": "30 de septiembre de 2026",
-    "timestamp": 1790810327280,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El presidente de la Reserva Federal de Minneapolis, Neel Kashkari, ha reiterado que la inflación \"sigue siendo demasiado alta\", a pesar de que los recientes datos del Índice de Precios de Gastos de Consumo Personal (PCE) resultaron más suaves de lo esperado. Esta declaración, realizada durante una conversación exclusiva con Steve Liesman de CNBC, subraya la cautela persistente dentro del banco central sobre la trayectoria de los precios. Aunque un PCE más bajo podría sugerir una desaceleración, la Fed mantiene una vigilancia estricta.</p><p>Kashkari también hizo hincapié en la robustez del mercado laboral, describiéndolo como \"bastante bueno\". Este comentario es crucial, ya que un mercado de trabajo fuerte a menudo se asocia con presiones inflacionarias. La combinación de una inflación persistente y un mercado laboral sólido sugiere que la Fed podría mantener una postura monetaria restrictiva por más tiempo, buscando asegurar que la inflación regrese de manera sostenible a su objetivo del 2%.</p><p>Las implicaciones de estas declaraciones son significativas para los mercados y para la economía en general. Para los inversores, la advertencia de Kashkari podría reforzar la expectativa de que no habrá recortes de tasas inminentes, o que cualquier relajación monetaria será gradual. Para los consumidores, la persistencia de una inflación elevada implica que el costo de vida seguirá siendo una preocupación primordial, haciendo que la planificación financiera y la gestión del presupuesto sean más esenciales que nunca.</p>"
   }
 ]
