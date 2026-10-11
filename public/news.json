@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1791714293447-505",
+    "category": "Mercados",
+    "title": "Precios de la Gasolina: ¿Por qué los mercados anticipan que seguirán por encima de los $4 hasta las Elecciones?",
+    "summary": "Los mercados de predicción anticipan que los precios de la gasolina se mantendrán por encima de los $4 por galón hasta el 3 de noviembre. Esta situación, según traders de Kalshi, sugiere poca esperanza de alivio para los consumidores antes del Día de las Elecciones.",
+    "editorialComment": "La persistencia de los altos precios de la gasolina ejerce una presión considerable sobre los presupuestos familiares. Para afrontar este escenario inflacionario y optimizar tus gastos, es crucial contar con una planificación financiera sólida. Te invitamos a descargar nuestras plantillas de ahorro en Excel, una herramienta esencial para monitorear tus finanzas y tomar decisiones informadas frente a la volatilidad del mercado.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html",
+    "date": "11 de octubre de 2026",
+    "timestamp": 1791714293460,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Los mercados de predicción, una herramienta emergente para anticipar eventos futuros, están señalando un panorama poco alentador para los conductores. Según las previsiones de traders en la plataforma Kalshi, los precios de la gasolina en Estados Unidos se mantendrían por encima de los $4 por galón hasta el 3 de noviembre, justo antes del Día de las Elecciones. Esta expectativa sugiere que los consumidores no experimentarán un respiro significativo en los costos de combustible en el corto plazo.</p><p>La persistencia de los precios altos de la gasolina tiene implicaciones directas y profundas para la economía doméstica y el clima político. Un combustible caro aumenta los costos de transporte y logística para las empresas, lo que a menudo se traduce en precios más elevados para bienes y servicios. Para los hogares, representa una reducción del poder adquisitivo y una presión adicional sobre los presupuestos, factores que históricamente han influido en la percepción pública y el comportamiento electoral.</p><p>Este pronóstico de los mercados de predicción subraya la importancia de la planificación financiera personal en un entorno económico volátil. Ante la expectativa de un gasto elevado en combustible, es prudente que individuos y familias revisen sus presupuestos y busquen estrategias para mitigar el impacto. Mantenerse informado sobre las tendencias del mercado y ajustar los hábitos de consumo se vuelve crucial para navegar estos desafíos económicos con mayor resiliencia.</p>"
+  },
+  {
+    "id": "noticia-1791714303357-213",
+    "category": "Mercados",
+    "title": "Dólar Bajo en Argentina: ¿Oportunidad o Riesgo? Lo que la Decisión de Milei Significa para Tu Economía",
+    "summary": "El Gabinete de Milei debatió intensamente sobre el tipo de cambio, con advertencias de Ades sobre un atraso del 30%, mientras el Gobierno descarta una devaluación inminente. Esta discusión se da en un contexto de perspectivas de mejora económica hacia fin de año, ofreciendo un respiro político antes del ciclo electoral.",
+    "editorialComment": "La discusión sobre el tipo de cambio y la dirección económica del país tiene un impacto directo en tu poder adquisitivo y la planificación de tus finanzas personales. Para asegurar que tus ahorros crezcan y puedas afrontar los vaivenes económicos, es fundamental una gestión inteligente de tus ingresos y gastos. Te invitamos a utilizar nuestras plantillas de ahorro de Pulso Finanzas, herramientas esenciales para optimizar tu presupuesto y tomar decisiones financieras informadas.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/10/11/milei-llevo-al-gabinete-el-debate-sobre-el-tipo-de-cambio-puede-crecer-argentina-con-un-dolar-bajo/",
+    "date": "11 de octubre de 2026",
+    "timestamp": 1791714303357,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El debate sobre el tipo de cambio ha escalado hasta el corazón del Gabinete de Javier Milei, evidenciando una profunda discusión interna sobre la estrategia económica. Mientras el economista Ades alertó sobre un preocupante atraso del dólar, estimado en casi un 30%, el Gobierno se mantiene firme en su postura de descartar una devaluación como medida correctiva. Esta decisión estratégica busca estabilizar la economía sin recurrir a shocks que puedan avivar la inflación, una prioridad clave para la administración actual.</p><p>La apuesta oficialista se centra en la premisa de que un dólar contenido, combinado con otras políticas de ajuste, puede sentar las bases para un crecimiento sostenible. Las proyecciones internas indican que la economía argentina podría presentar datos significativamente mejores hacia fin de año, lo que no solo mejoraría las expectativas generales, sino que también le otorgaría un valioso margen de maniobra político al oficialismo de cara al próximo año electoral. La pregunta en el aire es si la temida “recesión técnica” finalmente se abortó antes de consolidarse, abriendo paso a una recuperación inesperada.</p><p>Sin embargo, la estrategia del “dólar bajo” no está exenta de desafíos y críticas. Si bien puede ayudar a moderar la inflación y abaratar importaciones, plantea interrogantes sobre la competitividad de las exportaciones y el necesario reequilibrio de la balanza comercial. Para los inversores y ciudadanos, entender esta dinámica es crucial, ya que impacta directamente en el costo de vida, el valor de los ahorros y las oportunidades de inversión en el país. El desenlace de este debate definirá gran parte del rumbo económico argentino en los próximos meses.</p>"
+  },
+  {
+    "id": "noticia-1791714311840-9",
+    "category": "Bolsa de Valores",
+    "title": "Directora de Everpure vende casi $400K en acciones: ¿Qué implica para los inversores?",
+    "summary": "Amy Welling, directora de contabilidad de Everpure, ha ejecutado la venta de acciones de la compañía por un valor cercano a los 399.850 dólares. Esta significativa transacción interna genera atención entre los inversores y analistas del mercado.",
+    "editorialComment": "Este tipo de operaciones de \"insider trading\", aunque transparentes, ofrecen una ventana a las decisiones de los directivos y pueden influir en la percepción de los inversores. Para quienes buscan construir riqueza a largo plazo y entender cómo sus ahorros pueden capitalizarse, nuestra calculadora de interés compuesto es una herramienta clave. Permite visualizar el crecimiento potencial de sus inversiones y la importancia de la paciencia financiera en mercados dinámicos.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Investing.com",
+    "sourceUrl": "https://es.investing.com/news/insider-trading-news/la-directora-de-contabilidad-de-everpure-vende-acciones-por-399850-dolares-93CH-3868836",
+    "date": "11 de octubre de 2026",
+    "timestamp": 1791714311840,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Amy Welling, la actual directora de contabilidad de Everpure, ha captado la atención del mercado al vender un paquete de acciones de la empresa valorado en 399.850 dólares. Esta transacción, revelada a través de los informes de \"insider trading\", es un evento que los analistas y los inversores suelen seguir de cerca, ya que ofrece una perspectiva sobre la confianza de los ejecutivos en el futuro de su propia compañía.</p><p>Las ventas de acciones por parte de directivos, aunque son completamente legales y deben ser declaradas públicamente, son a menudo objeto de especulación. Mientras que una venta puede simplemente responder a necesidades personales de liquidez o a estrategias de diversificación de cartera, también puede interpretarse como una señal sobre las expectativas internas de crecimiento o rentabilidad de la empresa. En el caso de Everpure, el tamaño de la venta por parte de una figura clave como la directora de contabilidad, quien tiene un conocimiento profundo de las finanzas de la empresa, añade una capa adicional de interés.</p><p>Para el mercado general, este tipo de movimientos subraya la importancia de analizar no solo los resultados financieros de una empresa, sino también las acciones de sus directivos. Los inversores deben considerar estos datos como parte de un análisis más amplio, sopesando si la venta podría reflejar una visión interna o si es simplemente una transacción rutinaria. Monitorear las operaciones de \"insider trading\" es una práctica común para aquellos que buscan tomar decisiones de inversión informadas en un panorama económico cada vez más complejo.</p>"
+  },
+  {
     "id": "noticia-1791686839068-618",
     "category": "Mercados",
     "title": "Mercado Inmobiliario de China: S&P Pronostica Recuperación Clave para el Próximo Año",
@@ -306,47 +348,5 @@
     "timestamp": 1791543609923,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>El evento sobre <strong>\"Huawei doubles down on smartphones as EV sales slow\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
-  },
-  {
-    "id": "noticia-1791543613132-110",
-    "category": "Mercados",
-    "title": "Actualidad: Torinos épicos, el primer Jeep IKA, el Rolls-Royce del “dueño” del Titanic y otras joyas en un evento clásico de los autos históricos en español",
-    "summary": "Resumen de mercados: Torinos épicos, el primer Jeep IKA, el Rolls-Royce del “dueño” del Titanic y otras joyas en un evento clásico de los autos históricos. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
-    "editorialComment": "El mercado bursátil se ve fuertemente impulsado por empresas de alto rendimiento. A largo plazo, invertir de manera constante en el mercado bursátil permite ganarle a la inflación por medio del interés compuesto.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/10/09/torinos-epicos-el-primer-jeep-ika-el-rolls-royce-del-dueno-del-titanic-y-otras-joyas-en-un-evento-clasico-de-los-autos-historicos/",
-    "date": "9 de octubre de 2026",
-    "timestamp": 1791543613132,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El evento sobre <strong>\"Torinos épicos, el primer Jeep IKA, el Rolls-Royce del “dueño” del Titanic y otras joyas en un evento clásico de los autos históricos\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
-  },
-  {
-    "id": "noticia-1791543631120-527",
-    "category": "Mercados",
-    "title": "Actualidad: ¿Por qué cae hoy la acción de Semtech? en español",
-    "summary": "Resumen de mercados: ¿Por qué cae hoy la acción de Semtech?. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
-    "editorialComment": "El mercado bursátil se ve fuertemente impulsado por empresas de alto rendimiento. A largo plazo, invertir de manera constante en el mercado bursátil permite ganarle a la inflación por medio del interés compuesto.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Investing.com",
-    "sourceUrl": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-semtech-93CH-3867797",
-    "date": "9 de octubre de 2026",
-    "timestamp": 1791543631120,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El evento sobre <strong>\"¿Por qué cae hoy la acción de Semtech?\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
-  },
-  {
-    "id": "noticia-1791504188898-594",
-    "category": "Bolsa de Valores",
-    "title": "Actualidad: Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says en español",
-    "summary": "Resumen de mercados: Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
-    "editorialComment": "El mercado bursátil se ve fuertemente impulsado por empresas de alto rendimiento. A largo plazo, invertir de manera constante en el mercado bursátil permite ganarle a la inflación por medio del interés compuesto.",
-    "relatedTool": "tab-interes",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-    "date": "9 de octubre de 2026",
-    "timestamp": 1791504188912,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El evento sobre <strong>\"Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
   }
 ]
