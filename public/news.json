@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1791924794442-822",
+    "category": "Mercados",
+    "title": "La Fed de Nueva York Discrepa del Mercado: ¿Se Acabaron las Alzas de Tasas en 2027?",
+    "summary": "John Williams, presidente de la Reserva Federal de Nueva York, proyecta una única subida de tasas en 2026, desestimando incrementos adicionales para 2027. Esta visión contrasta con las expectativas del mercado, sugiriendo una relajación de las presiones inflacionarias.",
+    "editorialComment": "La visión de John Williams sobre la estabilización de las tasas de interés a largo plazo es crucial para la planificación financiera. Entender cómo las decisiones de la Fed impactan sus ahorros o inversiones es clave; nuestra calculadora de interés compuesto le ayudará a proyectar el crecimiento de su capital bajo diferentes escenarios de tasas.",
+    "relatedTool": "tab-interes",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
+    "date": "13 de octubre de 2026",
+    "timestamp": 1791924794455,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>John Williams, presidente de la Reserva Federal de Nueva York, ha lanzado una proyección económica que ha sorprendido a los mercados, al señalar que la Fed podría no necesitar incrementar las tasas de interés en 2027. Esta perspectiva se diferencia de la mayoría de los traders, quienes anticipan un escenario de política monetaria más restrictivo para el año posterior a 2026.</p><p>Según Williams, la moderación de las presiones inflacionarias sería el factor clave que permitiría a la Fed abstenerse de nuevas alzas en 2027, aunque todavía ve la posibilidad de un incremento adicional en 2026. Esta declaración sugiere una confianza en que las medidas actuales y futuras a corto plazo serán suficientes para encauzar la inflación hacia los objetivos deseados sin la necesidad de prolongar el ciclo de endurecimiento monetario.</p><p>La discrepancia entre la visión de un alto funcionario de la Fed y las expectativas del mercado resalta la incertidumbre actual sobre la trayectoria futura de la economía y la política monetaria. Para inversionistas y consumidores, esta divergencia es fundamental, ya que las decisiones sobre tasas de interés impactan directamente los costos de endeudamiento, los rendimientos de los ahorros y la valoración de activos, generando un debate sobre la sostenibilidad del crecimiento económico y la estabilidad de precios.</p>"
+  },
+  {
+    "id": "noticia-1791924804282-490",
+    "category": "Mercados",
+    "title": "BCRA: Descubre cómo la mayor compra de dólares desde julio impacta tus finanzas y la economía en 2026",
+    "summary": "El Banco Central de Argentina realizó la mayor adquisición de dólares desde julio, comprando USD 291 millones en una jornada. Con esta operación, las reservas internacionales se acercan a los USD 50.000 millones, habiendo acumulado más de USD 15.000 millones en lo que va del año 2026.",
+    "editorialComment": "La constante acumulación de reservas por parte del Banco Central es un indicador clave de estabilidad económica que incide directamente en la confianza y las decisiones de ahorro. En este escenario de movimientos importantes en el mercado, mantener tus finanzas bajo control es más esencial que nunca. Te animamos a descargar nuestras plantillas de ahorro para gestionar eficazmente tu presupuesto y adaptar tus planes financieros a la dinámica del mercado.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/10/13/el-banco-central-realizo-la-mayor-compra-de-dolares-desde-julio-y-ya-acumula-mas-de-usd-15000-millones-en-2026/",
+    "date": "13 de octubre de 2026",
+    "timestamp": 1791924804282,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El Banco Central de la República Argentina (BCRA) ha realizado un movimiento significativo en el mercado cambiario, concretando la mayor compra de dólares en una jornada desde el pasado mes de julio. La autoridad monetaria adquirió USD 291 millones este martes, un volumen que subraya su estrategia de fortalecimiento de reservas. Con esta operación, el acumulado de compras de divisas en 2026 supera los USD 15.000 millones, acercando el total de reservas internacionales a la importante marca de USD 50.000 millones.</p><p>Esta política de acumulación de divisas por parte del BCRA es crucial para la estabilidad macroeconómica. Unas reservas robustas proveen un colchón frente a posibles shocks externos, fortalecen la capacidad de intervención del Banco en el mercado para evitar volatilidades cambiarias y mejoran la percepción de riesgo del país ante inversores internacionales. La consistencia en estas compras refleja una postura activa para consolidar el superávit comercial y fiscal, sentando bases para una mayor predictibilidad económica.</p><p>Para la economía general, el aumento sostenido de las reservas internacionales tiene múltiples implicaciones. Contribuye a anclar las expectativas de inflación, reduce la presión sobre el tipo de cambio y puede influir positivamente en el costo de financiamiento para el sector público y privado. Estos indicadores son fundamentales para la planificación financiera de empresas y familias, sugiriendo un horizonte de mayor estabilidad que podría impulsar la inversión y el crecimiento en el mediano plazo.</p>"
+  },
+  {
+    "id": "noticia-1791924810425-284",
+    "category": "Bolsa de Valores",
+    "title": "Kaiser Aluminum: Análisis Clave del Dividendo Trimestral de $0.77 por Acción para Inversionistas",
+    "summary": "Kaiser Aluminum ha declarado un dividendo trimestral en efectivo de 0,77 dólares por acción para sus acciones ordinarias. Esta decisión subraya la estrategia de la compañía de retornar valor a sus accionistas y mantener su atractivo en el mercado.",
+    "editorialComment": "La constante declaración de dividendos por parte de empresas como Kaiser Aluminum es una señal positiva para los inversionistas que buscan ingresos pasivos y crecimiento a largo plazo. Para maximizar el impacto de estos dividendos y comprender su potencial de acumulación, te invitamos a utilizar nuestra calculadora de interés compuesto, una herramienta indispensable para planificar el crecimiento de tus inversiones.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Investing.com",
+    "sourceUrl": "https://es.investing.com/news/company-news/kaiser-aluminum-declara-un-dividendo-trimestral-de-077-dolares-por-accion-93CH-3872511",
+    "date": "13 de octubre de 2026",
+    "timestamp": 1791924810425,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>Kaiser Aluminum Corporation (NASDAQ: KALU) ha confirmado recientemente la declaración de su dividendo trimestral en efectivo, fijado en 0,77 dólares por acción para sus acciones ordinarias. Esta decisión es un movimiento estratégico que refuerza el compromiso de la compañía con la retribución al accionista y se perfila como un factor relevante para los inversores interesados en el sector del aluminio.</p><p>El pago de dividendos es un indicador fundamental de la salud financiera y la confianza de la dirección en las perspectivas futuras de la empresa. Para los inversionistas, un dividendo constante o creciente representa una valiosa fuente de ingresos pasivos y puede ser un pilar en su estrategia de inversión a largo plazo, especialmente en entornos de mercado que valoran la estabilidad y la predictibilidad.</p><p>Este anuncio de Kaiser Aluminum no solo beneficia directamente a sus accionistas, sino que también puede influir positivamente en la percepción general del sector industrial y de materiales. En un entorno económico donde la búsqueda de valor y la diversificación son cruciales, las empresas que demuestran solidez financiera a través de sus políticas de dividendos tienden a captar la atención de aquellos que buscan construir un portafolio de inversiones robusto y con resiliencia.</p>"
+  },
+  {
     "id": "noticia-1791905004796-11",
     "category": "Mercados",
     "title": "Visa recibe luz verde histórica en China: Impacto en el mercado global de pagos y tus finanzas",
@@ -306,47 +348,5 @@
     "timestamp": 1791714293460,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>Los mercados de predicción, una herramienta emergente para anticipar eventos futuros, están señalando un panorama poco alentador para los conductores. Según las previsiones de traders en la plataforma Kalshi, los precios de la gasolina en Estados Unidos se mantendrían por encima de los $4 por galón hasta el 3 de noviembre, justo antes del Día de las Elecciones. Esta expectativa sugiere que los consumidores no experimentarán un respiro significativo en los costos de combustible en el corto plazo.</p><p>La persistencia de los precios altos de la gasolina tiene implicaciones directas y profundas para la economía doméstica y el clima político. Un combustible caro aumenta los costos de transporte y logística para las empresas, lo que a menudo se traduce en precios más elevados para bienes y servicios. Para los hogares, representa una reducción del poder adquisitivo y una presión adicional sobre los presupuestos, factores que históricamente han influido en la percepción pública y el comportamiento electoral.</p><p>Este pronóstico de los mercados de predicción subraya la importancia de la planificación financiera personal en un entorno económico volátil. Ante la expectativa de un gasto elevado en combustible, es prudente que individuos y familias revisen sus presupuestos y busquen estrategias para mitigar el impacto. Mantenerse informado sobre las tendencias del mercado y ajustar los hábitos de consumo se vuelve crucial para navegar estos desafíos económicos con mayor resiliencia.</p>"
-  },
-  {
-    "id": "noticia-1791714303357-213",
-    "category": "Mercados",
-    "title": "Dólar Bajo en Argentina: ¿Oportunidad o Riesgo? Lo que la Decisión de Milei Significa para Tu Economía",
-    "summary": "El Gabinete de Milei debatió intensamente sobre el tipo de cambio, con advertencias de Ades sobre un atraso del 30%, mientras el Gobierno descarta una devaluación inminente. Esta discusión se da en un contexto de perspectivas de mejora económica hacia fin de año, ofreciendo un respiro político antes del ciclo electoral.",
-    "editorialComment": "La discusión sobre el tipo de cambio y la dirección económica del país tiene un impacto directo en tu poder adquisitivo y la planificación de tus finanzas personales. Para asegurar que tus ahorros crezcan y puedas afrontar los vaivenes económicos, es fundamental una gestión inteligente de tus ingresos y gastos. Te invitamos a utilizar nuestras plantillas de ahorro de Pulso Finanzas, herramientas esenciales para optimizar tu presupuesto y tomar decisiones financieras informadas.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/10/11/milei-llevo-al-gabinete-el-debate-sobre-el-tipo-de-cambio-puede-crecer-argentina-con-un-dolar-bajo/",
-    "date": "11 de octubre de 2026",
-    "timestamp": 1791714303357,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>El debate sobre el tipo de cambio ha escalado hasta el corazón del Gabinete de Javier Milei, evidenciando una profunda discusión interna sobre la estrategia económica. Mientras el economista Ades alertó sobre un preocupante atraso del dólar, estimado en casi un 30%, el Gobierno se mantiene firme en su postura de descartar una devaluación como medida correctiva. Esta decisión estratégica busca estabilizar la economía sin recurrir a shocks que puedan avivar la inflación, una prioridad clave para la administración actual.</p><p>La apuesta oficialista se centra en la premisa de que un dólar contenido, combinado con otras políticas de ajuste, puede sentar las bases para un crecimiento sostenible. Las proyecciones internas indican que la economía argentina podría presentar datos significativamente mejores hacia fin de año, lo que no solo mejoraría las expectativas generales, sino que también le otorgaría un valioso margen de maniobra político al oficialismo de cara al próximo año electoral. La pregunta en el aire es si la temida “recesión técnica” finalmente se abortó antes de consolidarse, abriendo paso a una recuperación inesperada.</p><p>Sin embargo, la estrategia del “dólar bajo” no está exenta de desafíos y críticas. Si bien puede ayudar a moderar la inflación y abaratar importaciones, plantea interrogantes sobre la competitividad de las exportaciones y el necesario reequilibrio de la balanza comercial. Para los inversores y ciudadanos, entender esta dinámica es crucial, ya que impacta directamente en el costo de vida, el valor de los ahorros y las oportunidades de inversión en el país. El desenlace de este debate definirá gran parte del rumbo económico argentino en los próximos meses.</p>"
-  },
-  {
-    "id": "noticia-1791714311840-9",
-    "category": "Bolsa de Valores",
-    "title": "Directora de Everpure vende casi $400K en acciones: ¿Qué implica para los inversores?",
-    "summary": "Amy Welling, directora de contabilidad de Everpure, ha ejecutado la venta de acciones de la compañía por un valor cercano a los 399.850 dólares. Esta significativa transacción interna genera atención entre los inversores y analistas del mercado.",
-    "editorialComment": "Este tipo de operaciones de \"insider trading\", aunque transparentes, ofrecen una ventana a las decisiones de los directivos y pueden influir en la percepción de los inversores. Para quienes buscan construir riqueza a largo plazo y entender cómo sus ahorros pueden capitalizarse, nuestra calculadora de interés compuesto es una herramienta clave. Permite visualizar el crecimiento potencial de sus inversiones y la importancia de la paciencia financiera en mercados dinámicos.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Investing.com",
-    "sourceUrl": "https://es.investing.com/news/insider-trading-news/la-directora-de-contabilidad-de-everpure-vende-acciones-por-399850-dolares-93CH-3868836",
-    "date": "11 de octubre de 2026",
-    "timestamp": 1791714311840,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Amy Welling, la actual directora de contabilidad de Everpure, ha captado la atención del mercado al vender un paquete de acciones de la empresa valorado en 399.850 dólares. Esta transacción, revelada a través de los informes de \"insider trading\", es un evento que los analistas y los inversores suelen seguir de cerca, ya que ofrece una perspectiva sobre la confianza de los ejecutivos en el futuro de su propia compañía.</p><p>Las ventas de acciones por parte de directivos, aunque son completamente legales y deben ser declaradas públicamente, son a menudo objeto de especulación. Mientras que una venta puede simplemente responder a necesidades personales de liquidez o a estrategias de diversificación de cartera, también puede interpretarse como una señal sobre las expectativas internas de crecimiento o rentabilidad de la empresa. En el caso de Everpure, el tamaño de la venta por parte de una figura clave como la directora de contabilidad, quien tiene un conocimiento profundo de las finanzas de la empresa, añade una capa adicional de interés.</p><p>Para el mercado general, este tipo de movimientos subraya la importancia de analizar no solo los resultados financieros de una empresa, sino también las acciones de sus directivos. Los inversores deben considerar estos datos como parte de un análisis más amplio, sopesando si la venta podría reflejar una visión interna o si es simplemente una transacción rutinaria. Monitorear las operaciones de \"insider trading\" es una práctica común para aquellos que buscan tomar decisiones de inversión informadas en un panorama económico cada vez más complejo.</p>"
-  },
-  {
-    "id": "noticia-1791686839068-618",
-    "category": "Mercados",
-    "title": "Mercado Inmobiliario de China: S&P Pronostica Recuperación Clave para el Próximo Año",
-    "summary": "La agencia de calificación S&P Global Ratings ha pronosticado una posible recuperación del mercado inmobiliario chino en sus ciudades más grandes tan pronto como el próximo año. Este cambio marcaría el fin de un prolongado periodo de estancamiento que ha afectado a la segunda economía mundial.",
-    "editorialComment": "La posible recuperación del sector inmobiliario chino es una noticia de gran calibre que subraya la importancia de estar preparados para los cambios económicos globales. En Pulso Finanzas, creemos que una buena planificación es la clave para la estabilidad. Asegúrate de tener tus finanzas en orden con nuestras plantillas de ahorro, que te ayudarán a construir un colchón financiero sólido y a adaptarte a cualquier escenario de mercado.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html",
-    "date": "11 de octubre de 2026",
-    "timestamp": 1791686839081,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>S&P Global Ratings ha lanzado una proyección optimista para el mercado inmobiliario de China, anticipando una recuperación en las principales ciudades del país tan pronto como el próximo año. Este pronóstico llega tras un periodo de años de significativa desaceleración y representa una posible luz al final del túnel para uno de los pilares de la economía china. La evaluación de S&P sugiere que las medidas de apoyo gubernamentales y la estabilización de la demanda podrían estar surtiendo efecto.</p><p>La importancia de esta posible reactivación no puede subestimarse. El sector inmobiliario ha sido un motor crucial del crecimiento económico chino, y su estancamiento ha generado preocupaciones sobre la estabilidad financiera del país. Una recuperación, incluso si es gradual y limitada inicialmente a las grandes metrópolis, podría infundir confianza en los consumidores e inversores, impulsando el gasto y la inversión en otros sectores relacionados.</p><p>Para los mercados globales, este giro podría tener implicaciones significativas, aliviando parte de la incertidumbre que ha rodeado a la economía china. Si bien la prudencia sigue siendo clave, el informe de S&P ofrece una perspectiva más alentadora que podría influir en las estrategias de inversión y en la percepción general de la salud económica global, especialmente en un momento donde la volatilidad es una constante.</p>"
   }
 ]
