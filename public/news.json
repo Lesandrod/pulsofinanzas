@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1792335833355-991",
+    "category": "Bolsa de Valores",
+    "title": "Actualidad: China&apos;s exports and imports surge past expectations in September en español",
+    "summary": "Resumen de mercados: China&apos;s exports and imports surge past expectations in September. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
+    "editorialComment": "El mercado bursátil se ve fuertemente impulsado por empresas de alto rendimiento. A largo plazo, invertir de manera constante en el mercado bursátil permite ganarle a la inflación por medio del interés compuesto.",
+    "relatedTool": "tab-interes",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
+    "date": "18 de octubre de 2026",
+    "timestamp": 1792335833365,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El evento sobre <strong>\"China&apos;s exports and imports surge past expectations in September\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
+  },
+  {
+    "id": "noticia-1792335834724-80",
+    "category": "Mercados",
+    "title": "Actualidad: Morosidad: dos de cada tres personas se quedan sin dinero el 20 de cada mes, pero solo el 7,5% pide condonación de deudas en español",
+    "summary": "Resumen de mercados: Morosidad: dos de cada tres personas se quedan sin dinero el 20 de cada mes, pero solo el 7,5% pide condonación de deudas. Los analistas financieros de Pulso Finanzas siguen de cerca las repercusiones de este evento en las carteras de ahorro de Latinoamérica.",
+    "editorialComment": "El mercado bursátil se ve fuertemente impulsado por empresas de alto rendimiento. A largo plazo, invertir de manera constante en el mercado bursátil permite ganarle a la inflación por medio del interés compuesto.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/10/18/morosidad-dos-de-cada-tres-personas-se-quedan-sin-dinero-el-20-de-cada-mes-pero-solo-el-75-pide-condonacion-de-deudas/",
+    "date": "18 de octubre de 2026",
+    "timestamp": 1792335834725,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El evento sobre <strong>\"Morosidad: dos de cada tres personas se quedan sin dinero el 20 de cada mes, pero solo el 7,5% pide condonación de deudas\"</strong> ha generado diversas opiniones en los mercados internacionales. Analistas sugieren cautela ante las próximas decisiones corporativas.</p><p>Las carteras de inversión a nivel regional se preparan para fluctuaciones a corto plazo. Se recomienda a los ahorradores mantener una parte líquida en fondos de emergencia.</p>"
+  },
+  {
+    "id": "noticia-1792335843309-627",
+    "category": "Bolsa de Valores",
+    "title": "JPMorgan Reafirma Confianza en ICICI Bank: Eleva Precio Objetivo Tras Resultados Excepcionales",
+    "summary": "JPMorgan ha elevado su precio objetivo para ICICI Bank, la segunda institución financiera más grande de la India. Esta decisión estratégica se produce tras la presentación de resultados financieros sólidos por parte del banco.",
+    "editorialComment": "La decisión de JPMorgan de elevar el precio objetivo de ICICI Bank subraya la importancia de identificar empresas con un sólido potencial de crecimiento a largo plazo. Este tipo de movimientos en el mercado resalta cómo las inversiones estratégicas pueden generar retornos significativos. Para entender mejor cómo el tiempo y el rendimiento pueden multiplicar tu capital, te invitamos a usar nuestra Calculadora de Interés Compuesto.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Investing.com",
+    "sourceUrl": "https://es.investing.com/news/analyst-ratings/jpmorgan-eleva-el-precio-objetivo-de-icici-bank-tras-solidos-resultados-93CH-3878259",
+    "date": "18 de octubre de 2026",
+    "timestamp": 1792335843310,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>JPMorgan, una de las principales firmas de inversión global, ha reiterado su confianza en ICICI Bank, el segundo mayor banco privado de la India, al elevar su precio objetivo. Esta actualización llega después de que la entidad bancaria india presentara unos resultados financieros robustos, superando las expectativas del mercado y demostrando una sólida salud operativa y un crecimiento sostenido en sus principales métricas.</p><p>La decisión de JPMorgan no es solo un voto de confianza, sino que también señala un potencial alcista para las acciones de ICICI Bank, influyendo positivamente en la percepción de los inversores. Este tipo de movimientos de los grandes bancos de inversión suele actuar como un catalizador, atrayendo mayor interés y capital hacia la acción, especialmente en un mercado emergente clave como el indio.</p><p>Este evento resalta la resiliencia y el dinamismo del sector bancario en economías en crecimiento y la importancia de la evaluación constante de las instituciones financieras por parte de los analistas. Para los inversores, observar estas revisiones de precios objetivos por parte de firmas de renombre es crucial, ya que ofrecen una perspectiva valiosa sobre las oportunidades y tendencias dentro del panorama financiero global, subrayando la relevancia de un análisis fundamental sólido.</p>"
+  },
+  {
     "id": "noticia-1792311852300-69",
     "category": "Mercados",
     "title": "China y la UE Reafirman Lazos: El Flujo de Tierras Raras se Mantiene, ¿Qué Implicaciones Tiene para los Mercados Globales?",
@@ -306,47 +348,5 @@
     "timestamp": 1792189129940,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>Bank of America ha realizado una contratación masiva de 1,000 expertos externos para abordar fallos de software complejos, una vulnerabilidad expuesta por la inteligencia artificial Mythos de Anthropic. Este movimiento sin precedentes ofrece una ventana a los cuantiosos recursos que las grandes instituciones financieras deben destinar a la ciberseguridad avanzada, especialmente frente a las capacidades emergentes de la IA tanto para crear como para detectar debilidades en los sistemas.</p><p>La situación de Bank of America no es un caso aislado, sino un potente indicador de la nueva realidad que enfrenta el sector bancario global. La sofisticación de las herramientas de IA, como Mythos, eleva el nivel de amenaza, obligando a las entidades a invertir sumas millonarias en protección. Estos costes, que a menudo son imprevistos y de gran magnitud, no solo impactan directamente en los balances de las empresas, sino que también recalibran las prioridades de gasto y las estrategias de riesgo tecnológico a nivel industrial.</p><p>La relevancia económica de este evento se extiende más allá del ámbito bancario. Subraya la creciente demanda de talento especializado en ciberseguridad y el surgimiento de un nuevo segmento de mercado para soluciones de defensa impulsadas por IA. Para la economía general, estas inversiones representan tanto un gasto necesario para mantener la estabilidad financiera como una oportunidad para la innovación y la creación de empleo en un sector crítico, redefiniendo la batalla por la seguridad en la era de la inteligencia artificial.</p>"
-  },
-  {
-    "id": "noticia-1792189140653-716",
-    "category": "Mercados",
-    "title": "Mercado Financiero Argentino: ¿Cómo Impacta la Caída de Acciones y el Riesgo País Histórico en tu Inversión?",
-    "summary": "La jornada financiera fue marcada por la caída de las acciones argentinas y los títulos públicos, reflejando el impacto negativo de Wall Street. Adicionalmente, el riesgo país escaló a 648 puntos, alcanzando nuevamente los máximos de 2026, mientras el BCRA intervino comprando USD 68 millones.",
-    "editorialComment": "La volatilidad actual en los mercados subraya la importancia de una estrategia financiera sólida. Incluso en jornadas negativas, entender cómo tus inversiones pueden crecer a largo plazo mediante el interés compuesto es fundamental para construir un patrimonio. Considera cómo el rendimiento continuo, a pesar de las fluctuaciones a corto plazo, puede ser un aliado poderoso.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/10/16/jornada-financiera-cayeron-las-acciones-argentinas-y-el-riesgo-pais-volvio-a-tocar-maximos-de-2026/",
-    "date": "16 de octubre de 2026",
-    "timestamp": 1792189140653,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>La jornada financiera reciente para Argentina estuvo marcada por una profunda negatividad, reflejando el pesimismo de Wall Street. El índice S&P Merval, principal referente de la bolsa local, experimentó una caída del 0,4%, arrastrando consigo a los títulos públicos que recortaron un significativo 1,5% de su valor. Este comportamiento evidencia la estrecha relación entre los mercados globales y la susceptibilidad de los activos argentinos a las tendencias internacionales.</p><p>Uno de los indicadores más preocupantes fue el riesgo país, medido por el índice EMBI de JP Morgan, que se disparó hasta los 648 puntos básicos. Este nivel no solo representa un alza importante, sino que además vuelve a tocar los máximos registrados en 2026, señalando una creciente percepción de riesgo por parte de los inversores internacionales. Un riesgo país elevado encarece el financiamiento para el estado y las empresas, impactando directamente en las posibilidades de inversión y crecimiento.</p><p>En este contexto de incertidumbre, el Banco Central de la República Argentina (BCRA) continuó con su intervención en el mercado cambiario, logrando comprar USD 68 millones. Si bien esta acción contribuye a fortalecer las reservas, el escenario general de caída de acciones y aumento del riesgo país plantea desafíos significativos para la estabilidad económica. Los inversores deben mantenerse atentos a estas dinámicas, ya que impactan directamente en el valor de sus carteras y en las perspectivas económicas a mediano plazo.</p>"
-  },
-  {
-    "id": "noticia-1792189149129-427",
-    "category": "Bolsa de Valores",
-    "title": "Gabriel Resources Refuerza su Capital con Inyección de C$3.29 Millones: ¿Qué Implicaciones Tiene?",
-    "summary": "Gabriel Resources ha cerrado con éxito una colocación privada inicial, logrando recaudar C$3.29 millones en capital. Esta operación estratégica inyecta fondos significativos en la compañía para impulsar sus futuros proyectos.",
-    "editorialComment": "La capacidad de una empresa para atraer capital, como lo ha hecho Gabriel Resources, es un indicador clave de confianza en su potencial de crecimiento. Para los inversores interesados en el largo plazo, comprender cómo se valoran estas inyecciones de capital y cómo pueden generar retornos es esencial. Nuestra calculadora de interés compuesto puede ayudarle a visualizar el crecimiento exponencial de sus propias inversiones a lo largo del tiempo.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Investing.com",
-    "sourceUrl": "https://es.investing.com/news/company-news/gabriel-resources-cierra-colocacion-privada-inicial-de-c329-millones-93CH-3878008",
-    "date": "16 de octubre de 2026",
-    "timestamp": 1792189149129,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Gabriel Resources, una compañía con presencia en el sector de recursos, ha anunciado el cierre de su colocación privada inicial, la cual ha logrado recaudar la cifra de 3.29 millones de dólares canadienses. Este movimiento financiero estratégico implica la venta de acciones o valores a un grupo selecto de inversores, sin pasar por el mercado público tradicional, lo que permite a la empresa obtener capital de manera más rápida y eficiente.</p><p>La exitosa finalización de esta ronda de financiación representa un voto de confianza significativo por parte de los inversores en la dirección y el futuro de Gabriel Resources. Los fondos obtenidos a través de esta colocación privada suelen destinarse a diversas finalidades, como la financiación de operaciones, la expansión de proyectos existentes, la adquisición de nuevos activos o la mejora de la posición de liquidez de la empresa, impulsando así su crecimiento y desarrollo.</p><p>Este tipo de operaciones en el mercado de valores es un barómetro importante de la dinámica económica y la disponibilidad de capital de riesgo. Refleja no solo la salud financiera de la compañía en cuestión, sino también el apetito de los inversores por oportunidades en sectores específicos. Para la economía en general, la inyección de capital en empresas puede traducirse en innovación, creación de empleo y un impulso al desarrollo sectorial.</p>"
-  },
-  {
-    "id": "noticia-1792177652191-701",
-    "category": "Mercados",
-    "title": "EE. UU. Presiona a China por Acceso de Mastercard y Citigroup: ¿Qué Implicaciones Tiene para tus Inversiones?",
-    "summary": "Durante recientes reuniones bilaterales en Bangkok, Estados Unidos instó a China a mejorar el acceso al mercado para gigantes financieros como Mastercard y Citigroup. Esta presión busca abrir nuevas oportunidades para estas empresas en el vasto mercado chino, destacando las tensiones comerciales existentes.",
-    "editorialComment": "Las negociaciones entre potencias económicas como EE. UU. y China sobre el acceso a mercados son fundamentales para el panorama financiero global. Para los inversores, estos movimientos pueden influir directamente en el rendimiento de empresas cotizadas y en las oportunidades de inversión a largo plazo. Nuestra calculadora de interés compuesto es una herramienta esencial para proyectar cómo tus ahorros e inversiones podrían crecer bajo diferentes escenarios de mercado, ayudándote a planificar con visión de futuro.",
-    "relatedTool": "tab-interes",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-    "date": "16 de octubre de 2026",
-    "timestamp": 1792177652202,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>En un movimiento significativo, Estados Unidos ha elevado la cuestión del acceso al mercado para las gigantes financieras Mastercard y Citigroup durante las conversaciones bilaterales celebradas esta semana en Bangkok con funcionarios chinos. Esta iniciativa subraya el continuo esfuerzo de Washington por nivelar el campo de juego para sus empresas en el vasto y lucrativo mercado chino, que aún presenta barreras regulatorias y de competencia para firmas extranjeras de servicios financieros.</p><p>Las discusiones se centraron en la necesidad de garantizar condiciones equitativas y transparentes para que empresas estadounidenses de renombre puedan operar y expandirse en China. La participación de compañías como Mastercard y Citigroup es crucial, ya que representan una parte significativa de la infraestructura financiera global y su expansión en China podría tener implicaciones de gran alcance para el comercio internacional, los pagos digitales y los servicios bancarios.</p><p>Este diálogo resalta la delicada balanza entre la cooperación y la competencia en las relaciones económicas entre EE. UU. y China. Un mayor acceso al mercado para estas empresas podría potenciar el crecimiento económico, ofrecer más opciones a los consumidores y, potencialmente, abrir nuevas vías de inversión y desarrollo tecnológico en el sector financiero, mientras que la persistencia de barreras seguiría siendo un punto de fricción en la relación bilateral.</p>"
   }
 ]
