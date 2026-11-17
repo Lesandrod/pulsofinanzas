@@ -1,5 +1,47 @@
 [
   {
+    "id": "noticia-1794893930062-908",
+    "category": "Mercados",
+    "title": "Alerta para Clientes de JPMorgan Chase: Lo que significa el error de software temporal para tus finanzas",
+    "summary": "JPMorgan Chase ha comunicado un error de software temporal que está afectando los servicios de banca de consumo. No hay indicios de ataques maliciosos ni de que el problema se extienda a otras entidades bancarias.",
+    "editorialComment": "Ante imprevistos como este, la planificación financiera se vuelve crucial para mantener la estabilidad de tus finanzas personales. Para asegurar que tu presupuesto esté siempre bajo control y listo para cualquier eventualidad, es vital tener herramientas de seguimiento. Nuestra plantilla de ahorro te ayudará a visualizar y gestionar tus finanzas con precisión.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+    "date": "17 de noviembre de 2026",
+    "timestamp": 1794893930075,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>JPMorgan Chase ha anunciado un error de software temporal que está afectando sus servicios de banca de consumo, según reportó Eamon Javers de CNBC. Este incidente subraya la complejidad de las operaciones bancarias modernas, donde la dependencia tecnológica es absoluta. La buena noticia, según la fuente, es que no hay indicios de actores maliciosos involucrados ni de que este problema esté afectando a múltiples bancos simultáneamente, lo que sugiere un incidente aislado.</p><p>Para los clientes de JPMorgan Chase, un fallo de esta índole puede generar incertidumbre y dificultades en el acceso a sus fondos y la gestión de sus operaciones diarias. Aunque se califica como temporal, subraya la importancia de la infraestructura tecnológica en el sector bancario y la necesidad de sistemas resilientes. Eventos como este, incluso si son aislados, pueden recordar a los usuarios la importancia de tener planes de contingencia para sus finanzas, como diversificar el acceso a fondos o mantener una parte de su liquidez disponible.</p><p>A nivel de la economía general, un fallo en un gigante como JPMorgan Chase, si bien no se considera sistémico, ilustra los riesgos inherentes a la alta digitalización del sector financiero. Aunque el mercado no ha mostrado una reacción drástica, la confianza del consumidor es un pilar fundamental. Monitorear la resolución de estos incidentes es clave para mantener la estabilidad y la percepción de seguridad en el ecosistema bancario, tanto para las grandes instituciones como para los usuarios finales.</p>"
+  },
+  {
+    "id": "noticia-1794893938407-998",
+    "category": "Mercados",
+    "title": "Devaluación del Real: ¿Cómo la volatilidad en Brasil afecta la economía argentina y sus finanzas?",
+    "summary": "Desde la reelección de Lula da Silva, el real brasileño ha experimentado una depreciación del 16% frente al dólar, impulsada por la incertidumbre fiscal. Esta dinámica genera un impacto directo en la competitividad de Argentina y sus proyecciones económicas.",
+    "editorialComment": "La constante fluctuación en el tipo de cambio del real brasileño nos recuerda la importancia de una planificación financiera sólida. Ante escenarios de inestabilidad regional que pueden afectar desde el costo de los bienes importados hasta nuestras posibilidades de ahorro, es crucial tener control sobre nuestras finanzas. Le invitamos a explorar nuestras plantillas de ahorro en Excel, una herramienta esencial para presupuestar, monitorear gastos y ajustar sus estrategias financieras frente a un entorno cambiante.",
+    "relatedTool": "tab-plantillas",
+    "sourceName": "Infobae",
+    "sourceUrl": "https://www.infobae.com/economia/2026/11/17/el-dolar-en-brasil-trepo-16-desde-la-reeleccion-de-lula-da-silva-como-impacta-en-la-argentina/",
+    "date": "17 de noviembre de 2026",
+    "timestamp": 1794893938408,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>La economía de Brasil enfrenta un momento de incertidumbre tras la reelección del presidente Lula da Silva, marcada por una significativa depreciación del real frente al dólar. Desde octubre de 2022, la moneda brasileña ha perdido un 16% de su valor, reflejo de la falta de señales claras por parte del gobierno en relación con una mayor austeridad fiscal. Esta situación genera preocupación en los mercados y posiciona al tipo de cambio como un factor clave en la estabilidad económica regional.</p><p>Para Argentina, la devaluación del real tiene implicancias directas y complejas. Por un lado, hace que los productos argentinos sean más caros en Brasil, lo que podría afectar negativamente las exportaciones nacionales al principal socio comercial del Mercosur. Por otro, los bienes brasileños se vuelven más accesibles para los consumidores argentinos, lo que podría incentivar las importaciones y ejercer presión sobre la balanza comercial. En un contexto preelectoral, el gobierno argentino monitorea de cerca la situación, apostando a mantener la calma cambiaria a nivel local para evitar turbulencias que puedan agitar el escenario económico.</p><p>La volatilidad en Brasil subraya la interconexión de las economías latinoamericanas y la necesidad de una gestión fiscal prudente. Si bien la depreciación del real puede ofrecer ciertas ventajas a los turistas argentinos que visiten Brasil, el impacto macroeconómico y comercial es el que demanda mayor atención. Los inversores y analistas económicos seguirán de cerca las decisiones de política económica del gobierno de Lula, esperando señales que puedan revertir la tendencia y estabilizar la moneda, factor crucial para la competitividad regional y la salud de las finanzas en Argentina.</p>"
+  },
+  {
+    "id": "noticia-1794893947155-793",
+    "category": "Bolsa de Valores",
+    "title": "Venta de Acciones de TrueBlue por su Director Legal: ¿Una Señal para Inversores?",
+    "summary": "El Vicepresidente Ejecutivo y Director Legal de TrueBlue Inc. ha realizado una venta de acciones de la compañía. La operación, valorada en 7.404 dólares, ha sido reportada recientemente.",
+    "editorialComment": "Esta venta de acciones por parte de un directivo puede generar preguntas entre los inversores sobre el futuro de TrueBlue. Para quienes evalúan decisiones en bolsa, es fundamental considerar cómo los movimientos de mercado impactan sus carteras a largo plazo. Nuestra calculadora de interés compuesto es una herramienta clave para proyectar el crecimiento de tus inversiones y tomar decisiones informadas.",
+    "relatedTool": "tab-interes",
+    "sourceName": "Investing.com",
+    "sourceUrl": "https://es.investing.com/news/insider-trading-news/el-evp-y-director-legal-de-trueblue-inc-vende-7404-dolares-en-acciones-93CH-3931192",
+    "date": "17 de noviembre de 2026",
+    "timestamp": 1794893947155,
+    "author": "Editorial Pulso Finanzas",
+    "body": "<p>El Vicepresidente Ejecutivo y Director Legal de TrueBlue Inc., ha realizado recientemente una venta de 7.404 dólares en acciones de la compañía. Esta transacción, considerada como 'insider trading' por las autoridades reguladoras, fue debidamente reportada, ofreciendo transparencia sobre los movimientos de capital de sus altos directivos.</p><p>Aunque la cantidad de la venta es relativamente modesta, las operaciones de insiders son monitoreadas de cerca por el mercado, ya que pueden ofrecer indicios sobre la confianza de los ejecutivos en el futuro de su propia empresa. Sin embargo, una venta de este tamaño podría ser por motivos personales y no necesariamente un reflejo de un cambio en las perspectivas fundamentales de TrueBlue, una empresa especializada en soluciones de fuerza laboral.</p><p>Para los inversores de Pulso Finanzas, este tipo de noticias subraya la importancia de analizar un conjunto amplio de factores antes de tomar decisiones. Mientras que las ventas de insiders son un dato relevante, deben evaluarse en el contexto de la salud financiera general de la empresa, las tendencias del sector y el rendimiento del mercado bursátil en su conjunto para obtener una perspectiva completa y evitar reacciones impulsivas.</p>"
+  },
+  {
     "id": "noticia-1794873272811-310",
     "category": "Bolsa de Valores",
     "title": "Movimientos Clave de Berkshire Hathaway en el 3T: ¿Qué Implican para tus Inversiones?",
@@ -306,47 +348,5 @@
     "timestamp": 1794677231750,
     "author": "Editorial Pulso Finanzas",
     "body": "<p>La dinámica del mercado de la inteligencia artificial (IA) se encuentra en un punto de inflexión, según análisis de expertos en fondos cotizados (ETF). Las recientes turbulencias en el liderazgo de Nvidia, líder indiscutible en chips para IA, combinadas con el posible control demócrata del Congreso en Estados Unidos, están generando expectativas de una profunda reconfiguración en la demanda y la inversión dentro de este sector vital. Este cambio no solo alteraría el dominio actual, sino que también abriría nuevas oportunidades para otros actores tecnológicos.</p><p>Este escenario sugiere que la demanda de infraestructuras para IA, especialmente centros de datos y soluciones de hardware, podría empezar a diversificarse. Los expertos señalan que empresas de Big Tech que no son Nvidia, así como fabricantes de semiconductores rivales, podrían ver un impulso significativo en sus negocios. La incertidumbre regulatoria y la necesidad de una cadena de suministro más resiliente impulsarían a los compradores a buscar alternativas, distribuyendo el riesgo y las oportunidades de mercado.</p><p>Para la economía general, esta reconfiguración representa tanto un desafío como una oportunidad. Si bien la concentración de poder en el sector de la IA podría verse diluida, la competencia incrementada podría fomentar la innovación y la eficiencia. Los inversores deberán estar atentos a la evolución de las políticas gubernamentales y a los movimientos estratégicos de las grandes corporaciones para posicionar sus carteras de manera óptima en un mercado tecnológico en constante transformación.</p>"
-  },
-  {
-    "id": "noticia-1794677242280-739",
-    "category": "Mercados",
-    "title": "Oro a la baja: ¿Cómo la caída de USD 1.800 millones en las reservas del BCRA afecta la estabilidad económica?",
-    "summary": "El valor internacional del oro ha disminuido significativamente desde su pico de enero, afectando las reservas del Banco Central. Aunque las tenencias físicas no variaron, su valor en dólares se redujo en más de USD 1.800 millones.",
-    "editorialComment": "La volatilidad de los mercados, evidenciada en la fluctuación del oro, subraya la importancia de una gestión financiera sólida a nivel personal. Monitorear la economía es vital, pero también lo es contar con un presupuesto robusto para proteger tus finanzas. Te invitamos a utilizar nuestras plantillas de ahorro para fortalecer tu planificación y afrontar cualquier escenario.",
-    "relatedTool": "tab-plantillas",
-    "sourceName": "Infobae",
-    "sourceUrl": "https://www.infobae.com/economia/2026/11/14/la-baja-del-precio-del-oro-le-resto-mas-de-usd-1800-millones-a-las-reservas-del-banco-central-desde-su-maximo-del-ano/",
-    "date": "14 de noviembre de 2026",
-    "timestamp": 1794677242280,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Las reservas del Banco Central de la República Argentina (BCRA) han experimentado una notable contracción en su valor en dólares, superando los USD 1.800 millones, a raíz de la caída del precio internacional del oro. Este metal precioso, que alcanzó su punto máximo en enero, inició posteriormente una tendencia a la baja que impactó directamente en la valoración de las tenencias de la entidad monetaria. Es crucial destacar que esta disminución no se debe a una venta de oro, sino a una revaluación negativa.</p><p>Si bien el volumen físico de oro en poder del BCRA se mantuvo inalterado bajo la gestión de Santiago Bausili, la depreciación de su valor de mercado tiene implicancias significativas. La baja de USD 1.800 millones reduce el valor contable de un componente vital de las reservas brutas, lo que puede influir en la percepción de fortaleza financiera del país. Esta situación resalta la exposición de las reservas a la volatilidad de los precios de las commodities a nivel global.</p><p>Este episodio subraya la interconexión entre los mercados internacionales y la economía local. La fluctuación en el precio del oro, un activo tradicionalmente considerado refugio de valor, evidencia la dinámica cambiante de los mercados y su capacidad para impactar en indicadores macroeconómicos clave. Para inversores y ciudadanos, este escenario recalca la importancia de monitorear no solo las políticas internas, sino también las tendencias globales que pueden afectar la estabilidad y la valoración de los activos.</p>"
-  },
-  {
-    "id": "noticia-1794677251927-30",
-    "category": "Bolsa de Valores",
-    "title": "Lilly en el Foco de Inversores: ¿Qué Significan los Resultados de Ensayos sobre Obesidad para el Futuro Farmacéutico?",
-    "summary": "Eli Lilly anunció la presentación de resultados clave de sus ensayos sobre obesidad durante la ObesityWeek 2026. Este evento es crucial para el futuro de la compañía y el prometedor mercado de tratamientos contra la obesidad.",
-    "editorialComment": "La expectación generada por los ensayos de Lilly subraya cómo la innovación farmacéutica puede ser un motor de crecimiento extraordinario. Para los inversores, comprender el potencial de estas empresas y la rentabilidad a largo plazo es fundamental. Herramientas como nuestra calculadora de interés compuesto pueden ilustrar cómo incluso pequeñas inversiones en compañías con alto potencial pueden generar grandes beneficios a lo largo del tiempo, enfatizando la importancia de la paciencia y la estrategia en el mercado de valores.",
-    "relatedTool": "tab-interes",
-    "sourceName": "Investing.com",
-    "sourceUrl": "https://es.investing.com/news/company-news/lilly-presenta-resultados-de-ensayos-sobre-obesidad-en-obesityweek-2026-93CH-3928680",
-    "date": "14 de noviembre de 2026",
-    "timestamp": 1794677251928,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Eli Lilly y Compañía se prepara para captar la atención del sector farmacéutico y los mercados financieros al revelar los resultados de sus ensayos sobre obesidad en la prestigiosa ObesityWeek 2026. Este anuncio, que ha sido confirmado por fuentes cercanas a la compañía y reportado por Investing.com, representa un momento crítico para la estrategia de crecimiento de Lilly y su posicionamiento en uno de los segmentos más lucrativos de la medicina moderna.</p><p>La presentación de datos sobre nuevos tratamientos para la obesidad no solo impactará directamente en las acciones de Lilly, sino que también redefinirá el panorama competitivo de la industria. Analistas esperan que los resultados ofrezcan claridad sobre la eficacia y seguridad de sus compuestos, lo cual es vital para atraer a prescriptores y pacientes, y, en última instancia, asegurar una porción significativa del mercado global de miles de millones de dólares. La innovación en este campo es clave para mantener la ventaja frente a rivales emergentes.</p><p>Desde una perspectiva económica más amplia, el éxito o fracaso de estos ensayos tiene implicaciones significativas para la salud pública y los sistemas de atención sanitaria a nivel mundial. Un tratamiento altamente efectivo y accesible podría reducir la carga de enfermedades asociadas a la obesidad, impactando positivamente en la productividad laboral y disminuyendo los costos médicos a largo plazo. Los inversores, por su parte, seguirán de cerca la evolución de Lilly, ya que sus avances podrían establecer nuevos estándares y abrir oportunidades de inversión en todo el sector biotecnológico y farmacéutico.</p>"
-  },
-  {
-    "id": "noticia-1794654226773-289",
-    "category": "Bolsa de Valores",
-    "title": "Alibaba impulsa la carrera de chips: T-Head se prepara para cotizar en la Bolsa de Hong Kong",
-    "summary": "Alibaba ha anunciado sus planes para sacar a bolsa T-Head, su división de chips que compite directamente con Nvidia, en la Bolsa de Valores de Hong Kong. La compañía ya había presentado una solicitud confidencial el pasado 11 de septiembre para este movimiento estratégico.",
-    "editorialComment": "La inminente salida a bolsa de T-Head por parte de Alibaba abre nuevas oportunidades en el dinámico sector tecnológico global. Para los inversores que buscan capitalizar el crecimiento de empresas innovadoras, comprender el potencial de rentabilidad a largo plazo es clave. Nuestra calculadora de interés compuesto puede ser una herramienta invaluable para visualizar cómo una inversión inicial en este tipo de compañías podría crecer exponencialmente a lo largo del tiempo, mostrando el poder de la paciencia y la reinversión en el mercado bursátil.",
-    "relatedTool": "tab-interes",
-    "sourceName": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-    "date": "14 de noviembre de 2026",
-    "timestamp": 1794654226786,
-    "author": "Editorial Pulso Finanzas",
-    "body": "<p>Alibaba Group ha confirmado sus planes para la salida a bolsa de su subsidiaria de diseño de chips, T-Head, un movimiento estratégico que la posiciona como un competidor directo del gigante estadounidense Nvidia. La compañía china reveló que ha presentado una solicitud confidencial para listar T-Head en la Bolsa de Valores de Hong Kong el pasado 11 de septiembre, señalando una ambición creciente en el sector de semiconductores de alta tecnología.</p><p>Este anuncio subraya el esfuerzo de Alibaba por diversificar sus operaciones y fortalecer su posición en la cadena de suministro tecnológica global, especialmente en un momento de intensificación de la competencia y las tensiones geopolíticas en el ámbito tecnológico. T-Head, conocida por desarrollar chips para inteligencia artificial y computación en la nube, representa una pieza clave en la estrategia de autonomía tecnológica de China, buscando reducir la dependencia de proveedores extranjeros en componentes críticos.</p><p>La cotización de T-Head podría atraer un significativo interés de inversores, ofreciendo una nueva vía para participar en el crecimiento del mercado de semiconductores y la inteligencia artificial, un sector con proyecciones de expansión meteóricas. El éxito de esta salida a bolsa no solo impulsaría la valoración de Alibaba, sino que también enviaría una señal potente sobre la capacidad de innovación china en un mercado dominado por actores occidentales, redefiniendo el panorama competitivo global de la industria de los chips.</p>"
   }
 ]
